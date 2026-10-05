@@ -9,7 +9,10 @@
     "language": "Go",
     "youtube": "https://youtube.com/shorts/7F0yyhqZGRE",
     "instagram": "https://www.instagram.com/reel/DeHr45rknWL/",
-    "featuredAt": "2026-10-05T16:54:32.135Z"
+    "featuredAt": "2026-10-05T16:54:32.135Z",
+    "slug": "jesseduffield-lazygit",
+    "hook": "Git, but you'll actually enjoy it",
+    "pitch": "A terminal UI that lets you stage single lines with a space bar press and run interactive rebases in a few keystrokes. It shows branches, commits, and changes at a glance so you stop memorizing git commands."
   },
   {
     "repo": "Momoyeyu/landable",
@@ -21,7 +24,10 @@
     "language": "Python",
     "youtube": "https://youtube.com/shorts/WWE_HclPxv8",
     "instagram": "https://www.instagram.com/reel/DeHkJw2AGPp/",
-    "featuredAt": "2026-10-05T15:41:20.845Z"
+    "featuredAt": "2026-10-05T15:41:20.845Z",
+    "slug": "momoyeyu-landable",
+    "hook": "Land your PRs automatically",
+    "pitch": "landable scouts GitHub Trending repos in your star range, ranks issues where outsiders get merged, and verifies the fix lives in the target repo. You only pick an issue and approve the final patch, letting the agent handle the rest. 🚀"
   },
   {
     "repo": "u84u/photu",
@@ -33,6 +39,9 @@
     "language": "TypeScript",
     "youtube": "https://youtube.com/shorts/s78AzuYJZh4",
     "instagram": "https://www.instagram.com/reel/DeHsPLxjwPf/",
-    "featuredAt": "2026-10-05T16:57:34.465Z"
+    "featuredAt": "2026-10-05T16:57:34.465Z",
+    "slug": "u84u-photu",
+    "hook": "Fast image pipelines from your shell.",
+    "pitch": "Build batch image pipelines right in your terminal. One pipe can read files or URLs, resize, sharpen and write as WebP, all in a single libvips pass that stays low on memory. Try the TypeScript-based CLI today."
   }
 ]

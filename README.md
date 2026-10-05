@@ -3,6 +3,7 @@
 Every day, developers build amazing things that nobody sees. We find the best open-source projects,
 turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) and
 [Instagram](https://www.instagram.com/cherrypicked.dev/), and always credit the person or team who built it.
+Browse them all on **[the website](https://cherrypickedhq.github.io)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
@@ -16,11 +17,13 @@ turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channe
 
 ## Were you featured? Add the badge
 
-[![Featured on Cherrypicked](https://img.shields.io/badge/Featured%20on-Cherrypicked-e11d48)](https://github.com/cherrypickedhq/featured)
+[![Featured on Cherrypicked](https://cherrypickedhq.github.io/badge.svg)](https://cherrypickedhq.github.io)
 
 ```markdown
-[![Featured on Cherrypicked](https://img.shields.io/badge/Featured%20on-Cherrypicked-e11d48)](https://github.com/cherrypickedhq/featured)
+[![Featured on Cherrypicked](https://cherrypickedhq.github.io/badge.svg)](https://cherrypickedhq.github.io)
 ```
+
+Your repo's page on the website has a badge that links straight to it.
 
 ---
 <sub>This list updates itself whenever a new reel is published.</sub>
