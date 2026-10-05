@@ -1,3 +1,26 @@
 # 🍒 Cherrypicked: featured repos
 
-The list is being generated.
+Every day, developers build amazing things that nobody sees. We find the best open-source projects,
+turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) and
+[Instagram](https://www.instagram.com/cherrypicked.dev/), and always credit the person or team who built it.
+
+**[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
+
+## Featured (3)
+
+| Repo | What it is | Built by | Watch | Featured |
+|---|---|---|---|---|
+| [**u84u/photu**](https://github.com/u84u/photu)<br><sub>★ 4 · TypeScript</sub> | a shell-pipe language for image manipulation, built on libvips | [Shekhar Parmar](https://github.com/u84u) | [Short](https://youtube.com/shorts/s78AzuYJZh4) · [Reel](https://www.instagram.com/reel/DeHsPLxjwPf/) | 2026-10-05 |
+| [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit)<br><sub>★ 83k · Go</sub> | simple terminal UI for git commands | [Jesse Duffield](https://github.com/jesseduffield) | [Short](https://youtube.com/shorts/7F0yyhqZGRE) · [Reel](https://www.instagram.com/reel/DeHr45rknWL/) | 2026-10-05 |
+| [**Momoyeyu/landable**](https://github.com/Momoyeyu/landable)<br><sub>★ 5 · Python</sub> | An agent skill that finds open-source issues where your PR can actually land — interest-driven scouting, acceptance evidence, tested patche… | [Momoyeyu](https://github.com/Momoyeyu) | [Short](https://youtube.com/shorts/WWE_HclPxv8) · [Reel](https://www.instagram.com/reel/DeHkJw2AGPp/) | 2026-10-05 |
+
+## Were you featured? Add the badge
+
+[![Featured on Cherrypicked](https://img.shields.io/badge/Featured%20on-Cherrypicked-e11d48)](https://github.com/cherrypickedhq/featured)
+
+```markdown
+[![Featured on Cherrypicked](https://img.shields.io/badge/Featured%20on-Cherrypicked-e11d48)](https://github.com/cherrypickedhq/featured)
+```
+
+---
+<sub>This list updates itself whenever a new reel is published.</sub>

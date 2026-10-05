@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "repo": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "builder": "Jesse Duffield",
+    "builderUrl": "https://github.com/jesseduffield",
+    "stars": 82889,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/7F0yyhqZGRE",
+    "instagram": "https://www.instagram.com/reel/DeHr45rknWL/",
+    "featuredAt": "2026-10-05T16:54:32.135Z"
+  },
+  {
+    "repo": "Momoyeyu/landable",
+    "url": "https://github.com/Momoyeyu/landable",
+    "about": "An agent skill that finds open-source issues where your PR can actually land — interest-driven scouting, acceptance evidence, tested patches, with human gates on what to pursue and what to publish",
+    "builder": "Momoyeyu",
+    "builderUrl": "https://github.com/Momoyeyu",
+    "stars": 5,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/WWE_HclPxv8",
+    "instagram": "https://www.instagram.com/reel/DeHkJw2AGPp/",
+    "featuredAt": "2026-10-05T15:41:20.845Z"
+  },
+  {
+    "repo": "u84u/photu",
+    "url": "https://github.com/u84u/photu",
+    "about": "a shell-pipe language for image manipulation, built on libvips",
+    "builder": "Shekhar Parmar",
+    "builderUrl": "https://github.com/u84u",
+    "stars": 4,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/s78AzuYJZh4",
+    "instagram": "https://www.instagram.com/reel/DeHsPLxjwPf/",
+    "featuredAt": "2026-10-05T16:57:34.465Z"
+  }
+]
