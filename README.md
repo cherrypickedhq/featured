@@ -3,7 +3,7 @@
 Every day, developers build amazing things that nobody sees. We find the best open-source projects,
 turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) and
 [Instagram](https://www.instagram.com/cherrypicked.dev/), and always credit the person or team who built it.
-Browse them all on **[the website](https://cherrypickedhq.github.io)**.
+Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
@@ -17,10 +17,10 @@ Browse them all on **[the website](https://cherrypickedhq.github.io)**.
 
 ## Were you featured? Add the badge
 
-[![Featured on Cherrypicked](https://cherrypickedhq.github.io/badge.svg)](https://cherrypickedhq.github.io)
+[![Featured on Cherrypicked](https://cherrypickedhq.github.io/featured/badge.svg)](https://cherrypickedhq.github.io/featured)
 
 ```markdown
-[![Featured on Cherrypicked](https://cherrypickedhq.github.io/badge.svg)](https://cherrypickedhq.github.io)
+[![Featured on Cherrypicked](https://cherrypickedhq.github.io/featured/badge.svg)](https://cherrypickedhq.github.io/featured)
 ```
 
 Your repo's page on the website has a badge that links straight to it.
