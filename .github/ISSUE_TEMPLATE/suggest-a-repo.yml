@@ -28,8 +28,8 @@ body:
     attributes:
       label: Who built it?
       options:
-        - I built it (or I'm on the team)
-        - Someone else: I'm just a fan
+        - "I built it (or I'm on the team)"
+        - "Someone else built it, I'm a fan"
     validations:
       required: true
   - type: checkboxes
@@ -37,7 +37,7 @@ body:
     attributes:
       label: Before you submit
       options:
-        - label: It's open source, public, and actually works.
+        - label: "It's open source, public, and actually works."
           required: true
-        - label: The README explains what it does (we make the reel from it).
+        - label: "The README explains what it does."
           required: true
