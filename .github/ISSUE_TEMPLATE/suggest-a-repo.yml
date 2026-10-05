@@ -1,0 +1,43 @@
+name: 💡 Suggest a repo
+description: An open-source project that deserves a Cherrypicked reel (yours or someone else's).
+title: "Suggest: owner/repo"
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting! We read every suggestion and pick projects for reels by hand.
+        Each repo is featured once; check the [list](https://github.com/cherrypickedhq/featured#featured) first.
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repo
+      description: The link to the repository.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What does it do, and why is it cool?
+      description: A sentence or two is plenty.
+    validations:
+      required: true
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Who built it?
+      options:
+        - I built it (or I'm on the team)
+        - Someone else: I'm just a fan
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: It's open source, public, and actually works.
+          required: true
+        - label: The README explains what it does (we make the reel from it).
+          required: true
