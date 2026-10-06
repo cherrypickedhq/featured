@@ -48,9 +48,9 @@
       <p><a href="https://cherrypickedhq.github.io/featured/r/gvclab-personalive/"><img src="/featured/badge.svg" alt="Featured on Cherrypicked" width="160" height="20"></a></p>
       <div class="code">
         <pre><code>[![Featured on Cherrypicked](https://cherrypickedhq.github.io/featured/badge.svg)](https://cherrypickedhq.github.io/featured/r/gvclab-personalive/)</code></pre>
-        <button class="copy" type="button" aria-live="polite" hidden>Copy</button>
+        <button class="copy" type="button" title="Copy" aria-label="Copy the badge code" hidden><svg class="i-copy" viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg><svg class="i-done" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg><span class="label" aria-live="polite">Copy</span></button>
       </div>
-      <script>(function () { var b = document.querySelector(".copy"); if (!b || !navigator.clipboard) return; b.hidden = false; b.addEventListener("click", function () { navigator.clipboard.writeText(document.querySelector(".badge code").textContent).then(function () { b.textContent = "Copied ✓"; b.classList.add("done"); setTimeout(function () { b.textContent = "Copy"; b.classList.remove("done"); }, 1800); }); }); })();</script>
+      <script>(function () { var b = document.querySelector(".copy"); if (!b || !navigator.clipboard) return; var l = b.querySelector(".label"), t; b.hidden = false; b.addEventListener("click", function () { navigator.clipboard.writeText(document.querySelector(".badge code").textContent).then(function () { clearTimeout(t); b.classList.add("done"); l.textContent = "Copied"; b.title = "Copied"; t = setTimeout(function () { b.classList.remove("done"); l.textContent = "Copy"; b.title = "Copy"; }, 1800); }); }); })();</script>
     </section>
   </article>
 </main>
