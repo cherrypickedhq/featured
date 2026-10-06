@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (4)
+## Featured (5)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**junegunn/fzf**](https://github.com/junegunn/fzf)<br><sub>★ 83k · Go</sub> | :cherry_blossom: A command-line fuzzy finder | [Junegunn Choi](https://github.com/junegunn) | [Short](https://youtube.com/shorts/18Lg50tMbyA) · [Reel](https://www.instagram.com/reel/DeJhN_rDzGZ/) | 2026-10-06 |
 | [**GVCLab/PersonaLive**](https://github.com/GVCLab/PersonaLive)<br><sub>★ 3.9k · Python</sub> | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | [GVC Lab @ Great Bay University team](https://github.com/GVCLab) | [Short](https://youtube.com/shorts/rQt3EaxrJP8) · [Reel](https://www.instagram.com/reel/DeJUWq6iO0Y/) | 2026-10-06 |
 | [**u84u/photu**](https://github.com/u84u/photu)<br><sub>★ 4 · TypeScript</sub> | a shell-pipe language for image manipulation, built on libvips | [Shekhar Parmar](https://github.com/u84u) | [Short](https://youtube.com/shorts/s78AzuYJZh4) · [Reel](https://www.instagram.com/reel/DeHsPLxjwPf/) | 2026-10-05 |
 | [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit)<br><sub>★ 83k · Go</sub> | simple terminal UI for git commands | [Jesse Duffield](https://github.com/jesseduffield) | [Short](https://youtube.com/shorts/7F0yyhqZGRE) · [Reel](https://www.instagram.com/reel/DeHr45rknWL/) | 2026-10-05 |

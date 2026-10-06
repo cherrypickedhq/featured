@@ -58,5 +58,20 @@
     "slug": "gvclab-personalive",
     "hook": "Live portrait animation, pure magic",
     "pitch": "PersonaLive lets you generate infinite-length portrait videos on the fly using a real-time diffusion framework. Run offline inference with just one command and get up to 100 frames by default, all in Python."
+  },
+  {
+    "repo": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "about": ":cherry_blossom: A command-line fuzzy finder",
+    "builder": "Junegunn Choi",
+    "builderUrl": "https://github.com/junegunn",
+    "stars": 83384,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/18Lg50tMbyA",
+    "instagram": "https://www.instagram.com/reel/DeJhN_rDzGZ/",
+    "featuredAt": "2026-10-06T09:59:46.878Z",
+    "slug": "junegunn-fzf",
+    "hook": "Fuzzy finder that feels like magic",
+    "pitch": "A single-binary fuzzy finder that scans millions of items in milliseconds. It ships with ready-to-use integrations for Bash, Zsh, Fish, Vim and Neovim, so you can add fuzzy search to any script or editor instantly."
   }
 ]
