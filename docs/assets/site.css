@@ -8,7 +8,7 @@
   color-scheme: dark;
 }
 /* Film-poster type: self-hosted Bebas Neue (SIL OFL 1.1). */
-@font-face { font-family: "Bebas Neue"; src: url("fonts/bebas-neue-400.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Bebas Neue"; src: url("fonts/bebas-neue-400.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.6 var(--font); }
