@@ -39,13 +39,14 @@ img { display: block; max-width: 100%; height: auto; }
 .hero-inner { display: grid; justify-items: center; position: relative; z-index: 1; }
 /* Builder avatars drifting behind the title: faint until hovered. */
 .floaters { position: absolute; inset: 0; z-index: 0; pointer-events: none; --s: 84px; --k: 1; }
-.floater { position: absolute; left: var(--x); top: var(--y); width: calc(var(--s) * var(--k)); height: calc(var(--s) * var(--k)); translate: -50% -50%;
+.floater { position: absolute; left: var(--x); top: var(--y); width: 0; height: 0; will-change: transform; }
+.tile { position: absolute; display: block; width: calc(var(--s) * var(--k)); height: calc(var(--s) * var(--k)); translate: -50% -50%; rotate: var(--r, 0deg);
   border-radius: 22%; overflow: hidden; opacity: .2; filter: saturate(.6); pointer-events: auto; border: 1px solid rgb(255 255 255 / .2);
   box-shadow: 0 10px 30px rgb(0 0 0 / .45); animation: bob var(--d) ease-in-out var(--delay) infinite alternate, floatin 2.4s ease-out backwards;
   transition: opacity .35s ease, filter .35s ease, scale .35s ease; }
-.floater img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.floater:hover { opacity: .95; filter: none; scale: 1.12; }
-@keyframes bob { from { transform: translateY(-14px); } to { transform: translateY(14px); } }
+.tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.floater:hover .tile { opacity: .95; filter: none; scale: 1.12; }
+@keyframes bob { from { translate: -50% calc(-50% - 14px); } to { translate: -50% calc(-50% + 14px); } }
 @keyframes floatin { from { opacity: 0; } }
 .hero h1 { font-family: var(--display); font-weight: 400; text-transform: uppercase; font-size: clamp(3.6rem, 11vw, 9.5rem); line-height: .9; letter-spacing: .01em; margin: 0 0 36px; max-width: 12ch; text-wrap: balance; }
 .hero h1 em { font-style: normal; color: var(--cherry); display: block; }
@@ -130,4 +131,4 @@ img { display: block; max-width: 100%; height: auto; }
   .copy .label { position: static; width: auto; height: auto; overflow: visible; clip-path: none; }
   .copy:active { transform: scale(.98); }
 }
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; } .beam, .wave, .grain, .hero-inner > *, .copy svg, .floater { animation: none !important; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } .beam, .wave, .grain, .hero-inner > *, .copy svg, .tile { animation: none !important; } }
