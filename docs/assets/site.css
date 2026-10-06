@@ -34,7 +34,8 @@ img { display: block; max-width: 100%; height: auto; }
 @keyframes grain { 0%, 100% { transform: translate(0, 0); } 20% { transform: translate(-4%, 3%); } 40% { transform: translate(3%, -4%); } 60% { transform: translate(-3%, -2%); } 80% { transform: translate(4%, 4%); } }
 
 /* Hero: the poster title, centred. */
-.hero { min-height: min(92vh, 880px); display: grid; place-items: center; text-align: center; padding: 96px 0; }
+/* At least a full screen (lvh: also while a phone's address bar shows), so "Featured" only appears on scroll. */
+.hero { min-height: 100vh; min-height: 100lvh; box-sizing: border-box; display: grid; place-items: center; text-align: center; padding: 96px 0; }
 .hero-inner { display: grid; justify-items: center; }
 .hero h1 { font-family: var(--display); font-weight: 400; text-transform: uppercase; font-size: clamp(3.6rem, 11vw, 9.5rem); line-height: .9; letter-spacing: .01em; margin: 0 0 36px; max-width: 12ch; text-wrap: balance; }
 .hero h1 em { font-style: normal; color: var(--cherry); display: block; }
@@ -50,7 +51,7 @@ img { display: block; max-width: 100%; height: auto; }
 @keyframes fadein { from { opacity: 0; } }
 
 /* Featured grid, on the same screen. */
-.section-title { font-family: var(--display); font-weight: 400; font-size: clamp(2.4rem, 5vw, 3.6rem); letter-spacing: .02em; line-height: 1; margin: 24px 0 24px; text-align: center; }
+.section-title { font-family: var(--display); font-weight: 400; font-size: clamp(2.4rem, 5vw, 3.6rem); letter-spacing: .02em; line-height: 1; margin: 56px 0 28px; text-align: center; }
 .grid { list-style: none; padding: 0; margin: 0 0 96px; display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
 .card a { display: block; height: 100%; text-decoration: none; background: var(--surface); backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); transition: transform .2s ease, border-color .2s ease, background .2s ease; }
 .card a:hover { transform: translateY(-3px); border-color: rgb(225 29 72 / .55); background: var(--surface-hover); }
@@ -92,7 +93,7 @@ img { display: block; max-width: 100%; height: auto; }
   filter: drop-shadow(0 10px 30px rgb(225 29 72 / .3)); }
 
 @media (max-width: 760px) {
-  .hero { min-height: 86vh; padding: 72px 0; }
+  .hero { padding: 72px 0; }
   .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
   .card-body { padding: 10px 12px 12px; }
   .card h3 { font-size: .95rem; }
