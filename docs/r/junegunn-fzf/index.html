@@ -16,6 +16,7 @@
 <meta property="og:image" content="https://cherrypickedhq.github.io/featured/posters/junegunn-fzf.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://cherrypickedhq.github.io/featured/posters/junegunn-fzf.jpg">
+<link rel="preload" href="/featured/assets/fonts/bebas-neue-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/featured/assets/site.css">
 </head>
 <body>
@@ -23,10 +24,11 @@
 <div class="screen" aria-hidden="true"><div class="beam"></div><div class="wave w1"></div><div class="wave w2"></div><div class="grain"></div></div>
 <header class="bar"><div class="wrap"><a class="back" href="/featured/">← All featured repos</a></div></header>
 <main id="main" class="wrap repo">
-  <div class="player"><iframe src="https://www.youtube-nocookie.com/embed/18Lg50tMbyA" title="junegunn/fzf on YouTube" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <a class="player yt" href="https://youtube.com/shorts/18Lg50tMbyA" data-yt="18Lg50tMbyA" aria-label="Play the junegunn/fzf reel"><img src="/featured/posters/junegunn-fzf.jpg" alt="junegunn/fzf reel" width="540" height="960" fetchpriority="high"><span class="play" aria-hidden="true"></span></a>
+  <script>document.querySelector(".yt").addEventListener("click", function (ev) { ev.preventDefault(); var f = document.createElement("iframe"); f.src = "https://www.youtube-nocookie.com/embed/" + this.dataset.yt + "?autoplay=1&playsinline=1"; f.title = this.getAttribute("aria-label"); f.allow = "autoplay; encrypted-media; picture-in-picture"; f.allowFullscreen = true; var d = document.createElement("div"); d.className = "player"; d.appendChild(f); this.replaceWith(d); });</script>
   <article class="info">
     <p class="kicker">Featured 6 October 2026</p>
-    <h1><span class="owner">junegunn/</span>fzf</h1>
+    <h1><span class="owner">junegunn/</span><wbr>fzf</h1>
     <p class="hook">Fuzzy finder that feels like magic</p>
     <p>A single-binary fuzzy finder that scans millions of items in milliseconds. It ships with ready-to-use integrations for Bash, Zsh, Fish, Vim and Neovim, so you can add fuzzy search to any script or editor instantly.</p>
     <dl class="facts">
