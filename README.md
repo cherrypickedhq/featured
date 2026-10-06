@@ -1,8 +1,8 @@
 # 🍒 Cherrypicked: featured repos
 
 Every day, developers build amazing things that nobody sees. We find the best open-source projects,
-turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) and
-[Instagram](https://www.instagram.com/cherrypicked.dev/), and always credit the person or team who built it.
+turn each one into a ~30-second reel on [YouTube](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw), [Instagram](https://www.instagram.com/cherrypicked.dev/),
+[X](https://x.com/cherrypickedhq) and [Reddit](https://www.reddit.com/r/cherrypickedhq/), and always credit the person or team who built it.
 Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
