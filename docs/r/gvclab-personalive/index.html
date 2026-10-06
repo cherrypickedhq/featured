@@ -46,7 +46,11 @@
     <section class="badge" aria-labelledby="badge-h">
       <h2 id="badge-h">Built this? Add the badge</h2>
       <p><a href="https://cherrypickedhq.github.io/featured/r/gvclab-personalive/"><img src="/featured/badge.svg" alt="Featured on Cherrypicked" width="160" height="20"></a></p>
-      <pre><code>[![Featured on Cherrypicked](https://cherrypickedhq.github.io/featured/badge.svg)](https://cherrypickedhq.github.io/featured/r/gvclab-personalive/)</code></pre>
+      <div class="code">
+        <pre><code>[![Featured on Cherrypicked](https://cherrypickedhq.github.io/featured/badge.svg)](https://cherrypickedhq.github.io/featured/r/gvclab-personalive/)</code></pre>
+        <button class="copy" type="button" aria-live="polite" hidden>Copy</button>
+      </div>
+      <script>(function () { var b = document.querySelector(".copy"); if (!b || !navigator.clipboard) return; b.hidden = false; b.addEventListener("click", function () { navigator.clipboard.writeText(document.querySelector(".badge code").textContent).then(function () { b.textContent = "Copied ✓"; b.classList.add("done"); setTimeout(function () { b.textContent = "Copy"; b.classList.remove("done"); }, 1800); }); }); })();</script>
     </section>
   </article>
 </main>

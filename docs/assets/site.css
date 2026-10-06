@@ -79,7 +79,10 @@ img { display: block; max-width: 100%; height: auto; }
 .facts div { min-width: 0; } .facts dt { color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; } .facts dd { margin: 2px 0 0; font-weight: 600; }
 .badge { margin-top: 40px; padding: 20px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface); }
 .badge h2 { margin: 0 0 12px; font-size: 1rem; }
-.badge pre { margin: 12px 0 0; padding: 12px; background: rgb(0 0 0 / .35); border: 1px solid var(--line); border-radius: 10px; overflow-x: auto; font: .8rem/1.5 var(--mono); }
+.code { position: relative; margin-top: 12px; }
+.copy { position: absolute; top: 7px; right: 7px; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: #1c1918; color: var(--text); font-family: inherit; font-size: .8rem; font-weight: 600; line-height: 1; cursor: pointer; transition: background .2s ease, color .2s ease; }
+.copy:hover { background: #2a2524; } .copy.done { background: var(--cherry); border-color: var(--cherry); color: #fff; }
+.badge pre { margin: 0; padding: 12px 92px 12px 12px; background: rgb(0 0 0 / .35); border: 1px solid var(--line); border-radius: 10px; overflow-x: auto; font: .8rem/1.5 var(--mono); }
 .empty { min-height: 60vh; display: grid; place-content: center; text-align: center; } .empty h1 { font-family: var(--display); font-weight: 400; font-size: clamp(3rem, 8vw, 6rem); letter-spacing: .01em; margin: 0 0 16px; }
 
 /* Footer: a frosted-glass slab over the screen, the wordmark big in glass lettering, like the end card. */
