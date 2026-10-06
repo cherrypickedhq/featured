@@ -26,6 +26,3 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 ```
 
 Your repo's page on the website has a badge that links straight to it.
-
----
-<sub>This list updates itself whenever a new reel is published.</sub>
