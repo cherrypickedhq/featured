@@ -73,5 +73,20 @@
     "slug": "junegunn-fzf",
     "hook": "Fuzzy finder that feels like magic",
     "pitch": "A single-binary fuzzy finder that scans millions of items in milliseconds. It ships with ready-to-use integrations for Bash, Zsh, Fish, Vim and Neovim, so you can add fuzzy search to any script or editor instantly."
+  },
+  {
+    "repo": "jqlang/jq",
+    "url": "https://github.com/jqlang/jq",
+    "about": "Command-line JSON processor",
+    "builder": "jqlang team",
+    "builderUrl": "https://github.com/jqlang",
+    "stars": 35743,
+    "language": "C",
+    "youtube": "https://youtube.com/shorts/JbLTlzlqsKU",
+    "instagram": "https://www.instagram.com/reel/DeJ6ckYiNhu/",
+    "featuredAt": "2026-10-06T13:40:10.196Z",
+    "slug": "jqlang-jq",
+    "hook": "Like sed, but for JSON",
+    "pitch": "A tiny C-based CLI lets you slice, filter and transform JSON right from your shell. Grab a single field from a massive file with one short filter, and use prebuilt standalone binaries with zero runtime dependencies. 🚀"
   }
 ]
