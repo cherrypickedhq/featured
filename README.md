@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (3)
+## Featured (4)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**GVCLab/PersonaLive**](https://github.com/GVCLab/PersonaLive)<br><sub>★ 3.9k · Python</sub> | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | [GVC Lab @ Great Bay University team](https://github.com/GVCLab) | [Short](https://youtube.com/shorts/rQt3EaxrJP8) · [Reel](https://www.instagram.com/reel/DeJUWq6iO0Y/) | 2026-10-06 |
 | [**u84u/photu**](https://github.com/u84u/photu)<br><sub>★ 4 · TypeScript</sub> | a shell-pipe language for image manipulation, built on libvips | [Shekhar Parmar](https://github.com/u84u) | [Short](https://youtube.com/shorts/s78AzuYJZh4) · [Reel](https://www.instagram.com/reel/DeHsPLxjwPf/) | 2026-10-05 |
 | [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit)<br><sub>★ 83k · Go</sub> | simple terminal UI for git commands | [Jesse Duffield](https://github.com/jesseduffield) | [Short](https://youtube.com/shorts/7F0yyhqZGRE) · [Reel](https://www.instagram.com/reel/DeHr45rknWL/) | 2026-10-05 |
 | [**Momoyeyu/landable**](https://github.com/Momoyeyu/landable)<br><sub>★ 5 · Python</sub> | An agent skill that finds open-source issues where your PR can actually land — interest-driven scouting, acceptance evidence, tested patche… | [Momoyeyu](https://github.com/Momoyeyu) | [Short](https://youtube.com/shorts/WWE_HclPxv8) · [Reel](https://www.instagram.com/reel/DeHkJw2AGPp/) | 2026-10-05 |

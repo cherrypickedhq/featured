@@ -43,5 +43,20 @@
     "slug": "u84u-photu",
     "hook": "Fast image pipelines from your shell.",
     "pitch": "Build batch image pipelines right in your terminal. One pipe can read files or URLs, resize, sharpen and write as WebP, all in a single libvips pass that stays low on memory. Try the TypeScript-based CLI today."
+  },
+  {
+    "repo": "GVCLab/PersonaLive",
+    "url": "https://github.com/GVCLab/PersonaLive",
+    "about": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+    "builder": "GVC Lab @ Great Bay University team",
+    "builderUrl": "https://github.com/GVCLab",
+    "stars": 3920,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/rQt3EaxrJP8",
+    "instagram": "https://www.instagram.com/reel/DeJUWq6iO0Y/",
+    "featuredAt": "2026-10-06T08:07:19.819Z",
+    "slug": "gvclab-personalive",
+    "hook": "Live portrait animation, pure magic",
+    "pitch": "PersonaLive lets you generate infinite-length portrait videos on the fly using a real-time diffusion framework. Run offline inference with just one command and get up to 100 frames by default, all in Python."
   }
 ]
