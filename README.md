@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (6)
+## Featured (7)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)<br><sub>★ 133k · TypeScript</sub> | Virtual whiteboard for sketching hand-drawn like diagrams | [Excalidraw team](https://github.com/excalidraw) | [Short](https://youtube.com/shorts/5CFxpEC52JI) | 2026-10-07 |
 | [**jqlang/jq**](https://github.com/jqlang/jq)<br><sub>★ 36k · C</sub> | Command-line JSON processor | [jqlang team](https://github.com/jqlang) | [Short](https://youtube.com/shorts/JbLTlzlqsKU) · [Reel](https://www.instagram.com/reel/DeJ6ckYiNhu/) | 2026-10-06 |
 | [**junegunn/fzf**](https://github.com/junegunn/fzf)<br><sub>★ 83k · Go</sub> | :cherry_blossom: A command-line fuzzy finder | [Junegunn Choi](https://github.com/junegunn) | [Short](https://youtube.com/shorts/18Lg50tMbyA) · [Reel](https://www.instagram.com/reel/DeJhN_rDzGZ/) | 2026-10-06 |
 | [**GVCLab/PersonaLive**](https://github.com/GVCLab/PersonaLive)<br><sub>★ 3.9k · Python</sub> | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | [GVC Lab @ Great Bay University team](https://github.com/GVCLab) | [Short](https://youtube.com/shorts/rQt3EaxrJP8) · [Reel](https://www.instagram.com/reel/DeJUWq6iO0Y/) | 2026-10-06 |

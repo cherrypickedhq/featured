@@ -88,5 +88,19 @@
     "slug": "jqlang-jq",
     "hook": "Like sed, but for JSON",
     "pitch": "A tiny C-based CLI lets you slice, filter and transform JSON right from your shell. Grab a single field from a massive file with one short filter, and use prebuilt standalone binaries with zero runtime dependencies. 🚀"
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "about": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "builder": "Excalidraw team",
+    "builderUrl": "https://github.com/excalidraw",
+    "stars": 133492,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/5CFxpEC52JI",
+    "featuredAt": "2026-10-07T08:15:29.266Z",
+    "slug": "excalidraw-excalidraw",
+    "hook": "Diagrams that look hand-drawn",
+    "pitch": "A browser-based infinite canvas that draws diagrams in a hand-sketched style. It supports real-time collaboration with end-to-end encryption and works offline as a PWA, all written in TypeScript."
   }
 ]
