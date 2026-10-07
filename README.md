@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (7)
+## Featured (8)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**localsend/localsend**](https://github.com/localsend/localsend)<br><sub>★ 93k · Dart</sub> | An open-source cross-platform alternative to AirDrop | [LocalSend team](https://github.com/localsend) | [Short](https://youtube.com/shorts/ZYaW95aaMMc) · [Reel](https://www.instagram.com/reel/DeNNldUFPPT/) | 2026-10-07 |
 | [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)<br><sub>★ 133k · TypeScript</sub> | Virtual whiteboard for sketching hand-drawn like diagrams | [Excalidraw team](https://github.com/excalidraw) | [Short](https://youtube.com/shorts/5CFxpEC52JI) · [Reel](https://www.instagram.com/reel/DeNMah7gplw/) | 2026-10-07 |
 | [**jqlang/jq**](https://github.com/jqlang/jq)<br><sub>★ 36k · C</sub> | Command-line JSON processor | [jqlang team](https://github.com/jqlang) | [Short](https://youtube.com/shorts/JbLTlzlqsKU) · [Reel](https://www.instagram.com/reel/DeJ6ckYiNhu/) | 2026-10-06 |
 | [**junegunn/fzf**](https://github.com/junegunn/fzf)<br><sub>★ 83k · Go</sub> | :cherry_blossom: A command-line fuzzy finder | [Junegunn Choi](https://github.com/junegunn) | [Short](https://youtube.com/shorts/18Lg50tMbyA) · [Reel](https://www.instagram.com/reel/DeJhN_rDzGZ/) | 2026-10-06 |

@@ -103,5 +103,20 @@
     "slug": "excalidraw-excalidraw",
     "hook": "Diagrams that look hand-drawn",
     "pitch": "A browser-based infinite canvas that draws diagrams in a hand-sketched style. It supports real-time collaboration with end-to-end encryption and works offline as a PWA, all written in TypeScript."
+  },
+  {
+    "repo": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "about": "An open-source cross-platform alternative to AirDrop",
+    "builder": "LocalSend team",
+    "builderUrl": "https://github.com/localsend",
+    "stars": 93346,
+    "language": "Dart",
+    "youtube": "https://youtube.com/shorts/ZYaW95aaMMc",
+    "instagram": "https://www.instagram.com/reel/DeNNldUFPPT/",
+    "featuredAt": "2026-10-07T20:25:06.685Z",
+    "slug": "localsend-localsend",
+    "hook": "AirDrop for every device",
+    "pitch": "LocalSend lets you share files and messages over your local network without any internet or third-party servers. It works on iPhone, Android, Windows, macOS and encrypts every transfer with HTTPS. Just open the app and start sending."
   }
 ]
