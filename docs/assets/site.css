@@ -38,7 +38,9 @@ img { display: block; max-width: 100%; height: auto; }
 .hero { min-height: 100vh; min-height: 100lvh; box-sizing: border-box; display: grid; place-items: center; text-align: center; padding: 96px 0; position: relative; overflow: hidden; isolation: isolate; }
 .hero-inner { display: grid; justify-items: center; position: relative; z-index: 1; }
 /* Builder avatars drifting behind the title: faint until hovered. */
-.floaters { position: absolute; inset: 0; z-index: 0; pointer-events: none; --s: 84px; --k: 1; }
+/* Soft bottom edge: tiles drifting down on scroll fade out instead of being cut by the hero's edge. */
+.floaters { position: absolute; inset: 0; z-index: 0; pointer-events: none; --s: 84px; --k: 1; --fade: 220px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - var(--fade)), transparent); mask-image: linear-gradient(to bottom, #000 calc(100% - var(--fade)), transparent); }
 .floater { position: absolute; left: var(--x); top: var(--y); width: 0; height: 0; will-change: transform; }
 .tile { position: absolute; display: block; width: calc(var(--s) * var(--k)); height: calc(var(--s) * var(--k)); translate: -50% -50%; rotate: var(--r, 0deg);
   border-radius: 22%; overflow: hidden; opacity: .2; filter: saturate(.6); pointer-events: auto; border: 1px solid rgb(255 255 255 / .2);
@@ -50,8 +52,12 @@ img { display: block; max-width: 100%; height: auto; }
 @keyframes floatin { from { opacity: 0; } }
 .hero h1 { font-family: var(--display); font-weight: 400; text-transform: uppercase; font-size: clamp(3.6rem, 11vw, 9.5rem); line-height: .9; letter-spacing: .01em; margin: 0 0 36px; max-width: 12ch; text-wrap: balance; }
 .hero h1 em { font-style: normal; color: var(--cherry); display: block; }
-.actions { display: flex; flex-wrap: wrap; gap: 10px; }
-.hero .actions { justify-content: center; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.hero .actions { justify-content: center; align-items: center; gap: 16px; }
+.icon-btn { display: inline-grid; place-items: center; width: 52px; height: 52px; border-radius: 50%; border: 1px solid rgb(255 255 255 / .22); color: rgb(255 255 255 / .82); transition: color .15s ease, border-color .15s ease, transform .15s ease; }
+.icon-btn svg { width: 23px; height: 23px; fill: currentColor; }
+.icon-btn:hover { color: #fff; border-color: #fb7185; transform: translateY(-1px); }
+.icon-btn:active { transform: translateY(1px); }
 .btn { display: inline-flex; align-items: center; min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1px solid rgb(255 255 255 / .18); background: rgb(255 255 255 / .06); backdrop-filter: blur(8px); text-decoration: none; font-weight: 600; font-size: .95rem; transition: transform .15s ease, border-color .15s ease; }
 .btn:hover { border-color: #fb7185; }
 .btn:active { transform: translateY(1px); }
@@ -64,28 +70,33 @@ img { display: block; max-width: 100%; height: auto; }
 /* Featured grid, on the same screen. */
 .section-title { font-family: var(--display); font-weight: 400; font-size: clamp(2.4rem, 5vw, 3.6rem); letter-spacing: .02em; line-height: 1; margin: 56px 0 28px; text-align: center; }
 .grid { list-style: none; padding: 0; margin: 0 0 96px; display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
-.card a { display: block; height: 100%; text-decoration: none; background: var(--surface); backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); transition: transform .2s ease, border-color .2s ease, background .2s ease; }
+/* The text sits over the poster's lower part on a dark fade, so a card is only as tall as its (cropped) poster. */
+.card a { display: block; position: relative; height: 100%; text-decoration: none; background: var(--surface); backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); transition: transform .2s ease, border-color .2s ease, background .2s ease; }
 .card a:hover { transform: translateY(-3px); border-color: rgb(225 29 72 / .55); background: var(--surface-hover); }
-.card img { aspect-ratio: 9 / 16; width: 100%; object-fit: cover; background: #000; }
-.card-body { padding: 14px 16px 16px; }
+/* The cherry-picked seal, top right, slightly turned like a sticker. */
+.pick-badge { position: absolute; top: 10px; right: 10px; z-index: 1; width: 46px; height: 46px; rotate: 12deg; filter: drop-shadow(0 4px 10px rgb(0 0 0 / .5)); transition: rotate .3s ease, scale .3s ease; }
+.card a:hover .pick-badge { rotate: 0deg; scale: 1.08; }
+.card img { display: block; aspect-ratio: 2 / 3; width: 100%; object-fit: cover; object-position: top; background: #000; }
+.card-body { position: absolute; inset: auto 0 0; padding: 44px 16px 14px; background: linear-gradient(to bottom, transparent, rgb(8 6 10 / .93) 40px, rgb(8 6 10 / .97)); }
 .card h3 { margin: 0 0 6px; font-size: 1.05rem; letter-spacing: -.01em; overflow-wrap: break-word; }
-.card p { margin: 0; font-size: .92rem; color: var(--muted); }
-.card .meta { margin-top: 10px; font-size: .82rem; }
+.card p { margin: 0; font-size: .92rem; color: rgb(255 255 255 / .78); display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.card .meta { margin-top: 8px; font-size: .82rem; display: block; }
 .owner { color: var(--muted); font-weight: 500; }
 
 /* Repo pages. */
 .bar .wrap { display: flex; align-items: center; min-height: 64px; }
 .back { color: var(--muted); font-size: .95rem; text-decoration: none; display: inline-block; padding: 12px 0; } .back:hover { color: var(--text); }
-.repo { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: 48px; align-items: start; padding: 24px 0 72px; }
+/* At least a screen tall (less the back link), content centred in it, so the footer only shows on scroll. */
+.repo { display: grid; grid-template-columns: minmax(0, 400px) minmax(0, 1fr); gap: 80px; align-items: center; box-sizing: border-box; min-height: calc(100vh - 56px); min-height: calc(100svh - 56px); padding: 32px 0 120px; }
 .player { display: block; aspect-ratio: 9 / 16; border-radius: var(--radius); overflow: hidden; background: #000; box-shadow: var(--shadow); position: sticky; top: 24px; }
 .player iframe, .player img { width: 100%; height: 100%; border: 0; display: block; object-fit: cover; }
-.info h1 { font-size: clamp(1.8rem, 4vw, 2.8rem); line-height: 1.1; letter-spacing: -.025em; margin: 6px 0 10px; overflow-wrap: break-word; }
+.info h1 { font-size: clamp(1.9rem, 4.4vw, 3.2rem); line-height: 1.08; letter-spacing: -.025em; margin: 12px 0 16px; overflow-wrap: break-word; }
 .kicker { margin: 0; color: #fb7185; font-weight: 650; font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; }
-.hook { font-size: 1.3rem; font-weight: 600; margin: 0 0 12px; text-wrap: balance; }
-.info > p { max-width: 60ch; }
-.facts { display: flex; flex-wrap: wrap; gap: 12px 32px; margin: 24px 0; padding: 16px 0; border-block: 1px solid var(--line); }
+.hook { font-size: 1.35rem; font-weight: 600; margin: 0 0 20px; text-wrap: balance; }
+.info > p { max-width: 60ch; line-height: 1.7; }
+.facts { display: flex; flex-wrap: wrap; gap: 16px 44px; margin: 36px 0; padding: 22px 0; border-block: 1px solid var(--line); }
 .facts div { min-width: 0; } .facts dt { color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; } .facts dd { margin: 2px 0 0; font-weight: 600; }
-.badge { margin-top: 40px; padding: 20px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface); }
+.badge { margin-top: 56px; padding: 24px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface); }
 .badge h2 { margin: 0 0 12px; font-size: 1rem; }
 .code { position: relative; margin-top: 12px; }
 /* Copy: an icon in the code box on desktop; a full-width labelled bar under it on phones (see the media query). */
@@ -97,7 +108,7 @@ img { display: block; max-width: 100%; height: auto; }
 .copy:hover, .copy:focus-visible { color: var(--text); background: #2a2524; border-color: rgb(255 255 255 / .3); }
 .copy.done { color: #fff; background: var(--cherry); border-color: var(--cherry); }
 @keyframes pop { from { transform: scale(.5); opacity: 0; } }
-.badge pre { margin: 0; padding: 12px 50px 12px 12px; background: rgb(0 0 0 / .35); border: 1px solid var(--line); border-radius: 10px; overflow-x: auto; font: .8rem/1.5 var(--mono); }
+.badge pre { margin: 0; padding: 12px 50px 12px 12px; background: rgb(0 0 0 / .35); border: 1px solid var(--line); border-radius: 10px; white-space: pre-wrap; overflow-wrap: anywhere; font: .8rem/1.5 var(--mono); }
 .empty { min-height: 60vh; display: grid; place-content: center; text-align: center; } .empty h1 { font-family: var(--display); font-weight: 400; font-size: clamp(3rem, 8vw, 6rem); letter-spacing: .01em; margin: 0 0 16px; }
 
 /* Footer: a frosted-glass slab over the screen, the wordmark big in glass lettering, like the end card. */
@@ -113,16 +124,22 @@ img { display: block; max-width: 100%; height: auto; }
 @media (max-width: 760px) {
   .hero { padding: 72px 0; }
   .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-  .card-body { padding: 10px 12px 12px; }
+  .card-body { padding: 32px 10px 10px; background: linear-gradient(to bottom, transparent, rgb(8 6 10 / .94) 28px, rgb(8 6 10 / .97)); }
+  /* Too narrow for a description over the poster: name and stats only (the poster carries the hook). */
+  .card p:not(.meta) { display: none; }
+  .card .meta { margin-top: 4px; }
+  .pick-badge { top: 7px; right: 7px; width: 36px; height: 36px; }
   .card h3 { font-size: .95rem; }
   .card p { font-size: .85rem; }
   .card .meta { font-size: .75rem; }
   /* minmax(0, …): a bare 1fr column grows to the badge code's full line and widens the whole page. */
-  .repo { grid-template-columns: minmax(0, 1fr); gap: 28px; padding-top: 8px; }
-  .player { position: relative; top: 0; max-width: 360px; margin-inline: auto; width: 100%; }
   .foot { padding: 64px 0 48px; border-radius: 24px 24px 0 0; }
   .wordmark { font-size: 14vw; }
-  .floaters { --k: .66; }
+  .floaters { --k: .66; --fade: 140px; }
+  /* All six icons on one row, "Suggest a repo" under them. */
+  .hero .actions { gap: 12px; }
+  .icon-btn { width: 46px; height: 46px; }
+  .icon-btn svg { width: 21px; height: 21px; }
   .floater { left: var(--mx); top: var(--my); }
   .floater.desktop-only { display: none; }
   .badge pre { padding-right: 12px; }
@@ -130,5 +147,17 @@ img { display: block; max-width: 100%; height: auto; }
     background: rgb(225 29 72 / .14); border-color: rgb(225 29 72 / .5); color: #fff; font-size: .95rem; font-weight: 600; }
   .copy .label { position: static; width: auto; height: auto; overflow: visible; clip-path: none; }
   .copy:active { transform: scale(.98); }
+}
+/* Tablets and phones: reel pages stack (video, then details), since two columns leave the text too narrow. */
+@media (max-width: 960px) {
+  .repo { grid-template-columns: minmax(0, 1fr); gap: 40px; padding-top: 8px; padding-bottom: 96px; }
+  .player { position: relative; top: 0; max-width: 360px; margin-inline: auto; width: 100%; }
+  /* Reel pages: "View on GitHub" full width, the platform icons in one row under it. */
+  .repo .actions .btn.primary { flex-basis: 100%; justify-content: center; }
+}
+/* Small phones: the six hero icons still fit on one row. */
+@media (max-width: 380px) {
+  .hero .actions { gap: 8px; }
+  .icon-btn { width: 44px; height: 44px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } .beam, .wave, .grain, .hero-inner > *, .copy svg, .tile { animation: none !important; } }
