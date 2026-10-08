@@ -158,5 +158,21 @@
     "slug": "openhands-openhands",
     "hook": "AI dev team, right on your desk",
     "pitch": "OpenHands gives you a self-hosted control center that runs coding agents like Claude Code or its own OpenHands agent. Switch between local, Docker or cloud backends instantly, so your AI dev team is always on."
+  },
+  {
+    "repo": "he-yufeng/CoreCoder",
+    "url": "https://github.com/he-yufeng/CoreCoder",
+    "about": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+    "builder": "Yufeng He",
+    "builderUrl": "https://github.com/he-yufeng",
+    "stars": 1793,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/iovLJD0coeY",
+    "instagram": "https://www.instagram.com/reel/DePOh1GjX2O/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxeqpmlftm27",
+    "featuredAt": "2026-10-08T15:11:58.391Z",
+    "slug": "he-yufeng-corecoder",
+    "hook": "Tiny AI coding agent in a notebook",
+    "pitch": "A minimal Python AI coding agent that fits in a single notebook. The whole engine is just 1.3k lines, fully runnable with 215 green tests, so you can read, breakpoint, and extend it yourself."
   }
 ]
