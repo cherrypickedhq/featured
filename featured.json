@@ -142,5 +142,21 @@
     "slug": "charmbracelet-glow",
     "hook": "Markdown, but make it pretty",
     "pitch": "Glow lets you view markdown right in the CLI, complete with colors, headings, and code blocks. It even lets you wrap lines with the -w flag, so you can set any width you like."
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "about": "🙌 OpenHands: AI-Driven Development",
+    "builder": "OpenHands team",
+    "builderUrl": "https://github.com/OpenHands",
+    "stars": 90078,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/O21lYCZKyDU",
+    "instagram": "https://www.instagram.com/reel/DeOwQDJkjhB/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxebw74azj22",
+    "featuredAt": "2026-10-08T10:47:18.431Z",
+    "slug": "openhands-openhands",
+    "hook": "AI dev team, right on your desk",
+    "pitch": "OpenHands gives you a self-hosted control center that runs coding agents like Claude Code or its own OpenHands agent. Switch between local, Docker or cloud backends instantly, so your AI dev team is always on."
   }
 ]

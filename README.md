@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (9)
+## Featured (10)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands)<br><sub>★ 90k · TypeScript</sub> | 🙌 OpenHands: AI-Driven Development | [OpenHands team](https://github.com/OpenHands) | [Short](https://youtube.com/shorts/O21lYCZKyDU) · [Reel](https://www.instagram.com/reel/DeOwQDJkjhB/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxebw74azj22) | 2026-10-08 |
 | [**charmbracelet/glow**](https://github.com/charmbracelet/glow)<br><sub>★ 28k · Go</sub> | Render markdown on the CLI, with pizzazz! 💅🏻 | [Charm team](https://github.com/charmbracelet) | [Short](https://youtube.com/shorts/uIN5CJDKa7w) · [Reel](https://www.instagram.com/reel/DeOOTIGFSzy/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxdresyy342z) | 2026-10-08 |
 | [**localsend/localsend**](https://github.com/localsend/localsend)<br><sub>★ 93k · Dart</sub> | An open-source cross-platform alternative to AirDrop | [LocalSend team](https://github.com/localsend) | [Short](https://youtube.com/shorts/ZYaW95aaMMc) · [Reel](https://www.instagram.com/reel/DeNNldUFPPT/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxcupnfsan24) | 2026-10-07 |
 | [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)<br><sub>★ 133k · TypeScript</sub> | Virtual whiteboard for sketching hand-drawn like diagrams | [Excalidraw team](https://github.com/excalidraw) | [Short](https://youtube.com/shorts/5CFxpEC52JI) · [Reel](https://www.instagram.com/reel/DeNMah7gplw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxcuoqgyuj2w) | 2026-10-07 |
