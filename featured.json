@@ -126,5 +126,21 @@
     "slug": "localsend-localsend",
     "hook": "AirDrop for every device",
     "pitch": "LocalSend lets you share files and messages over your local network without any internet or third-party servers. It works on iPhone, Android, Windows, macOS and encrypts every transfer with HTTPS. Just open the app and start sending."
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "builder": "Charm team",
+    "builderUrl": "https://github.com/charmbracelet",
+    "stars": 27569,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/uIN5CJDKa7w",
+    "instagram": "https://www.instagram.com/reel/DeOOTIGFSzy/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxdresyy342z",
+    "featuredAt": "2026-10-08T05:50:20.870Z",
+    "slug": "charmbracelet-glow",
+    "hook": "Markdown, but make it pretty",
+    "pitch": "Glow lets you view markdown right in the CLI, complete with colors, headings, and code blocks. It even lets you wrap lines with the -w flag, so you can set any width you like."
   }
 ]

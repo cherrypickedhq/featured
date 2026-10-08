@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (8)
+## Featured (9)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**charmbracelet/glow**](https://github.com/charmbracelet/glow)<br><sub>★ 28k · Go</sub> | Render markdown on the CLI, with pizzazz! 💅🏻 | [Charm team](https://github.com/charmbracelet) | [Short](https://youtube.com/shorts/uIN5CJDKa7w) · [Reel](https://www.instagram.com/reel/DeOOTIGFSzy/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxdresyy342z) | 2026-10-08 |
 | [**localsend/localsend**](https://github.com/localsend/localsend)<br><sub>★ 93k · Dart</sub> | An open-source cross-platform alternative to AirDrop | [LocalSend team](https://github.com/localsend) | [Short](https://youtube.com/shorts/ZYaW95aaMMc) · [Reel](https://www.instagram.com/reel/DeNNldUFPPT/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxcupnfsan24) | 2026-10-07 |
 | [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)<br><sub>★ 133k · TypeScript</sub> | Virtual whiteboard for sketching hand-drawn like diagrams | [Excalidraw team](https://github.com/excalidraw) | [Short](https://youtube.com/shorts/5CFxpEC52JI) · [Reel](https://www.instagram.com/reel/DeNMah7gplw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxcuoqgyuj2w) | 2026-10-07 |
 | [**jqlang/jq**](https://github.com/jqlang/jq)<br><sub>★ 36k · C</sub> | Command-line JSON processor | [jqlang team](https://github.com/jqlang) | [Short](https://youtube.com/shorts/JbLTlzlqsKU) · [Reel](https://www.instagram.com/reel/DeJ6ckYiNhu/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxcunsqg4l2l) | 2026-10-06 |
