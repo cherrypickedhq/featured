@@ -206,5 +206,21 @@
     "slug": "rcourtman-pulse",
     "hook": "Never-sleeping dashboard for your stack",
     "pitch": "Pulse gives you real-time views of Proxmox, Docker, Kubernetes and TrueNAS, with smart alerts that spot silent failures. Run it in seconds with a single Docker command."
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "about": "JavaScript API for Chrome and Firefox",
+    "builder": "Puppeteer team",
+    "builderUrl": "https://github.com/puppeteer",
+    "stars": 95659,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/KkstPERd03s",
+    "instagram": "https://www.instagram.com/reel/DeR2GsBgmT9/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxhcjxjnh72h",
+    "featuredAt": "2026-10-09T15:36:17.156Z",
+    "slug": "puppeteer-puppeteer",
+    "hook": "Browser control, scripted instantly",
+    "pitch": "Control Chrome or Firefox from JavaScript for testing and automation. No manual setup—just launch and go, and if install scripts are blocked, run npx puppeteer browsers install to fetch the browsers. 🚀"
   }
 ]
