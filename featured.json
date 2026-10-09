@@ -174,5 +174,20 @@
     "slug": "he-yufeng-corecoder",
     "hook": "Tiny AI coding agent in a notebook",
     "pitch": "A minimal Python AI coding agent that fits in a single notebook. The whole engine is just 1.3k lines, fully runnable with 215 green tests, so you can read, breakpoint, and extend it yourself."
+  },
+  {
+    "repo": "Stirling-Tools/Stirling-PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "about": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "builder": "Stirling Tools team",
+    "builderUrl": "https://github.com/Stirling-Tools",
+    "stars": 93641,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/eU10mXkYX0I",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxgjdinswe2l",
+    "featuredAt": "2026-10-09T08:05:59.842Z",
+    "slug": "stirling-tools-stirling-pdf",
+    "hook": "PDF editing, anywhere you go.",
+    "pitch": "A free, open-source PDF platform you can run anywhere—desktop, browser, or self-hosted. It offers 50+ tools like edit, merge, OCR, and a one-line Docker start command."
   }
 ]
