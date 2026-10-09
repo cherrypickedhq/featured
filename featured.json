@@ -190,5 +190,21 @@
     "slug": "stirling-tools-stirling-pdf",
     "hook": "PDF editing, anywhere you go.",
     "pitch": "A free, open-source PDF platform you can run anywhere—desktop, browser, or self-hosted. It offers 50+ tools like edit, merge, OCR, and a one-line Docker start command."
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "url": "https://github.com/rcourtman/Pulse",
+    "about": "Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.",
+    "builder": "rcourtman",
+    "builderUrl": "https://github.com/rcourtman",
+    "stars": 6791,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/YDojoTYmFJE",
+    "instagram": "https://www.instagram.com/reel/DeRq977iK2c/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxh53lkgp62w",
+    "featuredAt": "2026-10-09T13:58:38.240Z",
+    "slug": "rcourtman-pulse",
+    "hook": "Never-sleeping dashboard for your stack",
+    "pitch": "Pulse gives you real-time views of Proxmox, Docker, Kubernetes and TrueNAS, with smart alerts that spot silent failures. Run it in seconds with a single Docker command."
   }
 ]

@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (12)
+## Featured (13)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**rcourtman/Pulse**](https://github.com/rcourtman/Pulse)<br><sub>★ 6.8k · Go</sub> | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols… | [rcourtman](https://github.com/rcourtman) | [Short](https://youtube.com/shorts/YDojoTYmFJE) · [Reel](https://www.instagram.com/reel/DeRq977iK2c/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxh53lkgp62w) | 2026-10-09 |
 | [**Stirling-Tools/Stirling-PDF**](https://github.com/Stirling-Tools/Stirling-PDF)<br><sub>★ 94k · TypeScript</sub> | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | [Stirling Tools team](https://github.com/Stirling-Tools) | [Short](https://youtube.com/shorts/eU10mXkYX0I) · [Reel](https://www.instagram.com/reel/DeRGsAbEWco/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxgjdinswe2l) | 2026-10-09 |
 | [**he-yufeng/CoreCoder**](https://github.com/he-yufeng/CoreCoder)<br><sub>★ 1.8k · Python</sub> | Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly Nan… | [Yufeng He](https://github.com/he-yufeng) | [Short](https://youtube.com/shorts/iovLJD0coeY) · [Reel](https://www.instagram.com/reel/DePOh1GjX2O/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxeqpmlftm27) | 2026-10-08 |
 | [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands)<br><sub>★ 90k · TypeScript</sub> | 🙌 OpenHands: AI-Driven Development | [OpenHands team](https://github.com/OpenHands) | [Short](https://youtube.com/shorts/O21lYCZKyDU) · [Reel](https://www.instagram.com/reel/DeOwQDJkjhB/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxebw74azj22) | 2026-10-08 |
