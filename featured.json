@@ -222,5 +222,21 @@
     "slug": "puppeteer-puppeteer",
     "hook": "Browser control, scripted instantly",
     "pitch": "Control Chrome or Firefox from JavaScript for testing and automation. No manual setup—just launch and go, and if install scripts are blocked, run npx puppeteer browsers install to fetch the browsers. 🚀"
+  },
+  {
+    "repo": "lerd-env/lerd",
+    "url": "https://github.com/lerd-env/lerd",
+    "about": "Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.",
+    "builder": "Lerd team",
+    "builderUrl": "https://github.com/lerd-env",
+    "stars": 1369,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/jgpp3AIMacM",
+    "instagram": "https://www.instagram.com/reel/DeTWNW4DgO3/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxirhjckfz2q",
+    "featuredAt": "2026-10-10T05:35:56.793Z",
+    "slug": "lerd-env-lerd",
+    "hook": "Local PHP dev, zero Docker.",
+    "pitch": "lerd gives you a root-less Podman setup for PHP projects. One command creates a .test domain with HTTPS and lets you switch PHP versions per project, plus one-click MySQL and Redis services."
   }
 ]
