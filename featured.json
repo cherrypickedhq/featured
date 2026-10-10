@@ -238,5 +238,21 @@
     "slug": "lerd-env-lerd",
     "hook": "Local PHP dev, zero Docker.",
     "pitch": "lerd gives you a root-less Podman setup for PHP projects. One command creates a .test domain with HTTPS and lets you switch PHP versions per project, plus one-click MySQL and Redis services."
+  },
+  {
+    "repo": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "builder": "Bun team",
+    "builderUrl": "https://github.com/oven-sh",
+    "stars": 96136,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/wRJKcYA_N_E",
+    "instagram": "https://www.instagram.com/reel/DeT-3EtjaiO/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxjfcnii4u27",
+    "featuredAt": "2026-10-10T11:31:17.482Z",
+    "slug": "oven-sh-bun",
+    "hook": "JavaScript runtime that shatters Node speed",
+    "pitch": "bun is a single-binary toolkit that runs, bundles, tests and installs JavaScript and TypeScript projects. It’s written in Rust, uses JavaScriptCore and supports TS + JSX out of the box, so you can replace Node with a tiny, speedy executable."
   }
 ]

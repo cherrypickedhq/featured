@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (15)
+## Featured (16)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**oven-sh/bun**](https://github.com/oven-sh/bun)<br><sub>★ 96k · Rust</sub> | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | [Bun team](https://github.com/oven-sh) | [Short](https://youtube.com/shorts/wRJKcYA_N_E) · [Reel](https://www.instagram.com/reel/DeT-3EtjaiO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxjfcnii4u27) | 2026-10-10 |
 | [**lerd-env/lerd**](https://github.com/lerd-env/lerd)<br><sub>★ 1.4k · Go</sub> | Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-… | [Lerd team](https://github.com/lerd-env) | [Short](https://youtube.com/shorts/jgpp3AIMacM) · [Reel](https://www.instagram.com/reel/DeTWNW4DgO3/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxirhjckfz2q) | 2026-10-10 |
 | [**puppeteer/puppeteer**](https://github.com/puppeteer/puppeteer)<br><sub>★ 96k · TypeScript</sub> | JavaScript API for Chrome and Firefox | [Puppeteer team](https://github.com/puppeteer) | [Short](https://youtube.com/shorts/KkstPERd03s) · [Reel](https://www.instagram.com/reel/DeR2GsBgmT9/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxhcjxjnh72h) | 2026-10-09 |
 | [**rcourtman/Pulse**](https://github.com/rcourtman/Pulse)<br><sub>★ 6.8k · Go</sub> | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols… | [rcourtman](https://github.com/rcourtman) | [Short](https://youtube.com/shorts/YDojoTYmFJE) · [Reel](https://www.instagram.com/reel/DeRq977iK2c/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxh53lkgp62w) | 2026-10-09 |
