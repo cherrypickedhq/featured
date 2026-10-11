@@ -270,5 +270,21 @@
     "slug": "osmantic-ods",
     "hook": "Private AI on your laptop.",
     "pitch": "ODS lets you spin up a local AI stack with a single command that auto-detects your GPU, selects the right model and launches the services. It’s Python-based, open-source and gives you instant chat while the full model downloads in the background."
+  },
+  {
+    "repo": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "about": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "builder": "Textualize team",
+    "builderUrl": "https://github.com/Textualize",
+    "stars": 57480,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/t3IfjOG61ss",
+    "instagram": "https://www.instagram.com/reel/DeWj1Hvk5fh/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxlvuiqy2d2z",
+    "featuredAt": "2026-10-11T11:32:47.510Z",
+    "slug": "textualize-rich",
+    "hook": "Terminal library that makes code sparkle",
+    "pitch": "rich lets you add color, emojis, tables and progress bars to any Python CLI. It even word-wraps output and highlights syntax out of the box, so your logs look clean and readable. Perfect for debugging and polished scripts."
   }
 ]
