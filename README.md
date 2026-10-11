@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (18)
+## Featured (19)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**nklmilojevic/sofka**](https://github.com/nklmilojevic/sofka)<br><sub>★ 1.7k · Rust</sub> | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. | [Nikola Milojević](https://github.com/nklmilojevic) | [Short](https://youtube.com/shorts/RfIv89_zZ8E) · [Reel](https://www.instagram.com/reel/DeXZ-iHFPMw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxmqcjspwv2l) | 2026-10-11 |
 | [**Textualize/rich**](https://github.com/Textualize/rich)<br><sub>★ 57k · Python</sub> | Rich is a Python library for rich text and beautiful formatting in the terminal. | [Textualize team](https://github.com/Textualize) | [Short](https://youtube.com/shorts/t3IfjOG61ss) · [Reel](https://www.instagram.com/reel/DeWj1Hvk5fh/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxlvuiqy2d2z) | 2026-10-11 |
 | [**Osmantic/ODS**](https://github.com/Osmantic/ODS)<br><sub>★ 7.1k · Python</sub> | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server. | [Osmantic team](https://github.com/Osmantic) | [Short](https://youtube.com/shorts/ZaITiRh1_2A) · [Reel](https://www.instagram.com/reel/DeV9ENJDinR/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxlcwxco4b2l) | 2026-10-11 |
 | [**oven-sh/bun**](https://github.com/oven-sh/bun)<br><sub>★ 96k · Rust</sub> | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | [Bun team](https://github.com/oven-sh) | [Short](https://youtube.com/shorts/wRJKcYA_N_E) · [Reel](https://www.instagram.com/reel/DeT-3EtjaiO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxjfcnii4u27) | 2026-10-10 |

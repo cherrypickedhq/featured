@@ -286,5 +286,21 @@
     "slug": "textualize-rich",
     "hook": "Terminal library that makes code sparkle",
     "pitch": "rich lets you add color, emojis, tables and progress bars to any Python CLI. It even word-wraps output and highlights syntax out of the box, so your logs look clean and readable. Perfect for debugging and polished scripts."
+  },
+  {
+    "repo": "nklmilojevic/sofka",
+    "url": "https://github.com/nklmilojevic/sofka",
+    "about": "A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.",
+    "builder": "Nikola Milojević",
+    "builderUrl": "https://github.com/nklmilojevic",
+    "stars": 1655,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/RfIv89_zZ8E",
+    "instagram": "https://www.instagram.com/reel/DeXZ-iHFPMw/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxmqcjspwv2l",
+    "featuredAt": "2026-10-11T19:25:21.656Z",
+    "slug": "nklmilojevic-sofka",
+    "hook": "Kubernetes cat watching your cluster",
+    "pitch": "sofka is a Rust terminal UI that lets you browse custom resources, run bulk actions and open a deterministic incident view with a single key. It talks to Flux and Argo CD via API patches, no extra binaries needed. 🐱"
   }
 ]
