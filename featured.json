@@ -254,5 +254,21 @@
     "slug": "oven-sh-bun",
     "hook": "JavaScript runtime that shatters Node speed",
     "pitch": "bun is a single-binary toolkit that runs, bundles, tests and installs JavaScript and TypeScript projects. It’s written in Rust, uses JavaScriptCore and supports TS + JSX out of the box, so you can replace Node with a tiny, speedy executable."
+  },
+  {
+    "repo": "Osmantic/ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "about": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.",
+    "builder": "Osmantic team",
+    "builderUrl": "https://github.com/Osmantic",
+    "stars": 7061,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/ZaITiRh1_2A",
+    "instagram": "https://www.instagram.com/reel/DeV9ENJDinR/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxlcwxco4b2l",
+    "featuredAt": "2026-10-11T05:54:03.416Z",
+    "slug": "osmantic-ods",
+    "hook": "Private AI on your laptop.",
+    "pitch": "ODS lets you spin up a local AI stack with a single command that auto-detects your GPU, selects the right model and launches the services. It’s Python-based, open-source and gives you instant chat while the full model downloads in the background."
   }
 ]
