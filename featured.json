@@ -302,5 +302,21 @@
     "slug": "nklmilojevic-sofka",
     "hook": "Kubernetes cat watching your cluster",
     "pitch": "sofka is a Rust terminal UI that lets you browse custom resources, run bulk actions and open a deterministic incident view with a single key. It talks to Flux and Argo CD via API patches, no extra binaries needed. 🐱"
+  },
+  {
+    "repo": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "about": "A modern file manager that helps users organize their files and folders.",
+    "builder": "Files Community team",
+    "builderUrl": "https://github.com/files-community",
+    "stars": 45832,
+    "language": "C#",
+    "youtube": "https://youtube.com/shorts/JpmfXWqjfM4",
+    "instagram": "https://www.instagram.com/reel/DeYk2lPgliw/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxnuu7goxp2l",
+    "featuredAt": "2026-10-12T06:20:11.176Z",
+    "slug": "files-community-files",
+    "hook": "A fresh take on Windows file browsing",
+    "pitch": "Files is a modern Windows file manager that lets you tag files and use multitasking panes for quick navigation. Its fluent design blends right into Windows, boosting productivity."
   }
 ]
