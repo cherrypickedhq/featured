@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (20)
+## Featured (21)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**dongdongbh/Mindwtr**](https://github.com/dongdongbh/Mindwtr)<br><sub>★ 2.2k · TypeScript</sub> | Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed | [Dongda Li](https://github.com/dongdongbh) | [Short](https://youtube.com/shorts/oofze6otn-w) · [Reel](https://www.instagram.com/reel/DeZMV8BgNFW/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxoi5h5qgw22) | 2026-10-12 |
 | [**files-community/Files**](https://github.com/files-community/Files)<br><sub>★ 46k · C#</sub> | A modern file manager that helps users organize their files and folders. | [Files Community team](https://github.com/files-community) | [Short](https://youtube.com/shorts/JpmfXWqjfM4) · [Reel](https://www.instagram.com/reel/DeYk2lPgliw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxnuu7goxp2l) | 2026-10-12 |
 | [**nklmilojevic/sofka**](https://github.com/nklmilojevic/sofka)<br><sub>★ 1.7k · Rust</sub> | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. | [Nikola Milojević](https://github.com/nklmilojevic) | [Short](https://youtube.com/shorts/RfIv89_zZ8E) · [Reel](https://www.instagram.com/reel/DeXZ-iHFPMw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxmqcjspwv2l) | 2026-10-11 |
 | [**Textualize/rich**](https://github.com/Textualize/rich)<br><sub>★ 57k · Python</sub> | Rich is a Python library for rich text and beautiful formatting in the terminal. | [Textualize team](https://github.com/Textualize) | [Short](https://youtube.com/shorts/t3IfjOG61ss) · [Reel](https://www.instagram.com/reel/DeWj1Hvk5fh/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxlvuiqy2d2z) | 2026-10-11 |

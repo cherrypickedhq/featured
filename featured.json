@@ -318,5 +318,21 @@
     "slug": "files-community-files",
     "hook": "A fresh take on Windows file browsing",
     "pitch": "Files is a modern Windows file manager that lets you tag files and use multitasking panes for quick navigation. Its fluent design blends right into Windows, boosting productivity."
+  },
+  {
+    "repo": "dongdongbh/Mindwtr",
+    "url": "https://github.com/dongdongbh/Mindwtr",
+    "about": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+    "builder": "Dongda Li",
+    "builderUrl": "https://github.com/dongdongbh",
+    "stars": 2205,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/oofze6otn-w",
+    "instagram": "https://www.instagram.com/reel/DeZMV8BgNFW/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxoi5h5qgw22",
+    "featuredAt": "2026-10-12T12:05:16.461Z",
+    "slug": "dongdongbh-mindwtr",
+    "hook": "Someone built a to-do app offline.",
+    "pitch": "A free, cross-platform GTD to-do app that lives completely offline. Capture ideas instantly with a desktop shortcut, phone widget, or share sheet, then organize, focus, and review without any account. Your data stays on your device."
   }
 ]
