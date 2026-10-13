@@ -350,5 +350,20 @@
     "slug": "nektos-act",
     "hook": "Test GitHub Actions instantly",
     "pitch": "act lets you run your .github/workflows on your own machine, giving you fast feedback without pushing code. It uses Docker to spin up the same containers GitHub runs, so you can replace a Makefile with actions."
+  },
+  {
+    "repo": "aoci-spec/aoci-code",
+    "url": "https://github.com/aoci-spec/aoci-code",
+    "about": "A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code knowledge that gives Claude Code, Codex, Cursor, and opencode long-term context, memory, and code intelligence.",
+    "builder": "aoci-spec team",
+    "builderUrl": "https://github.com/aoci-spec",
+    "stars": 1177,
+    "language": "Go",
+    "instagram": "https://www.instagram.com/reel/Debas5JiG4p/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxqnntcf6v2l",
+    "featuredAt": "2026-10-13T08:49:56.819Z",
+    "slug": "aoci-spec-aoci-code",
+    "hook": "Someone built an instant code map",
+    "pitch": "Creates a persistent, Git-versioned map of your whole codebase that AI coding agents can read in one pass. It can index repos up to 500 k lines and updates automatically as code changes. 📚"
   }
 ]
