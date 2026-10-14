@@ -382,5 +382,21 @@
     "slug": "d4vinci-scrapling",
     "hook": "A scraper that learns as sites change",
     "pitch": "Scrapling is an open-source Python framework that learns from website updates and automatically relocates your selectors. It also includes fetchers that bypass Cloudflare Turnstile and a spider that handles proxy rotation and adaptive crawl speed."
+  },
+  {
+    "repo": "totec448-spec/chat-on-steroids",
+    "url": "https://github.com/totec448-spec/chat-on-steroids",
+    "about": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+    "builder": "totec448-spec",
+    "builderUrl": "https://github.com/totec448-spec",
+    "stars": 4256,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/VVcSI-r87HU",
+    "instagram": "https://www.instagram.com/reel/DeeaubqAFkT/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxtlfzghbf2h",
+    "featuredAt": "2026-10-14T12:47:11.384Z",
+    "slug": "totec448-spec-chat-on-steroids",
+    "hook": "ChatGPT runs locally on your desktop",
+    "pitch": "A cross-platform workspace lets you run ChatGPT right on your machine. Install, approve a folder, connect the Core in ChatGPT and load the Chrome extension – no extra servers needed. It’s open source and written in TypeScript."
   }
 ]

@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (24)
+## Featured (25)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**totec448-spec/chat-on-steroids**](https://github.com/totec448-spec/chat-on-steroids)<br><sub>★ 4.3k · TypeScript</sub> | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. | [totec448-spec](https://github.com/totec448-spec) | [Short](https://youtube.com/shorts/VVcSI-r87HU) · [Reel](https://www.instagram.com/reel/DeeaubqAFkT/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxtlfzghbf2h) | 2026-10-14 |
 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling)<br><sub>★ 86k · Python</sub> | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https:… | [Karim shoair](https://github.com/D4Vinci) | [Short](https://youtube.com/shorts/WLNFhf48iHA) · [Reel](https://www.instagram.com/reel/Ded4sLDAlTi/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxt35kscef2o) | 2026-10-14 |
 | [**aoci-spec/aoci-code**](https://github.com/aoci-spec/aoci-code)<br><sub>★ 1.2k · Go</sub> | A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first… | [aoci-spec team](https://github.com/aoci-spec) | [Short](https://youtube.com/shorts/EGJseN102Uk) · [Reel](https://www.instagram.com/reel/Debas5JiG4p/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxqnntcf6v2l) | 2026-10-13 |
 | [**nektos/act**](https://github.com/nektos/act)<br><sub>★ 72k · Go</sub> | Run your GitHub Actions locally 🚀 | [nektos team](https://github.com/nektos) | [Short](https://youtube.com/shorts/2fGAHCSULXo) · [Reel](https://www.instagram.com/reel/DeZg5PDDMwG/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxos6gyrgd2o) | 2026-10-12 |
