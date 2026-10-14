@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (23)
+## Featured (24)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling)<br><sub>★ 86k · Python</sub> | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https:… | [Karim shoair](https://github.com/D4Vinci) | [Short](https://youtube.com/shorts/WLNFhf48iHA) · [Reel](https://www.instagram.com/reel/Ded4sLDAlTi/) | 2026-10-14 |
 | [**aoci-spec/aoci-code**](https://github.com/aoci-spec/aoci-code)<br><sub>★ 1.2k · Go</sub> | A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first… | [aoci-spec team](https://github.com/aoci-spec) | [Short](https://youtube.com/shorts/EGJseN102Uk) · [Reel](https://www.instagram.com/reel/Debas5JiG4p/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxqnntcf6v2l) | 2026-10-13 |
 | [**nektos/act**](https://github.com/nektos/act)<br><sub>★ 72k · Go</sub> | Run your GitHub Actions locally 🚀 | [nektos team](https://github.com/nektos) | [Short](https://youtube.com/shorts/2fGAHCSULXo) · [Reel](https://www.instagram.com/reel/DeZg5PDDMwG/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxos6gyrgd2o) | 2026-10-12 |
 | [**dongdongbh/Mindwtr**](https://github.com/dongdongbh/Mindwtr)<br><sub>★ 2.2k · TypeScript</sub> | Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed | [Dongda Li](https://github.com/dongdongbh) | [Short](https://youtube.com/shorts/oofze6otn-w) · [Reel](https://www.instagram.com/reel/DeZMV8BgNFW/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxoi5h5qgw22) | 2026-10-12 |

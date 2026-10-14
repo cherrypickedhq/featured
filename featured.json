@@ -366,5 +366,20 @@
     "slug": "aoci-spec-aoci-code",
     "hook": "Someone built an instant code map",
     "pitch": "Creates a persistent, Git-versioned map of your whole codebase that AI coding agents can read in one pass. It can index repos up to 500 k lines and updates automatically as code changes. 📚"
+  },
+  {
+    "repo": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "about": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "builder": "Karim shoair",
+    "builderUrl": "https://github.com/D4Vinci",
+    "stars": 85891,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/WLNFhf48iHA",
+    "instagram": "https://www.instagram.com/reel/Ded4sLDAlTi/",
+    "featuredAt": "2026-10-14T07:49:44.334Z",
+    "slug": "d4vinci-scrapling",
+    "hook": "A scraper that learns as sites change",
+    "pitch": "Scrapling is an open-source Python framework that learns from website updates and automatically relocates your selectors. It also includes fetchers that bypass Cloudflare Turnstile and a spider that handles proxy rotation and adaptive crawl speed."
   }
 ]
