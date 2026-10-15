@@ -414,5 +414,21 @@
     "slug": "sharkdp-bat",
     "hook": "Cat with wings for your terminal",
     "pitch": "bat adds syntax highlighting and Git-aware diffs to the classic cat command, so code pops with colors and changes are shown inline. Use the –show-all flag to reveal hidden whitespace and characters, all written in Rust."
+  },
+  {
+    "repo": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "about": "Animation engine for explanatory math videos",
+    "builder": "Grant Sanderson",
+    "builderUrl": "https://github.com/3b1b",
+    "stars": 94784,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/XdoWTSK6ebk",
+    "instagram": "https://www.instagram.com/reel/DehddBbEeka/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxwkipb4pa2n",
+    "featuredAt": "2026-10-15T17:08:20.167Z",
+    "slug": "3b1b-manim",
+    "hook": "Math videos that dance",
+    "pitch": "Manim lets you script every frame of a math animation in Python, so you get precise, programmatic control. Install it with a single pip command (pip install manimgl) and start rendering scenes right away. Perfect for anyone who wants clear code over keyframes."
   }
 ]
