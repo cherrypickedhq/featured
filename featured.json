@@ -398,5 +398,21 @@
     "slug": "totec448-spec-chat-on-steroids",
     "hook": "ChatGPT runs locally on your desktop",
     "pitch": "A cross-platform workspace lets you run ChatGPT right on your machine. Install, approve a folder, connect the Core in ChatGPT and load the Chrome extension – no extra servers needed. It’s open source and written in TypeScript."
+  },
+  {
+    "repo": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "builder": "David Peter",
+    "builderUrl": "https://github.com/sharkdp",
+    "stars": 60714,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/7EHoQR7VtEY",
+    "instagram": "https://www.instagram.com/reel/DegyrcHlZaf/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxvvmqt3gv2h",
+    "featuredAt": "2026-10-15T10:54:33.156Z",
+    "slug": "sharkdp-bat",
+    "hook": "Cat with wings for your terminal",
+    "pitch": "bat adds syntax highlighting and Git-aware diffs to the classic cat command, so code pops with colors and changes are shown inline. Use the –show-all flag to reveal hidden whitespace and characters, all written in Rust."
   }
 ]
