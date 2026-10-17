@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (27)
+## Featured (28)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ministackorg/ministack**](https://github.com/ministackorg/ministack)<br><sub>★ 4.9k · Python</sub> | Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT licensed. | [Ministack.org team](https://github.com/ministackorg) | [Short](https://youtube.com/shorts/m6MzCqVCKIo) · [Reel](https://www.instagram.com/reel/Deli50ckSZA/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3my2k7rza5d2x) | 2026-10-17 |
 | [**3b1b/manim**](https://github.com/3b1b/manim)<br><sub>★ 95k · Python</sub> | Animation engine for explanatory math videos | [Grant Sanderson](https://github.com/3b1b) | [Short](https://youtube.com/shorts/XdoWTSK6ebk) · [Reel](https://www.instagram.com/reel/DehddBbEeka/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxwkipb4pa2n) | 2026-10-15 |
 | [**sharkdp/bat**](https://github.com/sharkdp/bat)<br><sub>★ 61k · Rust</sub> | A cat(1) clone with wings. | [David Peter](https://github.com/sharkdp) | [Short](https://youtube.com/shorts/7EHoQR7VtEY) · [Reel](https://www.instagram.com/reel/DegyrcHlZaf/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxvvmqt3gv2h) | 2026-10-15 |
 | [**totec448-spec/chat-on-steroids**](https://github.com/totec448-spec/chat-on-steroids)<br><sub>★ 4.3k · TypeScript</sub> | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. | [totec448-spec](https://github.com/totec448-spec) | [Short](https://youtube.com/shorts/VVcSI-r87HU) · [Reel](https://www.instagram.com/reel/DeeaubqAFkT/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mxtlfzghbf2h) | 2026-10-14 |

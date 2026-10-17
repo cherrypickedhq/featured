@@ -430,5 +430,21 @@
     "slug": "3b1b-manim",
     "hook": "Math videos that dance",
     "pitch": "Manim lets you script every frame of a math animation in Python, so you get precise, programmatic control. Install it with a single pip command (pip install manimgl) and start rendering scenes right away. Perfect for anyone who wants clear code over keyframes."
+  },
+  {
+    "repo": "ministackorg/ministack",
+    "url": "https://github.com/ministackorg/ministack",
+    "about": "Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.",
+    "builder": "Ministack.org team",
+    "builderUrl": "https://github.com/ministackorg",
+    "stars": 4922,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/m6MzCqVCKIo",
+    "instagram": "https://www.instagram.com/reel/Deli50ckSZA/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3my2k7rza5d2x",
+    "featuredAt": "2026-10-17T07:13:19.823Z",
+    "slug": "ministackorg-ministack",
+    "hook": "Free AWS emulator you can run locally",
+    "pitch": "Run 60+ AWS services on one port with no sign-up. It's drop-in compatible with boto3, the AWS CLI and Terraform, and uses real databases. Perfect for fast local testing and CI pipelines."
   }
 ]
