@@ -478,5 +478,21 @@
     "slug": "raphire-win11debloat",
     "hook": "Someone built a Windows declutter script.",
     "pitch": "A lightweight PowerShell script that strips pre-installed apps, disables telemetry and AI features, and lets you export/import your settings. Quick, no installation needed, and you can revert changes easily."
+  },
+  {
+    "repo": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "about": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "builder": "Storybook team",
+    "builderUrl": "https://github.com/storybookjs",
+    "stars": 91220,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/ID6vri3guIo",
+    "instagram": "https://www.instagram.com/reel/Der0CDVFZCs/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanze6ddf2l",
+    "featuredAt": "2026-10-19T17:38:24.926Z",
+    "slug": "storybookjs-storybook",
+    "hook": "UI workshop you can explore instantly",
+    "pitch": "Storybook lets you build, test, and document UI components in isolation with live preview and auto-generated docs. It supports React, Angular, Vue, Svelte and more, all powered by TypeScript and a rich addon ecosystem."
   }
 ]

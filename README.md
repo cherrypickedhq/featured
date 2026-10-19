@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (30)
+## Featured (31)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**storybookjs/storybook**](https://github.com/storybookjs/storybook)<br><sub>★ 91k · TypeScript</sub> | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | [Storybook team](https://github.com/storybookjs) | [Short](https://youtube.com/shorts/ID6vri3guIo) · [Reel](https://www.instagram.com/reel/Der0CDVFZCs/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanze6ddf2l) | 2026-10-19 |
 | [**Raphire/Win11Debloat**](https://github.com/Raphire/Win11Debloat)<br><sub>★ 59k · PowerShell</sub> | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other c… | [Jeffrey](https://github.com/Raphire) | [Short](https://youtube.com/shorts/gxgaAyZJiaU) · [Reel](https://www.instagram.com/reel/Derz0H4jXiS/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanvyjocz2o) | 2026-10-19 |
 | [**MeanderingProgrammer/render-markdown.nvim**](https://github.com/MeanderingProgrammer/render-markdown.nvim)<br><sub>★ 5.2k · Lua</sub> | Improve viewing Markdown in Neovim | [Vlad](https://github.com/MeanderingProgrammer) | [Short](https://youtube.com/shorts/1xVSthwgHuA) · [Reel](https://www.instagram.com/reel/DerzlM_gRVk/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myans6jfgu2l) | 2026-10-19 |
 | [**ministackorg/ministack**](https://github.com/ministackorg/ministack)<br><sub>★ 4.9k · Python</sub> | Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT licensed. | [Ministack.org team](https://github.com/ministackorg) | [Short](https://youtube.com/shorts/m6MzCqVCKIo) · [Reel](https://www.instagram.com/reel/Deli50ckSZA/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3my2k7rza5d2x) | 2026-10-17 |
