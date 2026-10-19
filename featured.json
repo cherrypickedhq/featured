@@ -462,5 +462,21 @@
     "slug": "meanderingprogrammer-render-markdown.nvim",
     "hook": "Markdown preview lives inside Neovim",
     "pitch": "A Neovim plugin that renders Markdown right in the editor. Headings show icons, colors and padding, and code blocks display language icons with a background. All configurable and written in Lua."
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "url": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "builder": "Jeffrey",
+    "builderUrl": "https://github.com/Raphire",
+    "stars": 58926,
+    "language": "PowerShell",
+    "youtube": "https://youtube.com/shorts/gxgaAyZJiaU",
+    "instagram": "https://www.instagram.com/reel/Derz0H4jXiS/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanvyjocz2o",
+    "featuredAt": "2026-10-19T17:36:34.483Z",
+    "slug": "raphire-win11debloat",
+    "hook": "Someone built a Windows declutter script.",
+    "pitch": "A lightweight PowerShell script that strips pre-installed apps, disables telemetry and AI features, and lets you export/import your settings. Quick, no installation needed, and you can revert changes easily."
   }
 ]
