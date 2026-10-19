@@ -446,5 +446,21 @@
     "slug": "ministackorg-ministack",
     "hook": "Free AWS emulator you can run locally",
     "pitch": "Run 60+ AWS services on one port with no sign-up. It's drop-in compatible with boto3, the AWS CLI and Terraform, and uses real databases. Perfect for fast local testing and CI pipelines."
+  },
+  {
+    "repo": "MeanderingProgrammer/render-markdown.nvim",
+    "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+    "about": "Improve viewing Markdown in Neovim",
+    "builder": "Vlad",
+    "builderUrl": "https://github.com/MeanderingProgrammer",
+    "stars": 5151,
+    "language": "Lua",
+    "youtube": "https://youtube.com/shorts/1xVSthwgHuA",
+    "instagram": "https://www.instagram.com/reel/DerzlM_gRVk/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myans6jfgu2l",
+    "featuredAt": "2026-10-19T17:34:31.476Z",
+    "slug": "meanderingprogrammer-render-markdown.nvim",
+    "hook": "Markdown preview lives inside Neovim",
+    "pitch": "A Neovim plugin that renders Markdown right in the editor. Headings show icons, colors and padding, and code blocks display language icons with a background. All configurable and written in Lua."
   }
 ]
