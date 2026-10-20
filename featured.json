@@ -509,5 +509,21 @@
     "slug": "sxyazi-yazi",
     "hook": "Terminal file manager like magic",
     "pitch": "yazi is a Rust-written terminal file manager that runs all I/O asynchronously, so navigating folders feels instant. It even shows image previews right in your terminal and lets you extend the UI with Lua plugins."
+  },
+  {
+    "repo": "appwrite/sdk-for-react-native",
+    "url": "https://github.com/appwrite/sdk-for-react-native",
+    "about": "[READ ONLY] Official Appwrite React Native SDK 💙 ⚛︎",
+    "builder": "Appwrite team",
+    "builderUrl": "https://github.com/appwrite",
+    "stars": 4255,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/5ve6fRYqkhU",
+    "instagram": "https://www.instagram.com/reel/DeuDLg2CMP8/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myctx5pipz27",
+    "featuredAt": "2026-10-20T14:29:16.434Z",
+    "slug": "appwrite-sdk-for-react-native",
+    "hook": "React Native SDK that talks to the cloud",
+    "pitch": "A TypeScript SDK that lets your React Native app talk directly to Appwrite services. It even supports background push notifications on Android, keeping users in the loop when the app isn’t active."
   }
 ]

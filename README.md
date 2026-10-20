@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (32)
+## Featured (33)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**appwrite/sdk-for-react-native**](https://github.com/appwrite/sdk-for-react-native)<br><sub>★ 4.3k · TypeScript</sub> | [READ ONLY] Official Appwrite React Native SDK 💙 ⚛︎ | [Appwrite team](https://github.com/appwrite) | [Short](https://youtube.com/shorts/5ve6fRYqkhU) · [Reel](https://www.instagram.com/reel/DeuDLg2CMP8/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myctx5pipz27) | 2026-10-20 |
 | [**sxyazi/yazi**](https://github.com/sxyazi/yazi)<br><sub>★ 43k · Rust</sub> | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | [三咲雅 Misaki Masa](https://github.com/sxyazi) | [Reel](https://www.instagram.com/reel/DethrGuAUpj/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mycdkg5jnv2n) | 2026-10-20 |
 | [**storybookjs/storybook**](https://github.com/storybookjs/storybook)<br><sub>★ 91k · TypeScript</sub> | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | [Storybook team](https://github.com/storybookjs) | [Short](https://youtube.com/shorts/ID6vri3guIo) · [Reel](https://www.instagram.com/reel/Der0CDVFZCs/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanze6ddf2l) | 2026-10-19 |
 | [**Raphire/Win11Debloat**](https://github.com/Raphire/Win11Debloat)<br><sub>★ 59k · PowerShell</sub> | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other c… | [Jeffrey](https://github.com/Raphire) | [Short](https://youtube.com/shorts/gxgaAyZJiaU) · [Reel](https://www.instagram.com/reel/Derz0H4jXiS/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myanvyjocz2o) | 2026-10-19 |
