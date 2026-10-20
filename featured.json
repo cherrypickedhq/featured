@@ -494,5 +494,20 @@
     "slug": "storybookjs-storybook",
     "hook": "UI workshop you can explore instantly",
     "pitch": "Storybook lets you build, test, and document UI components in isolation with live preview and auto-generated docs. It supports React, Angular, Vue, Svelte and more, all powered by TypeScript and a rich addon ecosystem."
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "url": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "builder": "三咲雅 Misaki Masa",
+    "builderUrl": "https://github.com/sxyazi",
+    "stars": 42723,
+    "language": "Rust",
+    "instagram": "https://www.instagram.com/reel/DethrGuAUpj/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mycdkg5jnv2n",
+    "featuredAt": "2026-10-20T09:37:11.055Z",
+    "slug": "sxyazi-yazi",
+    "hook": "Terminal file manager like magic",
+    "pitch": "yazi is a Rust-written terminal file manager that runs all I/O asynchronously, so navigating folders feels instant. It even shows image previews right in your terminal and lets you extend the UI with Lua plugins."
   }
 ]
