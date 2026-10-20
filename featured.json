@@ -525,5 +525,21 @@
     "slug": "appwrite-sdk-for-react-native",
     "hook": "React Native SDK that talks to the cloud",
     "pitch": "A TypeScript SDK that lets your React Native app talk directly to Appwrite services. It even supports background push notifications on Android, keeping users in the loop when the app isn’t active."
+  },
+  {
+    "repo": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "about": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "builder": "netdata team",
+    "builderUrl": "https://github.com/netdata",
+    "stars": 80890,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/e5PTG59-b80",
+    "instagram": "https://www.instagram.com/reel/DeugE-iCugm/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mydc2b6pgf2x",
+    "featuredAt": "2026-10-20T18:41:47.176Z",
+    "slug": "netdata-netdata",
+    "hook": "Monitoring that sees everything instantly",
+    "pitch": "Netdata gives you per-second metrics and visualizations with zero configuration. It adds ML-powered anomaly detection while using minimal resources, scaling from a single server to multi-cloud fleets. Perfect for developers who need real-time observability."
   }
 ]
