@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (36)
+## Featured (37)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**usememos/memos**](https://github.com/usememos/memos)<br><sub>★ 64k · Go</sub> | A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted. | [Memos team](https://github.com/usememos) | [Short](https://youtube.com/shorts/CHj1Q0_9kzU) · [Reel](https://www.instagram.com/reel/DexKzdcFfSi/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myfvf4f4jl2z) | 2026-10-21 |
 | [**tw93/Mole**](https://github.com/tw93/Mole)<br><sub>★ 70k · Shell</sub> | 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app. | [Tw93](https://github.com/tw93) | [Short](https://youtube.com/shorts/OgzoqB-t7Lo) · [Reel](https://www.instagram.com/reel/DewpElLmHFt/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myfewkjsyi2n) | 2026-10-21 |
 | [**typedb/typedb**](https://github.com/typedb/typedb)<br><sub>★ 4.5k · Rust</sub> | TypeDB: Built for systems, not records | [TypeDB team](https://github.com/typedb) | [Short](https://youtube.com/shorts/HGF_VgLr2_M) · [Reel](https://www.instagram.com/reel/DewGPQVkeZ8/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myetvqvnks2w) | 2026-10-21 |
 | [**netdata/netdata**](https://github.com/netdata/netdata)<br><sub>★ 81k · Go</sub> | The fastest path to AI-powered full stack observability, even for lean teams. | [netdata team](https://github.com/netdata) | [Short](https://youtube.com/shorts/e5PTG59-b80) · [Reel](https://www.instagram.com/reel/DeugE-iCugm/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mydc2b6pgf2x) | 2026-10-20 |

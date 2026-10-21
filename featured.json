@@ -574,5 +574,21 @@
     "slug": "tw93-mole",
     "hook": "Mac cleaning, finally simple.",
     "pitch": "Mole bundles deep cleaning, smart uninstalls and live system monitoring into one CLI. Run ‘mo clean’ to wipe caches and leftovers, or ‘mo analyze’ for an interactive TUI view of disk hogs. All free and open-source."
+  },
+  {
+    "repo": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "about": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
+    "builder": "Memos team",
+    "builderUrl": "https://github.com/usememos",
+    "stars": 63748,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/CHj1Q0_9kzU",
+    "instagram": "https://www.instagram.com/reel/DexKzdcFfSi/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myfvf4f4jl2z",
+    "featuredAt": "2026-10-21T19:33:39.520Z",
+    "slug": "usememos-memos",
+    "hook": "A timeline for your thoughts",
+    "pitch": "Memos lets you jot down thoughts in Markdown, add images, and later find them by search, tags, or scrolling any day. It’s self-hosted, zero telemetry, and built with Go, so your data stays yours."
   }
 ]
