@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (34)
+## Featured (35)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**typedb/typedb**](https://github.com/typedb/typedb)<br><sub>★ 4.5k · Rust</sub> | TypeDB: Built for systems, not records | [TypeDB team](https://github.com/typedb) | [Short](https://youtube.com/shorts/HGF_VgLr2_M) · [Reel](https://www.instagram.com/reel/DewGPQVkeZ8/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myetvqvnks2w) | 2026-10-21 |
 | [**netdata/netdata**](https://github.com/netdata/netdata)<br><sub>★ 81k · Go</sub> | The fastest path to AI-powered full stack observability, even for lean teams. | [netdata team](https://github.com/netdata) | [Short](https://youtube.com/shorts/e5PTG59-b80) · [Reel](https://www.instagram.com/reel/DeugE-iCugm/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mydc2b6pgf2x) | 2026-10-20 |
 | [**appwrite/sdk-for-react-native**](https://github.com/appwrite/sdk-for-react-native)<br><sub>★ 4.3k · TypeScript</sub> | [READ ONLY] Official Appwrite React Native SDK 💙 ⚛︎ | [Appwrite team](https://github.com/appwrite) | [Short](https://youtube.com/shorts/5ve6fRYqkhU) · [Reel](https://www.instagram.com/reel/DeuDLg2CMP8/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myctx5pipz27) | 2026-10-20 |
 | [**sxyazi/yazi**](https://github.com/sxyazi/yazi)<br><sub>★ 43k · Rust</sub> | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | [三咲雅 Misaki Masa](https://github.com/sxyazi) | [Short](https://youtube.com/shorts/c2J8ckBE_jQ) · [Reel](https://www.instagram.com/reel/DethrGuAUpj/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mycdkg5jnv2n) | 2026-10-20 |
