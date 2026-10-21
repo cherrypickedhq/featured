@@ -558,5 +558,21 @@
     "slug": "typedb-typedb",
     "hook": "A database that truly thinks like code",
     "pitch": "TypeDB lets you model data with a strongly-typed schema, so you get safety and flexible polymorphic queries. Its TypeQL language reads like natural language and supports reusable functions as subqueries. Built in Rust and fully open source, it unifies relational, document and graph models."
+  },
+  {
+    "repo": "tw93/Mole",
+    "url": "https://github.com/tw93/Mole",
+    "about": "🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.",
+    "builder": "Tw93",
+    "builderUrl": "https://github.com/tw93",
+    "stars": 70142,
+    "language": "Shell",
+    "youtube": "https://youtube.com/shorts/OgzoqB-t7Lo",
+    "instagram": "https://www.instagram.com/reel/DewpElLmHFt/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myfewkjsyi2n",
+    "featuredAt": "2026-10-21T14:38:53.414Z",
+    "slug": "tw93-mole",
+    "hook": "Mac cleaning, finally simple.",
+    "pitch": "Mole bundles deep cleaning, smart uninstalls and live system monitoring into one CLI. Run ‘mo clean’ to wipe caches and leftovers, or ‘mo analyze’ for an interactive TUI view of disk hogs. All free and open-source."
   }
 ]
