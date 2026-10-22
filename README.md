@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (39)
+## Featured (40)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem)<br><sub>★ 101k · TypeScript</sub> | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injec… | [Alex Newman](https://github.com/thedotmack) | [Short](https://youtube.com/shorts/hdEyRO-RShg) · [Reel](https://www.instagram.com/reel/DezuybLCWmK/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myifhem5us2v) | 2026-10-22 |
 | [**uvwt/agentdock**](https://github.com/uvwt/agentdock)<br><sub>★ 1.2k · Go</sub> | Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration. | [UVWT](https://github.com/uvwt) | [Short](https://youtube.com/shorts/Re7MQmQ2VIs) · [Reel](https://www.instagram.com/reel/DezN5-8kdqn/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myhvfzw7v42x) | 2026-10-22 |
 | [**moby/moby**](https://github.com/moby/moby)<br><sub>★ 72k · Go</sub> | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | [Moby team](https://github.com/moby) | [Short](https://youtube.com/shorts/gIG5MXq5evg) · [Reel](https://www.instagram.com/reel/DeyrSG6jZkL/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myheiluhfu2v) | 2026-10-22 |
 | [**usememos/memos**](https://github.com/usememos/memos)<br><sub>★ 64k · Go</sub> | A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted. | [Memos team](https://github.com/usememos) | [Short](https://youtube.com/shorts/CHj1Q0_9kzU) · [Reel](https://www.instagram.com/reel/DexKzdcFfSi/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myfvf4f4jl2z) | 2026-10-21 |

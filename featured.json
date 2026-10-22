@@ -622,5 +622,21 @@
     "slug": "uvwt-agentdock",
     "hook": "Secure AI bridge for your machines",
     "pitch": "AgentDock lets AI agents manage your local computers, servers and Docker containers straight from a chat. You can write code, run commands and orchestrate tasks across devices without leaving the conversation."
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "about": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "builder": "Alex Newman",
+    "builderUrl": "https://github.com/thedotmack",
+    "stars": 100883,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/hdEyRO-RShg",
+    "instagram": "https://www.instagram.com/reel/DezuybLCWmK/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myifhem5us2v",
+    "featuredAt": "2026-10-22T19:26:33.005Z",
+    "slug": "thedotmack-claude-mem",
+    "hook": "Memory that never forgets",
+    "pitch": "A TypeScript plugin that automatically captures, compresses, and re-injects agent observations so context survives across sessions. It even shows token cost with progressive disclosure and lets you query history via a skill-based search. 🚀"
   }
 ]
