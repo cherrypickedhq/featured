@@ -590,5 +590,21 @@
     "slug": "usememos-memos",
     "hook": "A timeline for your thoughts",
     "pitch": "Memos lets you jot down thoughts in Markdown, add images, and later find them by search, tags, or scrolling any day. It’s self-hosted, zero telemetry, and built with Go, so your data stays yours."
+  },
+  {
+    "repo": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "builder": "Moby team",
+    "builderUrl": "https://github.com/moby",
+    "stars": 72180,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/gIG5MXq5evg",
+    "instagram": "https://www.instagram.com/reel/DeyrSG6jZkL/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myheiluhfu2v",
+    "featuredAt": "2026-10-22T09:35:56.638Z",
+    "slug": "moby-moby",
+    "hook": "A Lego-style container toolkit",
+    "pitch": "Moby gives you a modular container toolkit in Go, so you can pick and swap components just like Lego bricks. It ships with secure defaults and enough pieces to run a full container system out of the box."
   }
 ]
