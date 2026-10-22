@@ -606,5 +606,21 @@
     "slug": "moby-moby",
     "hook": "A Lego-style container toolkit",
     "pitch": "Moby gives you a modular container toolkit in Go, so you can pick and swap components just like Lego bricks. It ships with secure defaults and enough pieces to run a full container system out of the box."
+  },
+  {
+    "repo": "uvwt/agentdock",
+    "url": "https://github.com/uvwt/agentdock",
+    "about": "Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.",
+    "builder": "UVWT",
+    "builderUrl": "https://github.com/uvwt",
+    "stars": 1235,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/Re7MQmQ2VIs",
+    "instagram": "https://www.instagram.com/reel/DezN5-8kdqn/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myhvfzw7v42x",
+    "featuredAt": "2026-10-22T14:39:11.684Z",
+    "slug": "uvwt-agentdock",
+    "hook": "Secure AI bridge for your machines",
+    "pitch": "AgentDock lets AI agents manage your local computers, servers and Docker containers straight from a chat. You can write code, run commands and orchestrate tasks across devices without leaving the conversation."
   }
 ]
