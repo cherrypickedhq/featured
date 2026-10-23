@@ -654,5 +654,21 @@
     "slug": "nrslib-takt",
     "hook": "AI agents finally follow your script",
     "pitch": "takt is a CLI that lets you orchestrate AI coding agents with YAML-defined planning, implementation, review and fix loops. Each step runs in an isolated worktree and leaves traceable logs, so you get repeatable, auditable workflows."
+  },
+  {
+    "repo": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "about": "Warp is an agentic development environment, born out of the terminal.",
+    "builder": "Warp team",
+    "builderUrl": "https://github.com/warpdotdev",
+    "stars": 65485,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/4omuGGmqqtI",
+    "instagram": "https://www.instagram.com/reel/De1w9vzAitL/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mykezfpcym2j",
+    "featuredAt": "2026-10-23T14:24:00.031Z",
+    "slug": "warpdotdev-warp",
+    "hook": "A terminal IDE that thinks for you",
+    "pitch": "Warp is a Rust-based terminal IDE with a built-in coding agent that answers prompts and lets you click into live web terminal sessions. It lets you bring your own CLI agents like Claude Code or Gemini."
   }
 ]
