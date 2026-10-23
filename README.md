@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (42)
+## Featured (43)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire)<br><sub>★ 2.6k · Rust</sub> | A Rust library for building interactive prompts | [Mikael Mello](https://github.com/mikaelmello) | [Short](https://youtube.com/shorts/jXg-GbgEDlM) · [Reel](https://www.instagram.com/reel/De2OYvWD3VW/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myktf6slcp25) | 2026-10-23 |
 | [**warpdotdev/warp**](https://github.com/warpdotdev/warp)<br><sub>★ 65k · Rust</sub> | Warp is an agentic development environment, born out of the terminal. | [Warp team](https://github.com/warpdotdev) | [Short](https://youtube.com/shorts/4omuGGmqqtI) · [Reel](https://www.instagram.com/reel/De1w9vzAitL/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mykezfpcym2j) | 2026-10-23 |
 | [**nrslib/takt**](https://github.com/nrslib/takt)<br><sub>★ 1.4k · TypeScript</sub> | TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML | [nrs](https://github.com/nrslib) | [Short](https://youtube.com/shorts/4AAN686aE_U) · [Reel](https://www.instagram.com/reel/De1PinhConH/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myjup2d64222) | 2026-10-23 |
 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem)<br><sub>★ 101k · TypeScript</sub> | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injec… | [Alex Newman](https://github.com/thedotmack) | [Short](https://youtube.com/shorts/hdEyRO-RShg) · [Reel](https://www.instagram.com/reel/DezuybLCWmK/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myifhem5us2v) | 2026-10-22 |

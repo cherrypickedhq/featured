@@ -670,5 +670,21 @@
     "slug": "warpdotdev-warp",
     "hook": "A terminal IDE that thinks for you",
     "pitch": "Warp is a Rust-based terminal IDE with a built-in coding agent that answers prompts and lets you click into live web terminal sessions. It lets you bring your own CLI agents like Claude Code or Gemini."
+  },
+  {
+    "repo": "mikaelmello/inquire",
+    "url": "https://github.com/mikaelmello/inquire",
+    "about": "A Rust library for building interactive prompts",
+    "builder": "Mikael Mello",
+    "builderUrl": "https://github.com/mikaelmello",
+    "stars": 2636,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/jXg-GbgEDlM",
+    "instagram": "https://www.instagram.com/reel/De2OYvWD3VW/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myktf6slcp25",
+    "featuredAt": "2026-10-23T18:41:07.921Z",
+    "slug": "mikaelmello-inquire",
+    "hook": "Rust prompts that feel magical",
+    "pitch": "A Rust library that adds rich, interactive prompts to your CLI. Use Text with built-in autocompletion, open your editor for notes, or pick options with Select and MultiSelect—all cross-platform."
   }
 ]
