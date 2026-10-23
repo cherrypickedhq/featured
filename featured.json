@@ -638,5 +638,21 @@
     "slug": "thedotmack-claude-mem",
     "hook": "Memory that never forgets",
     "pitch": "A TypeScript plugin that automatically captures, compresses, and re-injects agent observations so context survives across sessions. It even shows token cost with progressive disclosure and lets you query history via a skill-based search. 🚀"
+  },
+  {
+    "repo": "nrslib/takt",
+    "url": "https://github.com/nrslib/takt",
+    "about": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+    "builder": "nrs",
+    "builderUrl": "https://github.com/nrslib",
+    "stars": 1406,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/4AAN686aE_U",
+    "instagram": "https://www.instagram.com/reel/De1PinhConH/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myjup2d64222",
+    "featuredAt": "2026-10-23T09:31:59.434Z",
+    "slug": "nrslib-takt",
+    "hook": "AI agents finally follow your script",
+    "pitch": "takt is a CLI that lets you orchestrate AI coding agents with YAML-defined planning, implementation, review and fix loops. Each step runs in an isolated worktree and leaves traceable logs, so you get repeatable, auditable workflows."
   }
 ]
