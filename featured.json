@@ -702,5 +702,21 @@
     "slug": "chatgptnextweb-nextchat",
     "hook": "AI chat that runs everywhere",
     "pitch": "Zero-config AI assistant that runs everywhere. Deploy it to Vercel with one click and get privacy-first local storage, markdown support, plus Claude, Gemini and GPT-5 models—all in a sleek TypeScript app."
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "about": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "builder": "omi team",
+    "builderUrl": "https://github.com/BasedHardware",
+    "stars": 13764,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/uPPuBnk1fW8",
+    "instagram": "https://www.instagram.com/reel/De4QGBdigkc/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mymsqa62bf2p",
+    "featuredAt": "2026-10-24T13:34:03.212Z",
+    "slug": "basedhardware-omi",
+    "hook": "Screen-watching AI that never misses",
+    "pitch": "omi captures your screen and conversation, transcribes live, and serves up summaries and action items. On macOS you can launch it with `git clone … && ./run.sh --yolo`. It’s open-source Python-based AI that works on desktop, phone and wearables."
   }
 ]
