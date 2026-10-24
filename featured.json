@@ -686,5 +686,21 @@
     "slug": "mikaelmello-inquire",
     "hook": "Rust prompts that feel magical",
     "pitch": "A Rust library that adds rich, interactive prompts to your CLI. Use Text with built-in autocompletion, open your editor for notes, or pick options with Select and MultiSelect—all cross-platform."
+  },
+  {
+    "repo": "ChatGPTNextWeb/NextChat",
+    "url": "https://github.com/ChatGPTNextWeb/NextChat",
+    "about": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
+    "builder": "NextChat team",
+    "builderUrl": "https://github.com/ChatGPTNextWeb",
+    "stars": 88859,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/R_aCVT5l5No",
+    "instagram": "https://www.instagram.com/reel/De3xPd6E4D3/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mymdntqck62p",
+    "featuredAt": "2026-10-24T09:04:57.445Z",
+    "slug": "chatgptnextweb-nextchat",
+    "hook": "AI chat that runs everywhere",
+    "pitch": "Zero-config AI assistant that runs everywhere. Deploy it to Vercel with one click and get privacy-first local storage, markdown support, plus Claude, Gemini and GPT-5 models—all in a sleek TypeScript app."
   }
 ]

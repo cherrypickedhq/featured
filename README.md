@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (43)
+## Featured (44)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ChatGPTNextWeb/NextChat**](https://github.com/ChatGPTNextWeb/NextChat)<br><sub>★ 89k · TypeScript</sub> | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top model… | [NextChat team](https://github.com/ChatGPTNextWeb) | [Short](https://youtube.com/shorts/R_aCVT5l5No) · [Reel](https://www.instagram.com/reel/De3xPd6E4D3/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mymdntqck62p) | 2026-10-24 |
 | [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire)<br><sub>★ 2.6k · Rust</sub> | A Rust library for building interactive prompts | [Mikael Mello](https://github.com/mikaelmello) | [Short](https://youtube.com/shorts/jXg-GbgEDlM) · [Reel](https://www.instagram.com/reel/De2OYvWD3VW/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myktf6slcp25) | 2026-10-23 |
 | [**warpdotdev/warp**](https://github.com/warpdotdev/warp)<br><sub>★ 65k · Rust</sub> | Warp is an agentic development environment, born out of the terminal. | [Warp team](https://github.com/warpdotdev) | [Short](https://youtube.com/shorts/4omuGGmqqtI) · [Reel](https://www.instagram.com/reel/De1w9vzAitL/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mykezfpcym2j) | 2026-10-23 |
 | [**nrslib/takt**](https://github.com/nrslib/takt)<br><sub>★ 1.4k · TypeScript</sub> | TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML | [nrs](https://github.com/nrslib) | [Short](https://youtube.com/shorts/4AAN686aE_U) · [Reel](https://www.instagram.com/reel/De1PinhConH/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myjup2d64222) | 2026-10-23 |
