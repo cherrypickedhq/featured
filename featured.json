@@ -718,5 +718,21 @@
     "slug": "basedhardware-omi",
     "hook": "Screen-watching AI that never misses",
     "pitch": "omi captures your screen and conversation, transcribes live, and serves up summaries and action items. On macOS you can launch it with `git clone … && ./run.sh --yolo`. It’s open-source Python-based AI that works on desktop, phone and wearables."
+  },
+  {
+    "repo": "GyulyVGC/sniffnet",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "about": "Comfortably monitor your network traffic 🕵️‍♂️",
+    "builder": "Giuliano Bellini",
+    "builderUrl": "https://github.com/GyulyVGC",
+    "stars": 41614,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/dk1UeCeYP24",
+    "instagram": "https://www.instagram.com/reel/De4ri_CClqO/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myna4w5q3v24",
+    "featuredAt": "2026-10-24T17:33:40.560Z",
+    "slug": "gyulyvgc-sniffnet",
+    "hook": "Network monitor made simple",
+    "pitch": "Sniffnet lets you pick any network adapter and apply filters to watch traffic in real time. Export captures as PCAP files and see remote hosts plotted on a map, all from a cross-platform Rust app."
   }
 ]
