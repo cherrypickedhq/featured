@@ -749,5 +749,21 @@
     "slug": "prowler-cloud-prowler",
     "hook": "Someone built a cloud security platform",
     "pitch": "Prowler automates security and compliance checks across any cloud provider. Use the CLI with ‘prowler <provider>’ or spin up Prowler Cloud for an instant web UI dashboard. It’s open-source Python, so you can run it anywhere you need. 🚀"
+  },
+  {
+    "repo": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "builder": "longpanda",
+    "builderUrl": "https://github.com/ventoy",
+    "stars": 80151,
+    "language": "C",
+    "youtube": "https://youtube.com/shorts/P_0YRVCUZ-c",
+    "instagram": "https://www.instagram.com/reel/De63Hdbj_mM/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mypebj6x5725",
+    "featuredAt": "2026-10-25T13:54:00.657Z",
+    "slug": "ventoy-ventoy",
+    "hook": "USB boot tool, no reformat needed",
+    "pitch": "Ventoy lets you turn any USB, SSD, NVMe or SD card into a multiboot drive by simply copying ISO files—no formatting required. It boots directly from ISO or EFI and supports both MBR and GPT, all at copy-speed. 🚀"
   }
 ]
