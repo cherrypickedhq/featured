@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (48)
+## Featured (49)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ronak-create/FableCut**](https://github.com/ronak-create/FableCut)<br><sub>★ 700 · JavaScript</sub> | Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI | [Ronak Parmar](https://github.com/ronak-create) | [Short](https://youtube.com/shorts/yRzJNJ2iBG0) · [Reel](https://www.instagram.com/reel/De7SDnrjPoB/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myprgr4laj2y) | 2026-10-25 |
 | [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)<br><sub>★ 80k · C</sub> | A new bootable USB solution. | [longpanda](https://github.com/ventoy) | [Short](https://youtube.com/shorts/P_0YRVCUZ-c) · [Reel](https://www.instagram.com/reel/De63Hdbj_mM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mypebj6x5725) | 2026-10-25 |
 | [**prowler-cloud/prowler**](https://github.com/prowler-cloud/prowler)<br><sub>★ 15k · Python</sub> | Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environ… | [Prowler team](https://github.com/prowler-cloud) | [Reel](https://www.instagram.com/reel/De6X8h9laxn/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myov2ggwvy25) | 2026-10-25 |
 | [**GyulyVGC/sniffnet**](https://github.com/GyulyVGC/sniffnet)<br><sub>★ 42k · Rust</sub> | Comfortably monitor your network traffic 🕵️‍♂️ | [Giuliano Bellini](https://github.com/GyulyVGC) | [Short](https://youtube.com/shorts/dk1UeCeYP24) · [Reel](https://www.instagram.com/reel/De4ri_CClqO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myna4w5q3v24) | 2026-10-24 |

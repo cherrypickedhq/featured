@@ -765,5 +765,21 @@
     "slug": "ventoy-ventoy",
     "hook": "USB boot tool, no reformat needed",
     "pitch": "Ventoy lets you turn any USB, SSD, NVMe or SD card into a multiboot drive by simply copying ISO files—no formatting required. It boots directly from ISO or EFI and supports both MBR and GPT, all at copy-speed. 🚀"
+  },
+  {
+    "repo": "ronak-create/FableCut",
+    "url": "https://github.com/ronak-create/FableCut",
+    "about": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+    "builder": "Ronak Parmar",
+    "builderUrl": "https://github.com/ronak-create",
+    "stars": 700,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/yRzJNJ2iBG0",
+    "instagram": "https://www.instagram.com/reel/De7SDnrjPoB/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myprgr4laj2y",
+    "featuredAt": "2026-10-25T17:49:24.840Z",
+    "slug": "ronak-create-fablecut",
+    "hook": "Video editing your AI can drive",
+    "pitch": "FableCut is a zero-dependency, browser-based video editor whose whole timeline lives in a single JSON file. Let an AI agent like Claude write the JSON and watch the cuts appear live."
   }
 ]
