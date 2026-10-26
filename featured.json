@@ -782,5 +782,21 @@
     "slug": "ronak-create-fablecut",
     "hook": "Video editing your AI can drive",
     "pitch": "FableCut is a zero-dependency, browser-based video editor whose whole timeline lives in a single JSON file. Let an AI agent like Claude write the JSON and watch the cuts appear live."
+  },
+  {
+    "repo": "ubicloud/ubicloud",
+    "url": "https://github.com/ubicloud/ubicloud",
+    "about": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+    "builder": "Ubicloud team",
+    "builderUrl": "https://github.com/ubicloud",
+    "stars": 12315,
+    "language": "Ruby",
+    "youtube": "https://youtube.com/shorts/69MNl4FAQVk",
+    "instagram": "https://www.instagram.com/reel/De9EUXwicqj/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myrj7xg3kg2v",
+    "featuredAt": "2026-10-26T10:27:38.375Z",
+    "slug": "ubicloud-ubicloud",
+    "hook": "Run your own cloud, no lock-in.",
+    "pitch": "Ubicloud gives you elastic compute, block storage and a built-in firewall on any bare-metal machine, all via a web console. It’s an open-source cloud platform written in Ruby, so you keep control and avoid lock-in."
   }
 ]

@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (49)
+## Featured (50)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ubicloud/ubicloud**](https://github.com/ubicloud/ubicloud)<br><sub>★ 12k · Ruby</sub> | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI infe… | [Ubicloud team](https://github.com/ubicloud) | [Short](https://youtube.com/shorts/69MNl4FAQVk) · [Reel](https://www.instagram.com/reel/De9EUXwicqj/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myrj7xg3kg2v) | 2026-10-26 |
 | [**ronak-create/FableCut**](https://github.com/ronak-create/FableCut)<br><sub>★ 700 · JavaScript</sub> | Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI | [Ronak Parmar](https://github.com/ronak-create) | [Short](https://youtube.com/shorts/yRzJNJ2iBG0) · [Reel](https://www.instagram.com/reel/De7SDnrjPoB/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myprgr4laj2y) | 2026-10-25 |
 | [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)<br><sub>★ 80k · C</sub> | A new bootable USB solution. | [longpanda](https://github.com/ventoy) | [Short](https://youtube.com/shorts/P_0YRVCUZ-c) · [Reel](https://www.instagram.com/reel/De63Hdbj_mM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mypebj6x5725) | 2026-10-25 |
 | [**prowler-cloud/prowler**](https://github.com/prowler-cloud/prowler)<br><sub>★ 15k · Python</sub> | Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environ… | [Prowler team](https://github.com/prowler-cloud) | [Short](https://youtube.com/shorts/yEYwJc-RgNQ) · [Reel](https://www.instagram.com/reel/De6X8h9laxn/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myov2ggwvy25) | 2026-10-25 |
