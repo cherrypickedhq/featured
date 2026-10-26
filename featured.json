@@ -798,5 +798,21 @@
     "slug": "ubicloud-ubicloud",
     "hook": "Run your own cloud, no lock-in.",
     "pitch": "Ubicloud gives you elastic compute, block storage and a built-in firewall on any bare-metal machine, all via a web console. It’s an open-source cloud platform written in Ruby, so you keep control and avoid lock-in."
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "about": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "builder": "Palash Debnath",
+    "builderUrl": "https://github.com/debpalash",
+    "stars": 74833,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/1Z6CpLfck9I",
+    "instagram": "https://www.instagram.com/reel/De9w5i7iXX4/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mys6ybk6uc2w",
+    "featuredAt": "2026-10-26T16:57:24.424Z",
+    "slug": "debpalash-voicestudio",
+    "hook": "Local Eleven Labs clone built",
+    "pitch": "VoiceStudio lets you clone voices, dub videos and design new tones entirely on your hardware. It supports 646 languages and offers a one-command install for macOS/Linux. Open-source Python code, no cloud required."
   }
 ]

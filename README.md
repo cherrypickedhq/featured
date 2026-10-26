@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (50)
+## Featured (51)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio)<br><sub>★ 75k · Python</sub> | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &… | [Palash Debnath](https://github.com/debpalash) | [Short](https://youtube.com/shorts/1Z6CpLfck9I) · [Reel](https://www.instagram.com/reel/De9w5i7iXX4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mys6ybk6uc2w) | 2026-10-26 |
 | [**ubicloud/ubicloud**](https://github.com/ubicloud/ubicloud)<br><sub>★ 12k · Ruby</sub> | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI infe… | [Ubicloud team](https://github.com/ubicloud) | [Short](https://youtube.com/shorts/69MNl4FAQVk) · [Reel](https://www.instagram.com/reel/De9EUXwicqj/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myrj7xg3kg2v) | 2026-10-26 |
 | [**ronak-create/FableCut**](https://github.com/ronak-create/FableCut)<br><sub>★ 700 · JavaScript</sub> | Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI | [Ronak Parmar](https://github.com/ronak-create) | [Short](https://youtube.com/shorts/yRzJNJ2iBG0) · [Reel](https://www.instagram.com/reel/De7SDnrjPoB/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myprgr4laj2y) | 2026-10-25 |
 | [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)<br><sub>★ 80k · C</sub> | A new bootable USB solution. | [longpanda](https://github.com/ventoy) | [Short](https://youtube.com/shorts/P_0YRVCUZ-c) · [Reel](https://www.instagram.com/reel/De63Hdbj_mM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mypebj6x5725) | 2026-10-25 |
