@@ -846,5 +846,21 @@
     "slug": "holmesgpt-holmesgpt",
     "hook": "AI SRE agent that never sleeps",
     "pitch": "holmesgpt runs an agentic loop that pulls live observability data and can operate 24/7 in the background, alerting you in Slack. It works with any LLM provider and supports Kubernetes, VMs, cloud services, and more. 🚀"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "about": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+    "builder": "Appwrite team",
+    "builderUrl": "https://github.com/appwrite",
+    "stars": 57719,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/jqiRi38SxUU",
+    "instagram": "https://www.instagram.com/reel/DfAxA7FgX2b/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myv4sbfheb2f",
+    "featuredAt": "2026-10-27T20:56:07.814Z",
+    "slug": "appwrite-appwrite",
+    "hook": "A cloud backend for AI agents",
+    "pitch": "Appwrite bundles Auth, databases, storage, functions, messaging and realtime into one self-hostable platform. Spin it up with a single Docker command and let your agents talk to a live backend."
   }
 ]

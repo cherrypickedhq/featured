@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (53)
+## Featured (54)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**appwrite/appwrite**](https://github.com/appwrite/appwrite)<br><sub>★ 58k · TypeScript</sub> | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more | [Appwrite team](https://github.com/appwrite) | [Short](https://youtube.com/shorts/jqiRi38SxUU) · [Reel](https://www.instagram.com/reel/DfAxA7FgX2b/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myv4sbfheb2f) | 2026-10-27 |
 | [**HolmesGPT/holmesgpt**](https://github.com/HolmesGPT/holmesgpt)<br><sub>★ 3.6k · Python</sub> | SRE Agent - CNCF Sandbox Project | [HolmesGPT team](https://github.com/HolmesGPT) | [Short](https://youtube.com/shorts/4sRZxUQhOLE) · [Reel](https://www.instagram.com/reel/DfAPIsekYnX/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myumbn2ler2v) | 2026-10-27 |
 | [**getsentry/sentry**](https://github.com/getsentry/sentry)<br><sub>★ 46k · Python</sub> | Developer-first error tracking and performance monitoring | [Sentry team](https://github.com/getsentry) | [Short](https://youtube.com/shorts/hNJA9APZjMg) · [Reel](https://www.instagram.com/reel/De_mCyJjwV6/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myty6roxab2y) | 2026-10-27 |
 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio)<br><sub>★ 75k · Python</sub> | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &… | [Palash Debnath](https://github.com/debpalash) | [Short](https://youtube.com/shorts/1Z6CpLfck9I) · [Reel](https://www.instagram.com/reel/De9w5i7iXX4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mys6ybk6uc2w) | 2026-10-26 |
