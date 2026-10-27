@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (52)
+## Featured (53)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**HolmesGPT/holmesgpt**](https://github.com/HolmesGPT/holmesgpt)<br><sub>★ 3.6k · Python</sub> | SRE Agent - CNCF Sandbox Project | [HolmesGPT team](https://github.com/HolmesGPT) | [Short](https://youtube.com/shorts/4sRZxUQhOLE) · [Reel](https://www.instagram.com/reel/DfAPIsekYnX/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myumbn2ler2v) | 2026-10-27 |
 | [**getsentry/sentry**](https://github.com/getsentry/sentry)<br><sub>★ 46k · Python</sub> | Developer-first error tracking and performance monitoring | [Sentry team](https://github.com/getsentry) | [Reel](https://www.instagram.com/reel/De_mCyJjwV6/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myty6roxab2y) | 2026-10-27 |
 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio)<br><sub>★ 75k · Python</sub> | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &… | [Palash Debnath](https://github.com/debpalash) | [Short](https://youtube.com/shorts/1Z6CpLfck9I) · [Reel](https://www.instagram.com/reel/De9w5i7iXX4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mys6ybk6uc2w) | 2026-10-26 |
 | [**ubicloud/ubicloud**](https://github.com/ubicloud/ubicloud)<br><sub>★ 12k · Ruby</sub> | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI infe… | [Ubicloud team](https://github.com/ubicloud) | [Short](https://youtube.com/shorts/69MNl4FAQVk) · [Reel](https://www.instagram.com/reel/De9EUXwicqj/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myrj7xg3kg2v) | 2026-10-26 |

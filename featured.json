@@ -829,5 +829,21 @@
     "slug": "getsentry-sentry",
     "hook": "Error tracking that reads your code",
     "pitch": "Sentry lets you detect, trace, and fix issues in real time, so you spend less time hunting bugs. It ships official SDKs for Python, JavaScript, React-Native and more, giving you instant error visibility across services. 🚀"
+  },
+  {
+    "repo": "HolmesGPT/holmesgpt",
+    "url": "https://github.com/HolmesGPT/holmesgpt",
+    "about": "SRE Agent - CNCF Sandbox Project",
+    "builder": "HolmesGPT team",
+    "builderUrl": "https://github.com/HolmesGPT",
+    "stars": 3623,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/4sRZxUQhOLE",
+    "instagram": "https://www.instagram.com/reel/DfAPIsekYnX/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myumbn2ler2v",
+    "featuredAt": "2026-10-27T16:00:06.167Z",
+    "slug": "holmesgpt-holmesgpt",
+    "hook": "AI SRE agent that never sleeps",
+    "pitch": "holmesgpt runs an agentic loop that pulls live observability data and can operate 24/7 in the background, alerting you in Slack. It works with any LLM provider and supports Kubernetes, VMs, cloud services, and more. 🚀"
   }
 ]
