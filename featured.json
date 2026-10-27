@@ -814,5 +814,20 @@
     "slug": "debpalash-voicestudio",
     "hook": "Local Eleven Labs clone built",
     "pitch": "VoiceStudio lets you clone voices, dub videos and design new tones entirely on your hardware. It supports 646 languages and offers a one-command install for macOS/Linux. Open-source Python code, no cloud required."
+  },
+  {
+    "repo": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "about": "Developer-first error tracking and performance monitoring",
+    "builder": "Sentry team",
+    "builderUrl": "https://github.com/getsentry",
+    "stars": 45596,
+    "language": "Python",
+    "instagram": "https://www.instagram.com/reel/De_mCyJjwV6/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myty6roxab2y",
+    "featuredAt": "2026-10-27T10:01:40.206Z",
+    "slug": "getsentry-sentry",
+    "hook": "Error tracking that reads your code",
+    "pitch": "Sentry lets you detect, trace, and fix issues in real time, so you spend less time hunting bugs. It ships official SDKs for Python, JavaScript, React-Native and more, giving you instant error visibility across services. 🚀"
   }
 ]
