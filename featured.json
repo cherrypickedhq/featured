@@ -878,5 +878,21 @@
     "slug": "t8rin-imagetoolbox",
     "hook": "Photo editor that feels like magic",
     "pitch": "ImageToolbox lets you crop, apply AI-powered filters and edit EXIF data right on your phone. You can even share custom filter presets via QR code, making it easy to swap looks with friends."
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "about": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "builder": "AppFlowy-IO team",
+    "builderUrl": "https://github.com/AppFlowy-IO",
+    "stars": 77535,
+    "language": "Dart",
+    "youtube": "https://youtube.com/shorts/p-JiWXBBpZo",
+    "instagram": "https://www.instagram.com/reel/DfC9JiLD9oO/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myxb7zi6gw2z",
+    "featuredAt": "2026-10-28T17:20:30.109Z",
+    "slug": "appflowy-io-appflowy",
+    "hook": "Notion alternative with your data",
+    "pitch": "AppFlowy is an AI-powered, cross-platform workspace that lets teams manage projects, wikis, and tasks while keeping full control of their data. It runs on iPhone, Android, macOS, Windows and Linux, built with Flutter and Rust."
   }
 ]
