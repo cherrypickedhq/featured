@@ -862,5 +862,21 @@
     "slug": "appwrite-appwrite",
     "hook": "A cloud backend for AI agents",
     "pitch": "Appwrite bundles Auth, databases, storage, functions, messaging and realtime into one self-hostable platform. Spin it up with a single Docker command and let your agents talk to a live backend."
+  },
+  {
+    "repo": "T8RIN/ImageToolbox",
+    "url": "https://github.com/T8RIN/ImageToolbox",
+    "about": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
+    "builder": "Malik Mukhametzyanov",
+    "builderUrl": "https://github.com/T8RIN",
+    "stars": 15062,
+    "language": "Kotlin",
+    "youtube": "https://youtube.com/shorts/LZg5vwu01U8",
+    "instagram": "https://www.instagram.com/reel/DfCQJGeEq4Y/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mywlakz45p2n",
+    "featuredAt": "2026-10-28T10:47:21.989Z",
+    "slug": "t8rin-imagetoolbox",
+    "hook": "Photo editor that feels like magic",
+    "pitch": "ImageToolbox lets you crop, apply AI-powered filters and edit EXIF data right on your phone. You can even share custom filter presets via QR code, making it easy to swap looks with friends."
   }
 ]
