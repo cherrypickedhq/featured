@@ -910,5 +910,21 @@
     "slug": "lifeforge-app-lifeforge",
     "hook": "Self-hosted life organizer built for you",
     "pitch": "lifeforge lets you run a personal management system on your own server. Activate only the modules you need—like Todo, Budget or Journal—and keep all your data private. Docker support means you’re up and running in minutes 🚀"
+  },
+  {
+    "repo": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "about": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "builder": "Grafana Labs team",
+    "builderUrl": "https://github.com/grafana",
+    "stars": 77347,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/LyyNO-Sksh8",
+    "instagram": "https://www.instagram.com/reel/DfFjOX1myNM/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myzsd4eg2z2w",
+    "featuredAt": "2026-10-29T17:31:50.204Z",
+    "slug": "grafana-grafana",
+    "hook": "Dashboard platform that dazzles instantly",
+    "pitch": "Grafana lets you build fast, interactive dashboards that pull from multiple sources like Prometheus and Elasticsearch. Switch from metrics to logs in a click and set alerts that ping Slack or PagerDuty, all in an open-source TypeScript stack."
   }
 ]
