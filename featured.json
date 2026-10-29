@@ -894,5 +894,21 @@
     "slug": "appflowy-io-appflowy",
     "hook": "Notion alternative with your data",
     "pitch": "AppFlowy is an AI-powered, cross-platform workspace that lets teams manage projects, wikis, and tasks while keeping full control of their data. It runs on iPhone, Android, macOS, Windows and Linux, built with Flutter and Rust."
+  },
+  {
+    "repo": "Lifeforge-app/lifeforge",
+    "url": "https://github.com/Lifeforge-app/lifeforge",
+    "about": "A self-hosted solution to streamline and organize all aspects of your life.",
+    "builder": "Lifeforge team",
+    "builderUrl": "https://github.com/Lifeforge-app",
+    "stars": 1704,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/sJsT6Gh0Sus",
+    "instagram": "https://www.instagram.com/reel/DfE21T6laGd/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myz4n7v4lp2f",
+    "featuredAt": "2026-10-29T11:03:58.292Z",
+    "slug": "lifeforge-app-lifeforge",
+    "hook": "Self-hosted life organizer built for you",
+    "pitch": "lifeforge lets you run a personal management system on your own server. Activate only the modules you need—like Todo, Budget or Journal—and keep all your data private. Docker support means you’re up and running in minutes 🚀"
   }
 ]

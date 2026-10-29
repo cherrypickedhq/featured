@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (56)
+## Featured (57)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**Lifeforge-app/lifeforge**](https://github.com/Lifeforge-app/lifeforge)<br><sub>★ 1.7k · TypeScript</sub> | A self-hosted solution to streamline and organize all aspects of your life. | [Lifeforge team](https://github.com/Lifeforge-app) | [Short](https://youtube.com/shorts/sJsT6Gh0Sus) · [Reel](https://www.instagram.com/reel/DfE21T6laGd/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myz4n7v4lp2f) | 2026-10-29 |
 | [**AppFlowy-IO/AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy)<br><sub>★ 78k · Dart</sub> | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control… | [AppFlowy-IO team](https://github.com/AppFlowy-IO) | [Short](https://youtube.com/shorts/p-JiWXBBpZo) · [Reel](https://www.instagram.com/reel/DfC9JiLD9oO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myxb7zi6gw2z) | 2026-10-28 |
 | [**T8RIN/ImageToolbox**](https://github.com/T8RIN/ImageToolbox)<br><sub>★ 15k · Kotlin</sub> | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to f… | [Malik Mukhametzyanov](https://github.com/T8RIN) | [Short](https://youtube.com/shorts/LZg5vwu01U8) · [Reel](https://www.instagram.com/reel/DfCQJGeEq4Y/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mywlakz45p2n) | 2026-10-28 |
 | [**appwrite/appwrite**](https://github.com/appwrite/appwrite)<br><sub>★ 58k · TypeScript</sub> | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more | [Appwrite team](https://github.com/appwrite) | [Short](https://youtube.com/shorts/jqiRi38SxUU) · [Reel](https://www.instagram.com/reel/DfAxA7FgX2b/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myv4sbfheb2f) | 2026-10-27 |
