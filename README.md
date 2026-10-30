@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (58)
+## Featured (59)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**pinpoint-apm/pinpoint**](https://github.com/pinpoint-apm/pinpoint)<br><sub>★ 14k · Java</sub> | APM, (Application Performance Management) tool for large-scale distributed systems. | [pinpoint-apm team](https://github.com/pinpoint-apm) | [Short](https://youtube.com/shorts/l5hhFMUmq5U) · [Reel](https://www.instagram.com/reel/DfHbLY2EUKI/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz3mv6ifw22t) | 2026-10-30 |
 | [**grafana/grafana**](https://github.com/grafana/grafana)<br><sub>★ 77k · TypeScript</sub> | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prome… | [Grafana Labs team](https://github.com/grafana) | [Short](https://youtube.com/shorts/LyyNO-Sksh8) · [Reel](https://www.instagram.com/reel/DfFjOX1myNM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myzsd4eg2z2w) | 2026-10-29 |
 | [**Lifeforge-app/lifeforge**](https://github.com/Lifeforge-app/lifeforge)<br><sub>★ 1.7k · TypeScript</sub> | A self-hosted solution to streamline and organize all aspects of your life. | [Lifeforge team](https://github.com/Lifeforge-app) | [Short](https://youtube.com/shorts/sJsT6Gh0Sus) · [Reel](https://www.instagram.com/reel/DfE21T6laGd/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myz4n7v4lp2f) | 2026-10-29 |
 | [**AppFlowy-IO/AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy)<br><sub>★ 78k · Dart</sub> | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control… | [AppFlowy-IO team](https://github.com/AppFlowy-IO) | [Short](https://youtube.com/shorts/p-JiWXBBpZo) · [Reel](https://www.instagram.com/reel/DfC9JiLD9oO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myxb7zi6gw2z) | 2026-10-28 |

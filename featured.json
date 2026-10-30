@@ -926,5 +926,21 @@
     "slug": "grafana-grafana",
     "hook": "Dashboard platform that dazzles instantly",
     "pitch": "Grafana lets you build fast, interactive dashboards that pull from multiple sources like Prometheus and Elasticsearch. Switch from metrics to logs in a click and set alerts that ping Slack or PagerDuty, all in an open-source TypeScript stack."
+  },
+  {
+    "repo": "pinpoint-apm/pinpoint",
+    "url": "https://github.com/pinpoint-apm/pinpoint",
+    "about": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+    "builder": "pinpoint-apm team",
+    "builderUrl": "https://github.com/pinpoint-apm",
+    "stars": 13867,
+    "language": "Java",
+    "youtube": "https://youtube.com/shorts/l5hhFMUmq5U",
+    "instagram": "https://www.instagram.com/reel/DfHbLY2EUKI/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz3mv6ifw22t",
+    "featuredAt": "2026-10-30T11:00:01.355Z",
+    "slug": "pinpoint-apm-pinpoint",
+    "hook": "See every transaction instantly",
+    "pitch": "Pinpoint is an open-source APM that traces Java, PHP and Python apps. It gives you a ServerMap view, a realtime thread chart and code-level call stacks, all with about 3% overhead."
   }
 ]
