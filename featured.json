@@ -942,5 +942,21 @@
     "slug": "pinpoint-apm-pinpoint",
     "hook": "See every transaction instantly",
     "pitch": "Pinpoint is an open-source APM that traces Java, PHP and Python apps. It gives you a ServerMap view, a realtime thread chart and code-level call stacks, all with about 3% overhead."
+  },
+  {
+    "repo": "calcom/cal.diy",
+    "url": "https://github.com/calcom/cal.diy",
+    "about": "Scheduling infrastructure for absolutely everyone.",
+    "builder": "Cal.com, Inc. team",
+    "builderUrl": "https://github.com/calcom",
+    "stars": 49137,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/LxvC9gxMfFw",
+    "instagram": "https://www.instagram.com/reel/DfIFX9kjl9P/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz4bia3lx32w",
+    "featuredAt": "2026-10-30T17:08:44.545Z",
+    "slug": "calcom-cal.diy",
+    "hook": "Someone built a self-hosted scheduler",
+    "pitch": "Cal.diy is a fully open-source scheduling platform you can self-host. No license key needed, it ships ready-to-run with Node ≥18 and PostgreSQL. Written in TypeScript."
   }
 ]

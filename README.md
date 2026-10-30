@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (59)
+## Featured (60)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**calcom/cal.diy**](https://github.com/calcom/cal.diy)<br><sub>★ 49k · TypeScript</sub> | Scheduling infrastructure for absolutely everyone. | [Cal.com, Inc. team](https://github.com/calcom) | [Short](https://youtube.com/shorts/LxvC9gxMfFw) · [Reel](https://www.instagram.com/reel/DfIFX9kjl9P/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz4bia3lx32w) | 2026-10-30 |
 | [**pinpoint-apm/pinpoint**](https://github.com/pinpoint-apm/pinpoint)<br><sub>★ 14k · Java</sub> | APM, (Application Performance Management) tool for large-scale distributed systems. | [pinpoint-apm team](https://github.com/pinpoint-apm) | [Short](https://youtube.com/shorts/l5hhFMUmq5U) · [Reel](https://www.instagram.com/reel/DfHbLY2EUKI/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz3mv6ifw22t) | 2026-10-30 |
 | [**grafana/grafana**](https://github.com/grafana/grafana)<br><sub>★ 77k · TypeScript</sub> | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prome… | [Grafana Labs team](https://github.com/grafana) | [Short](https://youtube.com/shorts/LyyNO-Sksh8) · [Reel](https://www.instagram.com/reel/DfFjOX1myNM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myzsd4eg2z2w) | 2026-10-29 |
 | [**Lifeforge-app/lifeforge**](https://github.com/Lifeforge-app/lifeforge)<br><sub>★ 1.7k · TypeScript</sub> | A self-hosted solution to streamline and organize all aspects of your life. | [Lifeforge team](https://github.com/Lifeforge-app) | [Short](https://youtube.com/shorts/sJsT6Gh0Sus) · [Reel](https://www.instagram.com/reel/DfE21T6laGd/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myz4n7v4lp2f) | 2026-10-29 |
