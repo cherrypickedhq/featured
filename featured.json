@@ -990,5 +990,21 @@
     "slug": "gorhill-ublock",
     "hook": "Someone built an insanely fast blocker",
     "pitch": "uBlock Origin is a lightweight browser extension that blocks ads, trackers, and malware while keeping your browsing speedy. It uses EasyList and other filter lists out of the box, and offers a point-click firewall for per-site control."
+  },
+  {
+    "repo": "webbrain-one/webbrain",
+    "url": "https://github.com/webbrain-one/webbrain",
+    "about": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠",
+    "builder": "WebBrain",
+    "builderUrl": "https://github.com/webbrain-one",
+    "stars": 1487,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/FzbTZENN2ks",
+    "instagram": "https://www.instagram.com/reel/DfK_rbAiBA1/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz74hbqaw622",
+    "featuredAt": "2026-10-31T20:15:52.354Z",
+    "slug": "webbrain-one-webbrain",
+    "hook": "AI sidekick in your browser",
+    "pitch": "Add an AI assistant right in your browser. It reads any page—including PDFs—through the accessibility tree and can click, type, or scroll after you approve its plan. Open-source, written in JavaScript, and works on Chrome and Firefox."
   }
 ]
