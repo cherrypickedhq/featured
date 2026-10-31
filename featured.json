@@ -974,5 +974,21 @@
     "slug": "nuxt-ui",
     "hook": "Vue UI kit you can drop in",
     "pitch": "A ready-made Vue component library that’s typed with TypeScript and plugs in as a Nuxt module or Vite plugin. It comes with accessible components and Tailwind CSS built in, so you can start building UI fast."
+  },
+  {
+    "repo": "gorhill/uBlock",
+    "url": "https://github.com/gorhill/uBlock",
+    "about": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "builder": "Raymond Hill",
+    "builderUrl": "https://github.com/gorhill",
+    "stars": 68657,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/WdpH2dmLsJY",
+    "instagram": "https://www.instagram.com/reel/DfKhW1vD_Ae/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz6no3arq42p",
+    "featuredAt": "2026-10-31T15:51:41.911Z",
+    "slug": "gorhill-ublock",
+    "hook": "Someone built an insanely fast blocker",
+    "pitch": "uBlock Origin is a lightweight browser extension that blocks ads, trackers, and malware while keeping your browsing speedy. It uses EasyList and other filter lists out of the box, and offers a point-click firewall for per-site control."
   }
 ]
