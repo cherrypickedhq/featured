@@ -958,5 +958,21 @@
     "slug": "calcom-cal.diy",
     "hook": "Someone built a self-hosted scheduler",
     "pitch": "Cal.diy is a fully open-source scheduling platform you can self-host. No license key needed, it ships ready-to-run with Node ≥18 and PostgreSQL. Written in TypeScript."
+  },
+  {
+    "repo": "nuxt/ui",
+    "url": "https://github.com/nuxt/ui",
+    "about": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+    "builder": "Nuxt team",
+    "builderUrl": "https://github.com/nuxt",
+    "stars": 7017,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/H0zBaLP2NpE",
+    "instagram": "https://www.instagram.com/reel/DfJ9DM5gkmp/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz63w4u7qg2v",
+    "featuredAt": "2026-10-31T10:34:26.640Z",
+    "slug": "nuxt-ui",
+    "hook": "Vue UI kit you can drop in",
+    "pitch": "A ready-made Vue component library that’s typed with TypeScript and plugs in as a Nuxt module or Vite plugin. It comes with accessible components and Tailwind CSS built in, so you can start building UI fast."
   }
 ]

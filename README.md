@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (60)
+## Featured (61)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**nuxt/ui**](https://github.com/nuxt/ui)<br><sub>★ 7k · TypeScript</sub> | The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS. | [Nuxt team](https://github.com/nuxt) | [Short](https://youtube.com/shorts/H0zBaLP2NpE) · [Reel](https://www.instagram.com/reel/DfJ9DM5gkmp/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz63w4u7qg2v) | 2026-10-31 |
 | [**calcom/cal.diy**](https://github.com/calcom/cal.diy)<br><sub>★ 49k · TypeScript</sub> | Scheduling infrastructure for absolutely everyone. | [Cal.com, Inc. team](https://github.com/calcom) | [Short](https://youtube.com/shorts/LxvC9gxMfFw) · [Reel](https://www.instagram.com/reel/DfIFX9kjl9P/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz4bia3lx32w) | 2026-10-30 |
 | [**pinpoint-apm/pinpoint**](https://github.com/pinpoint-apm/pinpoint)<br><sub>★ 14k · Java</sub> | APM, (Application Performance Management) tool for large-scale distributed systems. | [pinpoint-apm team](https://github.com/pinpoint-apm) | [Short](https://youtube.com/shorts/l5hhFMUmq5U) · [Reel](https://www.instagram.com/reel/DfHbLY2EUKI/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz3mv6ifw22t) | 2026-10-30 |
 | [**grafana/grafana**](https://github.com/grafana/grafana)<br><sub>★ 77k · TypeScript</sub> | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prome… | [Grafana Labs team](https://github.com/grafana) | [Short](https://youtube.com/shorts/LyyNO-Sksh8) · [Reel](https://www.instagram.com/reel/DfFjOX1myNM/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3myzsd4eg2z2w) | 2026-10-29 |
