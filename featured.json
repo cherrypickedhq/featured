@@ -1022,5 +1022,21 @@
     "slug": "ocornut-imgui",
     "hook": "A UI library that feels like magic",
     "pitch": "Dear ImGui is a bloat-free immediate mode graphical user interface library for C++. It has no external dependencies, requires no special build process, and simply outputs optimized vertex buffers you can render anywhere in your 3D pipeline."
+  },
+  {
+    "repo": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "about": "A simple and easy-to-use library to enjoy videogames programming",
+    "builder": "Ray",
+    "builderUrl": "https://github.com/raysan5",
+    "stars": 35291,
+    "language": "C",
+    "youtube": "https://youtube.com/shorts/2X1ZgWb7blg",
+    "instagram": "https://www.instagram.com/reel/DfNPnhaCOjI/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzbcr5mqpk22",
+    "featuredAt": "2026-11-01T17:14:18.042Z",
+    "slug": "raysan5-raylib",
+    "hook": "Game dev without the bloat",
+    "pitch": "A lightweight C library for making games and graphics tools. It has zero external dependencies and runs hardware-accelerated with OpenGL on Windows, Linux, macOS, Android, and the web. Perfect for quick prototypes and learning. 🎮"
   }
 ]
