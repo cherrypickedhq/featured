@@ -1006,5 +1006,21 @@
     "slug": "webbrain-one-webbrain",
     "hook": "AI sidekick in your browser",
     "pitch": "Add an AI assistant right in your browser. It reads any page—including PDFs—through the accessibility tree and can click, type, or scroll after you approve its plan. Open-source, written in JavaScript, and works on Chrome and Firefox."
+  },
+  {
+    "repo": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "about": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "builder": "omar",
+    "builderUrl": "https://github.com/ocornut",
+    "stars": 76717,
+    "language": "C++",
+    "youtube": "https://youtube.com/shorts/OMXvhYIf-IA",
+    "instagram": "https://www.instagram.com/reel/DfMn865CrE4/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzapfkzhoq2p",
+    "featuredAt": "2026-11-01T11:27:48.304Z",
+    "slug": "ocornut-imgui",
+    "hook": "A UI library that feels like magic",
+    "pitch": "Dear ImGui is a bloat-free immediate mode graphical user interface library for C++. It has no external dependencies, requires no special build process, and simply outputs optimized vertex buffers you can render anywhere in your 3D pipeline."
   }
 ]

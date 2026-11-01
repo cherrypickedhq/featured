@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (63)
+## Featured (64)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ocornut/imgui**](https://github.com/ocornut/imgui)<br><sub>★ 77k · C++</sub> | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | [omar](https://github.com/ocornut) | [Short](https://youtube.com/shorts/OMXvhYIf-IA) · [Reel](https://www.instagram.com/reel/DfMn865CrE4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzapfkzhoq2p) | 2026-11-01 |
 | [**webbrain-one/webbrain**](https://github.com/webbrain-one/webbrain)<br><sub>★ 1.5k · JavaScript</sub> | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 | [WebBrain](https://github.com/webbrain-one) | [Short](https://youtube.com/shorts/FzbTZENN2ks) · [Reel](https://www.instagram.com/reel/DfK_rbAiBA1/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz74hbqaw622) | 2026-10-31 |
 | [**gorhill/uBlock**](https://github.com/gorhill/uBlock)<br><sub>★ 69k · JavaScript</sub> | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | [Raymond Hill](https://github.com/gorhill) | [Short](https://youtube.com/shorts/WdpH2dmLsJY) · [Reel](https://www.instagram.com/reel/DfKhW1vD_Ae/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz6no3arq42p) | 2026-10-31 |
 | [**nuxt/ui**](https://github.com/nuxt/ui)<br><sub>★ 7k · TypeScript</sub> | The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS. | [Nuxt team](https://github.com/nuxt) | [Short](https://youtube.com/shorts/H0zBaLP2NpE) · [Reel](https://www.instagram.com/reel/DfJ9DM5gkmp/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz63w4u7qg2v) | 2026-10-31 |
