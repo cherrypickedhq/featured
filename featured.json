@@ -1038,5 +1038,21 @@
     "slug": "raysan5-raylib",
     "hook": "Game dev without the bloat",
     "pitch": "A lightweight C library for making games and graphics tools. It has zero external dependencies and runs hardware-accelerated with OpenGL on Windows, Linux, macOS, Android, and the web. Perfect for quick prototypes and learning. 🎮"
+  },
+  {
+    "repo": "stride3d/stride",
+    "url": "https://github.com/stride3d/stride",
+    "about": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+    "builder": "Stride team",
+    "builderUrl": "https://github.com/stride3d",
+    "stars": 7889,
+    "language": "C#",
+    "youtube": "https://youtube.com/shorts/udSN4BNB2vI",
+    "instagram": "https://www.instagram.com/reel/DfPWFdFitG1/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzdefez6lc2p",
+    "featuredAt": "2026-11-02T12:49:24.937Z",
+    "slug": "stride3d-stride",
+    "hook": "Open-source C# game engine",
+    "pitch": "Stride is an open-source cross-platform game engine built for C# developers, featuring realistic rendering and VR support. It includes the Game Studio editor for visual assets alongside a CLI tool that lets you generate and run project templates straight from your terminal."
   }
 ]

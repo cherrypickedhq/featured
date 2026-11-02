@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (65)
+## Featured (66)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**stride3d/stride**](https://github.com/stride3d/stride)<br><sub>★ 7.9k · C#</sub> | Stride (formerly Xenko), a free and open-source cross-platform C# game engine. | [Stride team](https://github.com/stride3d) | [Short](https://youtube.com/shorts/udSN4BNB2vI) · [Reel](https://www.instagram.com/reel/DfPWFdFitG1/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzdefez6lc2p) | 2026-11-02 |
 | [**raysan5/raylib**](https://github.com/raysan5/raylib)<br><sub>★ 35k · C</sub> | A simple and easy-to-use library to enjoy videogames programming | [Ray](https://github.com/raysan5) | [Short](https://youtube.com/shorts/2X1ZgWb7blg) · [Reel](https://www.instagram.com/reel/DfNPnhaCOjI/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzbcr5mqpk22) | 2026-11-01 |
 | [**ocornut/imgui**](https://github.com/ocornut/imgui)<br><sub>★ 77k · C++</sub> | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | [omar](https://github.com/ocornut) | [Short](https://youtube.com/shorts/OMXvhYIf-IA) · [Reel](https://www.instagram.com/reel/DfMn865CrE4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzapfkzhoq2p) | 2026-11-01 |
 | [**webbrain-one/webbrain**](https://github.com/webbrain-one/webbrain)<br><sub>★ 1.5k · JavaScript</sub> | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 | [WebBrain](https://github.com/webbrain-one) | [Short](https://youtube.com/shorts/FzbTZENN2ks) · [Reel](https://www.instagram.com/reel/DfK_rbAiBA1/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mz74hbqaw622) | 2026-10-31 |
