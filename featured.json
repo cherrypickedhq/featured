@@ -1054,5 +1054,21 @@
     "slug": "stride3d-stride",
     "hook": "Open-source C# game engine",
     "pitch": "Stride is an open-source cross-platform game engine built for C# developers, featuring realistic rendering and VR support. It includes the Game Studio editor for visual assets alongside a CLI tool that lets you generate and run project templates straight from your terminal."
+  },
+  {
+    "repo": "usebruno/bruno",
+    "url": "https://github.com/usebruno/bruno",
+    "about": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+    "builder": "Bruno Software Inc team",
+    "builderUrl": "https://github.com/usebruno",
+    "stars": 47718,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/jfvbwG8Hexs",
+    "instagram": "https://www.instagram.com/reel/DfQbG1GDLE9/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzeg3yzioj2b",
+    "featuredAt": "2026-11-02T22:52:32.854Z",
+    "slug": "usebruno-bruno",
+    "hook": "API tool that lives on desktop",
+    "pitch": "Tired of bloated API clients with forced cloud sync? Bruno stores your collections directly on your filesystem as plain text files, so you can version and collaborate using Git. It is offline-only, keeping your API data safely on your machine."
   }
 ]
