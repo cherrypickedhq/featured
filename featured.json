@@ -1070,5 +1070,20 @@
     "slug": "usebruno-bruno",
     "hook": "API tool that lives on desktop",
     "pitch": "Tired of bloated API clients with forced cloud sync? Bruno stores your collections directly on your filesystem as plain text files, so you can version and collaborate using Git. It is offline-only, keeping your API data safely on your machine."
+  },
+  {
+    "repo": "TanStack/ai",
+    "url": "https://github.com/TanStack/ai",
+    "about": "🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.",
+    "builder": "TanStack team",
+    "builderUrl": "https://github.com/TanStack",
+    "stars": 3247,
+    "language": "TypeScript",
+    "instagram": "https://www.instagram.com/reel/DfR3VrHFp03/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzft4rou5p2w",
+    "featuredAt": "2026-11-03T12:19:04.402Z",
+    "slug": "tanstack-ai",
+    "hook": "Type-safe AI SDK for any provider",
+    "pitch": "A TypeScript SDK that lets you stream chat, tool calls and multimodal prompts with full type safety. Import only the adapters you need—swap OpenAI, Anthropic or Gemini in a single line. Perfect for building typed AI features fast."
   }
 ]

@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (67)
+## Featured (68)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**TanStack/ai**](https://github.com/TanStack/ai)<br><sub>★ 3.2k · TypeScript</sub> | 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, G… | [TanStack team](https://github.com/TanStack) | [Reel](https://www.instagram.com/reel/DfR3VrHFp03/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzft4rou5p2w) | 2026-11-03 |
 | [**usebruno/bruno**](https://github.com/usebruno/bruno)<br><sub>★ 48k · JavaScript</sub> | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | [Bruno Software Inc team](https://github.com/usebruno) | [Short](https://youtube.com/shorts/jfvbwG8Hexs) · [Reel](https://www.instagram.com/reel/DfQbG1GDLE9/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzeg3yzioj2b) | 2026-11-02 |
 | [**stride3d/stride**](https://github.com/stride3d/stride)<br><sub>★ 7.9k · C#</sub> | Stride (formerly Xenko), a free and open-source cross-platform C# game engine. | [Stride team](https://github.com/stride3d) | [Short](https://youtube.com/shorts/udSN4BNB2vI) · [Reel](https://www.instagram.com/reel/DfPWFdFitG1/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzdefez6lc2p) | 2026-11-02 |
 | [**raysan5/raylib**](https://github.com/raysan5/raylib)<br><sub>★ 35k · C</sub> | A simple and easy-to-use library to enjoy videogames programming | [Ray](https://github.com/raysan5) | [Short](https://youtube.com/shorts/2X1ZgWb7blg) · [Reel](https://www.instagram.com/reel/DfNPnhaCOjI/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzbcr5mqpk22) | 2026-11-01 |
