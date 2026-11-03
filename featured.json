@@ -1085,5 +1085,20 @@
     "slug": "tanstack-ai",
     "hook": "Type-safe AI SDK for any provider",
     "pitch": "A TypeScript SDK that lets you stream chat, tool calls and multimodal prompts with full type safety. Import only the adapters you need—swap OpenAI, Anthropic or Gemini in a single line. Perfect for building typed AI features fast."
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "builder": "IceWhale team",
+    "builderUrl": "https://github.com/IceWhaleTech",
+    "stars": 37368,
+    "language": "Go",
+    "instagram": "https://www.instagram.com/reel/DfSwW4KjQZK/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzgoxyltzg2z",
+    "featuredAt": "2026-11-03T20:37:23.265Z",
+    "slug": "icewhaletech-casaos",
+    "hook": "Personal cloud for your home",
+    "pitch": "CasaOS lets you spin up a personal cloud at home with a single command—no coding needed. It runs on Raspberry Pi, Intel NUC or any PC and offers thousands of Docker apps ready to install."
   }
 ]
