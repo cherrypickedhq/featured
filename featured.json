@@ -1100,5 +1100,20 @@
     "slug": "icewhaletech-casaos",
     "hook": "Personal cloud for your home",
     "pitch": "CasaOS lets you spin up a personal cloud at home with a single command—no coding needed. It runs on Raspberry Pi, Intel NUC or any PC and offers thousands of Docker apps ready to install."
+  },
+  {
+    "repo": "jxlarrea/kiosk-satellite",
+    "url": "https://github.com/jxlarrea/kiosk-satellite",
+    "about": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+    "builder": "Xavier Larrea",
+    "builderUrl": "https://github.com/jxlarrea",
+    "stars": 2065,
+    "language": "Dart",
+    "instagram": "https://www.instagram.com/reel/DfUdRozlST4/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzie63s6md2w",
+    "featuredAt": "2026-11-04T12:29:11.188Z",
+    "slug": "jxlarrea-kiosk-satellite",
+    "hook": "Someone built a talking Home Assistant kiosk",
+    "pitch": "A free Android app that makes any device a dedicated Home Assistant kiosk. It offers native voice control that works even with the screen off, plus optimized dashboard rendering and synced music playback. Perfect for a hands-free smart home setup."
   }
 ]
