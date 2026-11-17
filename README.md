@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (70)
+## Featured (71)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**team-spotube/spotube**](https://github.com/team-spotube/spotube)<br><sub>★ 51k · Kotlin</sub> | 🎧 Open source music streaming app! Available for both desktop & mobile! | [Team Spotube team](https://github.com/team-spotube) | [Short](https://youtube.com/shorts/nL2oC86mJQI) · [Reel](https://www.instagram.com/reel/Df3BRsBApp4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2k4aftp3u2i) | 2026-11-17 |
 | [**jxlarrea/kiosk-satellite**](https://github.com/jxlarrea/kiosk-satellite)<br><sub>★ 2.1k · Dart</sub> | Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up. | [Xavier Larrea](https://github.com/jxlarrea) | [Short](https://youtube.com/shorts/BZusiyXbVfg) · [Reel](https://www.instagram.com/reel/DfUdRozlST4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzie63s6md2w) | 2026-11-04 |
 | [**IceWhaleTech/CasaOS**](https://github.com/IceWhaleTech/CasaOS)<br><sub>★ 37k · Go</sub> | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | [IceWhale team](https://github.com/IceWhaleTech) | [Short](https://youtube.com/shorts/a8Jr_6_yGCg) · [Reel](https://www.instagram.com/reel/DfSwW4KjQZK/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzgoxyltzg2z) | 2026-11-03 |
 | [**TanStack/ai**](https://github.com/TanStack/ai)<br><sub>★ 3.2k · TypeScript</sub> | 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, G… | [TanStack team](https://github.com/TanStack) | [Short](https://youtube.com/shorts/BhzWMdO15xA) · [Reel](https://www.instagram.com/reel/DfR3VrHFp03/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzft4rou5p2w) | 2026-11-03 |

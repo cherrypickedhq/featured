@@ -1118,5 +1118,21 @@
     "slug": "jxlarrea-kiosk-satellite",
     "hook": "Someone built a talking Home Assistant kiosk",
     "pitch": "A free Android app that makes any device a dedicated Home Assistant kiosk. It offers native voice control that works even with the screen off, plus optimized dashboard rendering and synced music playback. Perfect for a hands-free smart home setup."
+  },
+  {
+    "repo": "team-spotube/spotube",
+    "url": "https://github.com/team-spotube/spotube",
+    "about": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+    "builder": "Team Spotube team",
+    "builderUrl": "https://github.com/team-spotube",
+    "stars": 50811,
+    "language": "Kotlin",
+    "youtube": "https://youtube.com/shorts/nL2oC86mJQI",
+    "instagram": "https://www.instagram.com/reel/Df3BRsBApp4/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2k4aftp3u2i",
+    "featuredAt": "2026-11-17T22:37:12.723Z",
+    "slug": "team-spotube-spotube",
+    "hook": "Music app that runs everywhere",
+    "pitch": "Spotube streams your favorite tracks on desktop and mobile with a tiny footprint and low data usage. It’s plugin-powered, so you can add any music service you like, all in native Kotlin performance."
   }
 ]
