@@ -1134,5 +1134,21 @@
     "slug": "team-spotube-spotube",
     "hook": "Music app that runs everywhere",
     "pitch": "Spotube streams your favorite tracks on desktop and mobile with a tiny footprint and low data usage. It’s plugin-powered, so you can add any music service you like, all in native Kotlin performance."
+  },
+  {
+    "repo": "callstack/agent-device",
+    "url": "https://github.com/callstack/agent-device",
+    "about": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+    "builder": "Callstack team",
+    "builderUrl": "https://github.com/callstack",
+    "stars": 5420,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/1B9zxbt6Sog",
+    "instagram": "https://www.instagram.com/reel/Df4HtO4nMhe/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2l6mp7pck2a",
+    "featuredAt": "2026-11-18T08:52:39.985Z",
+    "slug": "callstack-agent-device",
+    "hook": "AI agents can now drive apps",
+    "pitch": "A TypeScript library that lets AI agents control mobile, web, TV and desktop apps. Open an app and snapshot its UI with a single CLI command, then tap, fill, scroll and capture logs—all from the command line."
   }
 ]
