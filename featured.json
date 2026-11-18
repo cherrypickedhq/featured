@@ -1150,5 +1150,21 @@
     "slug": "callstack-agent-device",
     "hook": "AI agents can now drive apps",
     "pitch": "A TypeScript library that lets AI agents control mobile, web, TV and desktop apps. Open an app and snapshot its UI with a single CLI command, then tap, fill, scroll and capture logs—all from the command line."
+  },
+  {
+    "repo": "OSGeo/grass",
+    "url": "https://github.com/OSGeo/grass",
+    "about": "GRASS - free and open-source geospatial processing engine",
+    "builder": "Open Source Geospatial Foundation team",
+    "builderUrl": "https://github.com/OSGeo",
+    "stars": 1188,
+    "language": "C",
+    "youtube": "https://youtube.com/shorts/xmNJKSjcJwE",
+    "instagram": "https://www.instagram.com/reel/Df4M2BCDFyU/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lb562ifg27",
+    "featuredAt": "2026-11-18T09:37:32.678Z",
+    "slug": "osgeo-grass",
+    "hook": "GIS engine that crunches Earth data",
+    "pitch": "GRASS is a free, open-source GIS engine that handles raster, vector and time-series analysis. Its built-in temporal framework and Python API let you script massive parallel jobs easily."
   }
 ]

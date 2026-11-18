@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (72)
+## Featured (73)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**OSGeo/grass**](https://github.com/OSGeo/grass)<br><sub>★ 1.2k · C</sub> | GRASS - free and open-source geospatial processing engine | [Open Source Geospatial Foundation team](https://github.com/OSGeo) | [Short](https://youtube.com/shorts/xmNJKSjcJwE) · [Reel](https://www.instagram.com/reel/Df4M2BCDFyU/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lb562ifg27) | 2026-11-18 |
 | [**callstack/agent-device**](https://github.com/callstack/agent-device)<br><sub>★ 5.4k · TypeScript</sub> | Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on dev… | [Callstack team](https://github.com/callstack) | [Short](https://youtube.com/shorts/1B9zxbt6Sog) · [Reel](https://www.instagram.com/reel/Df4HtO4nMhe/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2l6mp7pck2a) | 2026-11-18 |
 | [**team-spotube/spotube**](https://github.com/team-spotube/spotube)<br><sub>★ 51k · Kotlin</sub> | 🎧 Open source music streaming app! Available for both desktop & mobile! | [Team Spotube team](https://github.com/team-spotube) | [Short](https://youtube.com/shorts/nL2oC86mJQI) · [Reel](https://www.instagram.com/reel/Df3BRsBApp4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2k4aftp3u2i) | 2026-11-17 |
 | [**jxlarrea/kiosk-satellite**](https://github.com/jxlarrea/kiosk-satellite)<br><sub>★ 2.1k · Dart</sub> | Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up. | [Xavier Larrea](https://github.com/jxlarrea) | [Short](https://youtube.com/shorts/BZusiyXbVfg) · [Reel](https://www.instagram.com/reel/DfUdRozlST4/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3mzie63s6md2w) | 2026-11-04 |
