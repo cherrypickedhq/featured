@@ -1,0 +1,99 @@
+name: Clock
+
+# Starts cherrypickedhq/queue's Publish run at each posting slot (10:07, 15:07 and 20:07 IST), because
+# GitHub's cron over there fires only 2-3 of its 9 runs a day, hours late. Each run waits (an
+# environment wait timer, which uses no runner minutes) until shortly before the next slot, sleeps the
+# rest, starts Publish, then starts the next Clock run. Publish's cron stays as the backup and starts
+# this chain again if it ever breaks. Kick it by hand with: gh workflow run clock.yml -R cherrypickedhq/featured
+on:
+  workflow_dispatch:
+    inputs:
+      wait:
+        description: "Wait first: none, short (4h40m, clock-short) or long (13h40m, clock-long)"
+        type: choice
+        options: [none, short, long]
+        default: none
+
+permissions:
+  actions: write
+
+jobs:
+  short:
+    if: inputs.wait == 'short'
+    runs-on: ubuntu-latest
+    environment: clock-short
+    steps:
+      - run: echo "waited 4h40m"
+
+  long:
+    if: inputs.wait == 'long'
+    runs-on: ubuntu-latest
+    environment: clock-long
+    steps:
+      - run: echo "waited 13h40m"
+
+  tick:
+    needs: [short, long]
+    if: ${{ !cancelled() && !failure() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Only one chain
+        id: solo
+        run: |
+          # Two chains (say, a hand kick while one waits): the newer one stops, the older one goes on.
+          older=$(gh run list -R "$GITHUB_REPOSITORY" -w clock.yml -L 50 --json databaseId,status \
+            --jq "[.[] | select(.status != \"completed\" and .databaseId < $GITHUB_RUN_ID)] | length")
+          echo "older=$older" >> "$GITHUB_OUTPUT"
+          [ "$older" = 0 ] || echo "An older Clock run is still going; this one stops."
+
+      - name: Plan
+        id: plan
+        if: steps.solo.outputs.older == '0'
+        run: |
+          node -e '
+            // Slots: 04:37, 09:37 and 14:37 UTC (7 minutes after 10:00, 15:00 and 20:00 IST).
+            const slots = [[4, 37], [9, 37], [14, 37]];
+            const next = (from) => {
+              const d = new Date(from);
+              for (let day = 0; day < 3; day++)
+                for (const [h, m] of slots) {
+                  const t = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate() + day, h, m);
+                  if (t >= from) return t;
+                }
+            };
+            const now = Date.now();
+            const slot = next(now - 60 * 60e3); // up to an hour late still counts as this slot
+            const wait = Math.max(0, slot - now);
+            let out;
+            if (wait > 350 * 60e3) out = { fire: false, sleep: 0, then: "short" }; // too far: hop closer
+            else {
+              const gap = next(slot + 60e3) - slot;
+              out = { fire: true, sleep: Math.round(wait / 1000), then: gap > 6 * 3600e3 ? "long" : "short" };
+            }
+            console.log(`slot ${new Date(slot).toISOString()}:`, JSON.stringify(out));
+            require("fs").appendFileSync(process.env.GITHUB_OUTPUT,
+              Object.entries(out).map(([k, v]) => `${k}=${v}\n`).join(""));
+          '
+
+      - name: Sleep until the slot
+        if: steps.plan.outputs.fire == 'true'
+        run: sleep ${{ steps.plan.outputs.sleep }}
+
+      - name: Start Publish
+        if: steps.plan.outputs.fire == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.QUEUE_TOKEN }}
+        run: gh workflow run publish.yml -R cherrypickedhq/queue
+
+      - name: Start the next Clock run
+        if: steps.solo.outputs.older == '0'
+        run: |
+          for i in 1 2 3 4 5; do
+            gh workflow run clock.yml -R "$GITHUB_REPOSITORY" -f wait=${{ steps.plan.outputs.then }} && exit 0
+            sleep 60
+          done
+          exit 1
