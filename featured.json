@@ -1166,5 +1166,21 @@
     "slug": "osgeo-grass",
     "hook": "GIS engine that crunches Earth data",
     "pitch": "GRASS is a free, open-source GIS engine that handles raster, vector and time-series analysis. Its built-in temporal framework and Python API let you script massive parallel jobs easily."
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "about": "Lightpanda: the headless browser designed for AI and automation",
+    "builder": "Lightpanda team",
+    "builderUrl": "https://github.com/lightpanda-io",
+    "stars": 42169,
+    "language": "Zig",
+    "youtube": "https://youtube.com/shorts/_hDyyhN21hw",
+    "instagram": "https://www.instagram.com/reel/Df4vQrDjlQs/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lrwzwd7m2k",
+    "featuredAt": "2026-11-18T14:37:36.540Z",
+    "slug": "lightpanda-io-browser",
+    "hook": "Someone built a browser that thinks like AI",
+    "pitch": "A lightweight headless browser written in Zig that runs JavaScript with V8. It’s about 16× lighter and 9× faster than Chromium, letting AI agents fetch and render pages as HTML, markdown, PNG or PDF."
   }
 ]
