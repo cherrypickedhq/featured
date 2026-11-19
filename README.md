@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (74)
+## Featured (75)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ddalcu/mlx-serve**](https://github.com/ddalcu/mlx-serve)<br><sub>★ 2.5k · Zig</sub> | Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with cha… | [David Dalcu](https://github.com/ddalcu) | [Short](https://youtube.com/shorts/quAhxDvC0U4) · [Reel](https://www.instagram.com/reel/Df6PUonnFPk/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2natpaska2v) | 2026-11-19 |
 | [**lightpanda-io/browser**](https://github.com/lightpanda-io/browser)<br><sub>★ 42k · Zig</sub> | Lightpanda: the headless browser designed for AI and automation | [Lightpanda team](https://github.com/lightpanda-io) | [Short](https://youtube.com/shorts/_hDyyhN21hw) · [Reel](https://www.instagram.com/reel/Df4vQrDjlQs/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lrwzwd7m2k) | 2026-11-18 |
 | [**OSGeo/grass**](https://github.com/OSGeo/grass)<br><sub>★ 1.2k · C</sub> | GRASS - free and open-source geospatial processing engine | [Open Source Geospatial Foundation team](https://github.com/OSGeo) | [Short](https://youtube.com/shorts/xmNJKSjcJwE) · [Reel](https://www.instagram.com/reel/Df4M2BCDFyU/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lb562ifg27) | 2026-11-18 |
 | [**callstack/agent-device**](https://github.com/callstack/agent-device)<br><sub>★ 5.4k · TypeScript</sub> | Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on dev… | [Callstack team](https://github.com/callstack) | [Short](https://youtube.com/shorts/1B9zxbt6Sog) · [Reel](https://www.instagram.com/reel/Df4HtO4nMhe/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2l6mp7pck2a) | 2026-11-18 |

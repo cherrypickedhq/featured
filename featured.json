@@ -1182,5 +1182,21 @@
     "slug": "lightpanda-io-browser",
     "hook": "Someone built a browser that thinks like AI",
     "pitch": "A lightweight headless browser written in Zig that runs JavaScript with V8. It’s about 16× lighter and 9× faster than Chromium, letting AI agents fetch and render pages as HTML, markdown, PNG or PDF."
+  },
+  {
+    "repo": "ddalcu/mlx-serve",
+    "url": "https://github.com/ddalcu/mlx-serve",
+    "about": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+    "builder": "David Dalcu",
+    "builderUrl": "https://github.com/ddalcu",
+    "stars": 2483,
+    "language": "Zig",
+    "youtube": "https://youtube.com/shorts/quAhxDvC0U4",
+    "instagram": "https://www.instagram.com/reel/Df6PUonnFPk/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2natpaska2v",
+    "featuredAt": "2026-11-19T04:37:42.274Z",
+    "slug": "ddalcu-mlx-serve",
+    "hook": "Mac AI server runs offline",
+    "pitch": "mlx-serve lets you run LLMs and media generation offline on Apple Silicon. Install the app by dragging it to Applications—no Python needed—and access OpenAI-compatible APIs right on your Mac."
   }
 ]
