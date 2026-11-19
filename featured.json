@@ -1214,5 +1214,21 @@
     "slug": "opendatalab-mineru",
     "hook": "Turn PDFs into AI-ready text",
     "pitch": "MinerU parses PDFs, Word, Excel, and images into clean markdown or JSON for your AI agents. Choose the fast \"flash\" tier for instant snippets, or ramp up to advanced parsing for complex layouts. All via a simple Python CLI."
+  },
+  {
+    "repo": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "about": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "builder": "The Apache Software Foundation team",
+    "builderUrl": "https://github.com/apache",
+    "stars": 75538,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/kuhEwBkOmX0",
+    "instagram": "https://www.instagram.com/reel/Df7T-wqCqYJ/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2oceksorz22",
+    "featuredAt": "2026-11-19T14:37:37.046Z",
+    "slug": "apache-superset",
+    "hook": "A data playground you can explore.",
+    "pitch": "Superset lets you explore data with a no-code UI for building charts and a web-based SQL editor for advanced queries. It adds a lightweight semantic layer and secure role-based access, so you can spin up interactive dashboards fast. 🚀"
   }
 ]

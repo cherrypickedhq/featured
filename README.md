@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (76)
+## Featured (77)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**apache/superset**](https://github.com/apache/superset)<br><sub>★ 76k · Python</sub> | Apache Superset is a Data Visualization and Data Exploration Platform | [The Apache Software Foundation team](https://github.com/apache) | [Short](https://youtube.com/shorts/kuhEwBkOmX0) · [Reel](https://www.instagram.com/reel/Df7T-wqCqYJ/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2oceksorz22) | 2026-11-19 |
 | [**opendatalab/MinerU**](https://github.com/opendatalab/MinerU)<br><sub>★ 84k · Python</sub> | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | [OpenDataLab team](https://github.com/opendatalab) | [Short](https://youtube.com/shorts/E5ZTwYDu0e8) · [Reel](https://www.instagram.com/reel/Df6xt3jimwg/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2nrn3qatc2t) | 2026-11-19 |
 | [**ddalcu/mlx-serve**](https://github.com/ddalcu/mlx-serve)<br><sub>★ 2.5k · Zig</sub> | Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with cha… | [David Dalcu](https://github.com/ddalcu) | [Short](https://youtube.com/shorts/quAhxDvC0U4) · [Reel](https://www.instagram.com/reel/Df6PUonnFPk/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2natpaska2v) | 2026-11-19 |
 | [**lightpanda-io/browser**](https://github.com/lightpanda-io/browser)<br><sub>★ 42k · Zig</sub> | Lightpanda: the headless browser designed for AI and automation | [Lightpanda team](https://github.com/lightpanda-io) | [Short](https://youtube.com/shorts/_hDyyhN21hw) · [Reel](https://www.instagram.com/reel/Df4vQrDjlQs/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2lrwzwd7m2k) | 2026-11-18 |
