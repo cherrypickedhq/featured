@@ -1198,5 +1198,21 @@
     "slug": "ddalcu-mlx-serve",
     "hook": "Mac AI server runs offline",
     "pitch": "mlx-serve lets you run LLMs and media generation offline on Apple Silicon. Install the app by dragging it to Applications—no Python needed—and access OpenAI-compatible APIs right on your Mac."
+  },
+  {
+    "repo": "opendatalab/MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "about": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "builder": "OpenDataLab team",
+    "builderUrl": "https://github.com/opendatalab",
+    "stars": 83786,
+    "language": "Python",
+    "youtube": "https://youtube.com/shorts/E5ZTwYDu0e8",
+    "instagram": "https://www.instagram.com/reel/Df6xt3jimwg/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2nrn3qatc2t",
+    "featuredAt": "2026-11-19T09:37:43.003Z",
+    "slug": "opendatalab-mineru",
+    "hook": "Turn PDFs into AI-ready text",
+    "pitch": "MinerU parses PDFs, Word, Excel, and images into clean markdown or JSON for your AI agents. Choose the fast \"flash\" tier for instant snippets, or ramp up to advanced parsing for complex layouts. All via a simple Python CLI."
   }
 ]
