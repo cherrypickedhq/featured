@@ -1246,5 +1246,21 @@
     "slug": "hrbrmstr-hrbrthemes",
     "hook": "Someone built sleek ggplot themes",
     "pitch": "hrbrthemes gives you typography-centric ggplot2 themes that make your visualizations look professional right out of the box. The core theme, theme_ipsum, uses Arial Narrow, a widely available condensed font, so your charts are instantly clean and crisp."
+  },
+  {
+    "repo": "traefik/traefik",
+    "url": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "builder": "Traefik Labs team",
+    "builderUrl": "https://github.com/traefik",
+    "stars": 65571,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/HnUpmGCUIak",
+    "instagram": "https://www.instagram.com/reel/Df9WbMAjXTO/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qc2s5ple2x",
+    "featuredAt": "2026-11-20T09:37:28.234Z",
+    "slug": "traefik-traefik",
+    "hook": "Self-configuring reverse proxy",
+    "pitch": "Traefik watches your orchestrator and creates routes in real time, so you never need to restart when services change. It serves HTTPS automatically with Let’s Encrypt and lets you see traffic in a clean web UI."
   }
 ]
