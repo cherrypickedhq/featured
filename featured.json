@@ -1230,5 +1230,21 @@
     "slug": "apache-superset",
     "hook": "A data playground you can explore.",
     "pitch": "Superset lets you explore data with a no-code UI for building charts and a web-based SQL editor for advanced queries. It adds a lightweight semantic layer and secure role-based access, so you can spin up interactive dashboards fast. 🚀"
+  },
+  {
+    "repo": "hrbrmstr/hrbrthemes",
+    "url": "https://github.com/hrbrmstr/hrbrthemes",
+    "about": ":lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components",
+    "builder": "boB Rudis",
+    "builderUrl": "https://github.com/hrbrmstr",
+    "stars": 1362,
+    "language": "R",
+    "youtube": "https://youtube.com/shorts/e6XQquDkr7Q",
+    "instagram": "https://www.instagram.com/reel/Df80FzJDODK/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2prc4zqfw2a",
+    "featuredAt": "2026-11-20T04:37:27.676Z",
+    "slug": "hrbrmstr-hrbrthemes",
+    "hook": "Someone built sleek ggplot themes",
+    "pitch": "hrbrthemes gives you typography-centric ggplot2 themes that make your visualizations look professional right out of the box. The core theme, theme_ipsum, uses Arial Narrow, a widely available condensed font, so your charts are instantly clean and crisp."
   }
 ]
