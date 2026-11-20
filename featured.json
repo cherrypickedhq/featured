@@ -1262,5 +1262,21 @@
     "slug": "traefik-traefik",
     "hook": "Self-configuring reverse proxy",
     "pitch": "Traefik watches your orchestrator and creates routes in real time, so you never need to restart when services change. It serves HTTPS automatically with Let’s Encrypt and lets you see traffic in a clean web UI."
+  },
+  {
+    "repo": "xataio/xata",
+    "url": "https://github.com/xataio/xata",
+    "about": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+    "builder": "Xata team",
+    "builderUrl": "https://github.com/xataio",
+    "stars": 1161,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/tpfIM-9amjk",
+    "instagram": "https://www.instagram.com/reel/Df94yAbjF9C/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qstp3o322v",
+    "featuredAt": "2026-11-20T14:37:32.062Z",
+    "slug": "xataio-xata",
+    "hook": "Postgres that branches in seconds",
+    "pitch": "Xata lets you spin up full Postgres clones in seconds using copy-on-write branching, even for terabytes of data. It auto-scales and shuts down idle compute, keeping costs low while staying cloud-native on K8s."
   }
 ]

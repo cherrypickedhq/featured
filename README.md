@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (79)
+## Featured (80)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**xataio/xata**](https://github.com/xataio/xata)<br><sub>★ 1.2k · Go</sub> | Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero | [Xata team](https://github.com/xataio) | [Short](https://youtube.com/shorts/tpfIM-9amjk) · [Reel](https://www.instagram.com/reel/Df94yAbjF9C/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qstp3o322v) | 2026-11-20 |
 | [**traefik/traefik**](https://github.com/traefik/traefik)<br><sub>★ 66k · Go</sub> | The Cloud Native Application Proxy | [Traefik Labs team](https://github.com/traefik) | [Short](https://youtube.com/shorts/HnUpmGCUIak) · [Reel](https://www.instagram.com/reel/Df9WbMAjXTO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qc2s5ple2x) | 2026-11-20 |
 | [**hrbrmstr/hrbrthemes**](https://github.com/hrbrmstr/hrbrthemes)<br><sub>★ 1.4k · R</sub> | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | [boB Rudis](https://github.com/hrbrmstr) | [Short](https://youtube.com/shorts/e6XQquDkr7Q) · [Reel](https://www.instagram.com/reel/Df80FzJDODK/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2prc4zqfw2a) | 2026-11-20 |
 | [**apache/superset**](https://github.com/apache/superset)<br><sub>★ 76k · Python</sub> | Apache Superset is a Data Visualization and Data Exploration Platform | [The Apache Software Foundation team](https://github.com/apache) | [Short](https://youtube.com/shorts/kuhEwBkOmX0) · [Reel](https://www.instagram.com/reel/Df7T-wqCqYJ/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2oceksorz22) | 2026-11-19 |
