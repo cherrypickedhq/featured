@@ -1310,5 +1310,21 @@
     "slug": "tnodir-fort",
     "hook": "A Windows firewall that actually works",
     "pitch": "Fort is a standalone firewall for Windows 7+ that runs its own driver, so you don’t need the built-in Windows Firewall. It lets you set per-program upload and download speed limits and even auto-learns unknown apps. Open-source C++ and ready to try."
+  },
+  {
+    "repo": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "about": "A fancy self-hosted monitoring tool",
+    "builder": "Louis Lam",
+    "builderUrl": "https://github.com/louislam",
+    "stars": 94521,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/2bsBIcNj630",
+    "instagram": "https://www.instagram.com/reel/DgAdjlbDWeL/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2tdc7mzn422",
+    "featuredAt": "2026-11-21T14:37:30.074Z",
+    "slug": "louislam-uptime-kuma",
+    "hook": "Self-hosted monitoring made easy",
+    "pitch": "A sleek self-hosted dashboard that checks your services every 20 seconds and shows live charts. It pushes alerts to Telegram, Discord and dozens of other services, all from a JavaScript app."
   }
 ]
