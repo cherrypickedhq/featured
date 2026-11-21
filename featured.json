@@ -1278,5 +1278,21 @@
     "slug": "xataio-xata",
     "hook": "Postgres that branches in seconds",
     "pitch": "Xata lets you spin up full Postgres clones in seconds using copy-on-write branching, even for terabytes of data. It auto-scales and shuts down idle compute, keeping costs low while staying cloud-native on K8s."
+  },
+  {
+    "repo": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "about": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+    "builder": "Tw93",
+    "builderUrl": "https://github.com/tw93",
+    "stars": 63722,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/qOpUn73zYqA",
+    "instagram": "https://www.instagram.com/reel/Df_Y5ThAHOx/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2sbrh6zxn2e",
+    "featuredAt": "2026-11-21T04:37:32.928Z",
+    "slug": "tw93-pake",
+    "hook": "One-command website-to-app converter",
+    "pitch": "Pake lets you package any website into a native-style desktop app for macOS, Windows and Linux with a single CLI call. Installers stay under 10 MB because it uses the Rust-based Tauri runtime instead of bundling a browser."
   }
 ]
