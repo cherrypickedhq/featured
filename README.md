@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (81)
+## Featured (82)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**tnodir/fort**](https://github.com/tnodir/fort)<br><sub>★ 3.7k · C++</sub> | Fort Firewall for Windows | [Nodir Temirkhodjaev](https://github.com/tnodir) | [Short](https://youtube.com/shorts/8y2U-8zBEKo) · [Reel](https://www.instagram.com/reel/Df_7Tp8ArTQ/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2ssl6icat22) | 2026-11-21 |
 | [**tw93/Pake**](https://github.com/tw93/Pake)<br><sub>★ 64k · Rust</sub> | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | [Tw93](https://github.com/tw93) | [Short](https://youtube.com/shorts/qOpUn73zYqA) · [Reel](https://www.instagram.com/reel/Df_Y5ThAHOx/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2sbrh6zxn2e) | 2026-11-21 |
 | [**xataio/xata**](https://github.com/xataio/xata)<br><sub>★ 1.2k · Go</sub> | Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero | [Xata team](https://github.com/xataio) | [Short](https://youtube.com/shorts/tpfIM-9amjk) · [Reel](https://www.instagram.com/reel/Df94yAbjF9C/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qstp3o322v) | 2026-11-20 |
 | [**traefik/traefik**](https://github.com/traefik/traefik)<br><sub>★ 66k · Go</sub> | The Cloud Native Application Proxy | [Traefik Labs team](https://github.com/traefik) | [Short](https://youtube.com/shorts/HnUpmGCUIak) · [Reel](https://www.instagram.com/reel/Df9WbMAjXTO/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2qc2s5ple2x) | 2026-11-20 |
