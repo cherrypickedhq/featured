@@ -1358,5 +1358,21 @@
     "slug": "nocodb-nocodb",
     "hook": "Spreadsheet-style DB, self-hosted.",
     "pitch": "Run NocoDB in a single Docker command and get a spreadsheet-like interface for your data. It offers views, automations and a REST API, all self-hosted."
+  },
+  {
+    "repo": "Javis603/token-monitor",
+    "url": "https://github.com/Javis603/token-monitor",
+    "about": "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 54+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+    "builder": "Javis",
+    "builderUrl": "https://github.com/Javis603",
+    "stars": 3760,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/xPnoM3j3zLU",
+    "instagram": "https://www.instagram.com/reel/DgDCW4_HJ7I/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2vtr6kikj2k",
+    "featuredAt": "2026-11-22T14:37:31.940Z",
+    "slug": "javis603-token-monitor",
+    "hook": "Desktop widget that watches AI tokens",
+    "pitch": "A desktop widget that shows live token usage and limits for 54+ AI coding tools. It syncs across devices and lets you peek at limits from the notch panel or edge dock, all built in JavaScript."
   }
 ]
