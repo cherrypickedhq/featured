@@ -1326,5 +1326,21 @@
     "slug": "louislam-uptime-kuma",
     "hook": "Self-hosted monitoring made easy",
     "pitch": "A sleek self-hosted dashboard that checks your services every 20 seconds and shows live charts. It pushes alerts to Telegram, Discord and dozens of other services, all from a JavaScript app."
+  },
+  {
+    "repo": "rtk-ai/rtk",
+    "url": "https://github.com/rtk-ai/rtk",
+    "about": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "builder": "rtk-ai team",
+    "builderUrl": "https://github.com/rtk-ai",
+    "stars": 86846,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/J0BtAwkapMk",
+    "instagram": "https://www.instagram.com/reel/DgB9sLtgPmv/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2usa66p4j2k",
+    "featuredAt": "2026-11-22T04:37:32.487Z",
+    "slug": "rtk-ai-rtk",
+    "hook": "Slash AI coding token costs fast",
+    "pitch": "AI coding agents burn through context fast on noisy terminal output. rtk is a single Rust binary CLI proxy that cuts token consumption by 60 to 90% across more than 100 dev commands. Run rtk gain to see the exact token savings right on your machine."
   }
 ]

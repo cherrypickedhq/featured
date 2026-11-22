@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (83)
+## Featured (84)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk)<br><sub>★ 87k · Rust</sub> | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | [rtk-ai team](https://github.com/rtk-ai) | [Short](https://youtube.com/shorts/J0BtAwkapMk) · [Reel](https://www.instagram.com/reel/DgB9sLtgPmv/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2usa66p4j2k) | 2026-11-22 |
 | [**louislam/uptime-kuma**](https://github.com/louislam/uptime-kuma)<br><sub>★ 95k · JavaScript</sub> | A fancy self-hosted monitoring tool | [Louis Lam](https://github.com/louislam) | [Short](https://youtube.com/shorts/2bsBIcNj630) · [Reel](https://www.instagram.com/reel/DgAdjlbDWeL/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2tdc7mzn422) | 2026-11-21 |
 | [**tnodir/fort**](https://github.com/tnodir/fort)<br><sub>★ 3.7k · C++</sub> | Fort Firewall for Windows | [Nodir Temirkhodjaev](https://github.com/tnodir) | [Short](https://youtube.com/shorts/8y2U-8zBEKo) · [Reel](https://www.instagram.com/reel/Df_7Tp8ArTQ/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2ssl6icat22) | 2026-11-21 |
 | [**tw93/Pake**](https://github.com/tw93/Pake)<br><sub>★ 64k · Rust</sub> | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | [Tw93](https://github.com/tw93) | [Short](https://youtube.com/shorts/qOpUn73zYqA) · [Reel](https://www.instagram.com/reel/Df_Y5ThAHOx/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2sbrh6zxn2e) | 2026-11-21 |
