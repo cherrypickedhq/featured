@@ -1342,5 +1342,21 @@
     "slug": "rtk-ai-rtk",
     "hook": "Slash AI coding token costs fast",
     "pitch": "AI coding agents burn through context fast on noisy terminal output. rtk is a single Rust binary CLI proxy that cuts token consumption by 60 to 90% across more than 100 dev commands. Run rtk gain to see the exact token savings right on your machine."
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "about": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+    "builder": "nocodb team",
+    "builderUrl": "https://github.com/nocodb",
+    "stars": 65552,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/BYTLSLI-m28",
+    "instagram": "https://www.instagram.com/reel/DgCgBXtguIg/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2vcypsxvr2k",
+    "featuredAt": "2026-11-22T09:37:30.097Z",
+    "slug": "nocodb-nocodb",
+    "hook": "Spreadsheet-style DB, self-hosted.",
+    "pitch": "Run NocoDB in a single Docker command and get a spreadsheet-like interface for your data. It offers views, automations and a REST API, all self-hosted."
   }
 ]
