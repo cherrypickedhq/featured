@@ -1390,5 +1390,21 @@
     "slug": "refined-github-refined-github",
     "hook": "Clean up GitHub with one click",
     "pitch": "Refined-GitHub is a browser extension that tidies up GitHub with shortcuts and visual tweaks. It shows hidden whitespace, adds a branch-swap link in compare view, and lets you edit comments with a single click, making daily browsing faster."
+  },
+  {
+    "repo": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "about": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "builder": "MarkText team",
+    "builderUrl": "https://github.com/marktext",
+    "stars": 64207,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/vB_shlN2my8",
+    "instagram": "https://www.instagram.com/reel/DgFE38KlOqp/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2xtikzv7z25",
+    "featuredAt": "2026-11-23T09:37:35.707Z",
+    "slug": "marktext-marktext",
+    "hook": "Markdown editor with live preview",
+    "pitch": "MarkText lets you write markdown with instant WYSIWYG preview, math rendering and emoji support. Export your docs to HTML or PDF, use focus or typewriter mode, and paste images directly from the clipboard."
   }
 ]
