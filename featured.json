@@ -1406,5 +1406,21 @@
     "slug": "marktext-marktext",
     "hook": "Markdown editor with live preview",
     "pitch": "MarkText lets you write markdown with instant WYSIWYG preview, math rendering and emoji support. Export your docs to HTML or PDF, use focus or typewriter mode, and paste images directly from the clipboard."
+  },
+  {
+    "repo": "bitwarden/clients",
+    "url": "https://github.com/bitwarden/clients",
+    "about": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+    "builder": "Bitwarden team",
+    "builderUrl": "https://github.com/bitwarden",
+    "stars": 14302,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/zJIl6Fi83PA",
+    "instagram": "https://www.instagram.com/reel/DgFnKrlEaG3/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2yeaa4oyr2s",
+    "featuredAt": "2026-11-23T14:37:41.621Z",
+    "slug": "bitwarden-clients",
+    "hook": "All Bitwarden apps, one place",
+    "pitch": "Run web, desktop, browser extensions and CLI from a single open-source repo. The repo bundles every Bitwarden client except mobile, all written in TypeScript, so you can build or tweak any platform you need."
   }
 ]
