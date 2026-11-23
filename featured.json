@@ -1374,5 +1374,21 @@
     "slug": "javis603-token-monitor",
     "hook": "Desktop widget that watches AI tokens",
     "pitch": "A desktop widget that shows live token usage and limits for 54+ AI coding tools. It syncs across devices and lets you peek at limits from the notch panel or edge dock, all built in JavaScript."
+  },
+  {
+    "repo": "refined-github/refined-github",
+    "url": "https://github.com/refined-github/refined-github",
+    "about": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+    "builder": "Refined GitHub team",
+    "builderUrl": "https://github.com/refined-github",
+    "stars": 32531,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/PbqtGJKx3jA",
+    "instagram": "https://www.instagram.com/reel/DgEijOkCg5K/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2xcq2k5tg2v",
+    "featuredAt": "2026-11-23T04:37:33.992Z",
+    "slug": "refined-github-refined-github",
+    "hook": "Clean up GitHub with one click",
+    "pitch": "Refined-GitHub is a browser extension that tidies up GitHub with shortcuts and visual tweaks. It shows hidden whitespace, adds a branch-swap link in compare view, and lets you edit comments with a single click, making daily browsing faster."
   }
 ]

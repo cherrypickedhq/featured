@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (86)
+## Featured (87)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**refined-github/refined-github**](https://github.com/refined-github/refined-github)<br><sub>★ 33k · TypeScript</sub> | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | [Refined GitHub team](https://github.com/refined-github) | [Short](https://youtube.com/shorts/PbqtGJKx3jA) · [Reel](https://www.instagram.com/reel/DgEijOkCg5K/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2xcq2k5tg2v) | 2026-11-23 |
 | [**Javis603/token-monitor**](https://github.com/Javis603/token-monitor)<br><sub>★ 3.8k · JavaScript</sub> | Local-first desktop widget for tracking token usage, costs, limits, and session activity across 54+ AI coding tools—including Claude Code,… | [Javis](https://github.com/Javis603) | [Short](https://youtube.com/shorts/xPnoM3j3zLU) · [Reel](https://www.instagram.com/reel/DgDCW4_HJ7I/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2vtr6kikj2k) | 2026-11-22 |
 | [**nocodb/nocodb**](https://github.com/nocodb/nocodb)<br><sub>★ 66k · TypeScript</sub> | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | [nocodb team](https://github.com/nocodb) | [Short](https://youtube.com/shorts/BYTLSLI-m28) · [Reel](https://www.instagram.com/reel/DgCgBXtguIg/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2vcypsxvr2k) | 2026-11-22 |
 | [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk)<br><sub>★ 87k · Rust</sub> | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | [rtk-ai team](https://github.com/rtk-ai) | [Short](https://youtube.com/shorts/J0BtAwkapMk) · [Reel](https://www.instagram.com/reel/DgB9sLtgPmv/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2usa66p4j2k) | 2026-11-22 |
