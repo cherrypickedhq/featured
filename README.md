@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (89)
+## Featured (90)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**laurent22/joplin**](https://github.com/laurent22/joplin)<br><sub>★ 57k · TypeScript</sub> | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | [Laurent Cozic](https://github.com/laurent22) | [Short](https://youtube.com/shorts/iD79bKuUOzA) · [Reel](https://www.instagram.com/reel/DgHHSWrDPqH/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2zt63ojoi22) | 2026-11-24 |
 | [**bitwarden/clients**](https://github.com/bitwarden/clients)<br><sub>★ 14k · TypeScript</sub> | Bitwarden client apps (web, browser extension, desktop, and cli). | [Bitwarden team](https://github.com/bitwarden) | [Short](https://youtube.com/shorts/zJIl6Fi83PA) · [Reel](https://www.instagram.com/reel/DgFnKrlEaG3/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2yeaa4oyr2s) | 2026-11-23 |
 | [**marktext/marktext**](https://github.com/marktext/marktext)<br><sub>★ 64k · TypeScript</sub> | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | [MarkText team](https://github.com/marktext) | [Short](https://youtube.com/shorts/vB_shlN2my8) · [Reel](https://www.instagram.com/reel/DgFE38KlOqp/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2xtikzv7z25) | 2026-11-23 |
 | [**refined-github/refined-github**](https://github.com/refined-github/refined-github)<br><sub>★ 33k · TypeScript</sub> | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | [Refined GitHub team](https://github.com/refined-github) | [Short](https://youtube.com/shorts/PbqtGJKx3jA) · [Reel](https://www.instagram.com/reel/DgEijOkCg5K/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2xcq2k5tg2v) | 2026-11-23 |

@@ -1422,5 +1422,21 @@
     "slug": "bitwarden-clients",
     "hook": "All Bitwarden apps, one place",
     "pitch": "Run web, desktop, browser extensions and CLI from a single open-source repo. The repo bundles every Bitwarden client except mobile, all written in TypeScript, so you can build or tweak any platform you need."
+  },
+  {
+    "repo": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "about": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+    "builder": "Laurent Cozic",
+    "builderUrl": "https://github.com/laurent22",
+    "stars": 57296,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/iD79bKuUOzA",
+    "instagram": "https://www.instagram.com/reel/DgHHSWrDPqH/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2zt63ojoi22",
+    "featuredAt": "2026-11-24T04:37:35.815Z",
+    "slug": "laurent22-joplin",
+    "hook": "Offline notes, secure sync everywhere",
+    "pitch": "Joplin lets you write Markdown notes offline and keep them safe with end-to-end encrypted sync to services like Dropbox or Nextcloud. Import Evernote exports directly and organize with tags and notebooks."
   }
 ]
