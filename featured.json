@@ -1453,5 +1453,20 @@
     "slug": "eugeny-tabby",
     "hook": "Modern terminal for Windows, Mac, Linux",
     "pitch": "Tabby is a highly configurable terminal emulator that adds VT220 emulation, split panes and a quake-style console. It bundles an SSH client with X forwarding, agent support and jump-host handling, all built in TypeScript."
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "about": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "builder": "Toeverything team",
+    "builderUrl": "https://github.com/toeverything",
+    "stars": 74623,
+    "language": "TypeScript",
+    "instagram": "https://www.instagram.com/reel/DgIMBxJjHjG/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32uqimkpp2i",
+    "featuredAt": "2026-11-24T14:38:55.944Z",
+    "slug": "toeverything-affine",
+    "hook": "Open-source Notion alternative",
+    "pitch": "A privacy-first, open-source workspace that merges notes, docs, tables and whiteboards on a true canvas. It works offline with local-first real-time collaboration and an AI that can turn outlines into slides."
   }
 ]

@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (91)
+## Featured (92)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**toeverything/AFFiNE**](https://github.com/toeverything/AFFiNE)<br><sub>★ 75k · TypeScript</sub> | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating… | [Toeverything team](https://github.com/toeverything) | [Reel](https://www.instagram.com/reel/DgIMBxJjHjG/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32uqimkpp2i) | 2026-11-24 |
 | [**Eugeny/tabby**](https://github.com/Eugeny/tabby)<br><sub>★ 76k · TypeScript</sub> | A terminal for a more modern age | [Eugene](https://github.com/Eugeny) | [Reel](https://www.instagram.com/reel/DgHpnFLGdwt/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32dwgppit2i) | 2026-11-24 |
 | [**laurent22/joplin**](https://github.com/laurent22/joplin)<br><sub>★ 57k · TypeScript</sub> | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | [Laurent Cozic](https://github.com/laurent22) | [Short](https://youtube.com/shorts/iD79bKuUOzA) · [Reel](https://www.instagram.com/reel/DgHHSWrDPqH/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2zt63ojoi22) | 2026-11-24 |
 | [**bitwarden/clients**](https://github.com/bitwarden/clients)<br><sub>★ 14k · TypeScript</sub> | Bitwarden client apps (web, browser extension, desktop, and cli). | [Bitwarden team](https://github.com/bitwarden) | [Short](https://youtube.com/shorts/zJIl6Fi83PA) · [Reel](https://www.instagram.com/reel/DgFnKrlEaG3/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n2yeaa4oyr2s) | 2026-11-23 |
