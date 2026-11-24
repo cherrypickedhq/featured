@@ -1438,5 +1438,20 @@
     "slug": "laurent22-joplin",
     "hook": "Offline notes, secure sync everywhere",
     "pitch": "Joplin lets you write Markdown notes offline and keep them safe with end-to-end encrypted sync to services like Dropbox or Nextcloud. Import Evernote exports directly and organize with tags and notebooks."
+  },
+  {
+    "repo": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "about": "A terminal for a more modern age",
+    "builder": "Eugene",
+    "builderUrl": "https://github.com/Eugeny",
+    "stars": 75507,
+    "language": "TypeScript",
+    "instagram": "https://www.instagram.com/reel/DgHpnFLGdwt/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32dwgppit2i",
+    "featuredAt": "2026-11-24T09:38:11.453Z",
+    "slug": "eugeny-tabby",
+    "hook": "Modern terminal for Windows, Mac, Linux",
+    "pitch": "Tabby is a highly configurable terminal emulator that adds VT220 emulation, split panes and a quake-style console. It bundles an SSH client with X forwarding, agent support and jump-host handling, all built in TypeScript."
   }
 ]
