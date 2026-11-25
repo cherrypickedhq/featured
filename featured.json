@@ -1486,5 +1486,21 @@
     "slug": "hoppscotch-hoppscotch",
     "hook": "Fast API testing, no Postman needed",
     "pitch": "A lightweight, open-source API tool that lets you send GET, POST, PUT, DELETE and more with real-time responses. Theming lets you match any brand, and it runs in browser, desktop or CLI."
+  },
+  {
+    "repo": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "about": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+    "builder": "Huginn team",
+    "builderUrl": "https://github.com/huginn",
+    "stars": 50570,
+    "language": "Ruby",
+    "youtube": "https://youtube.com/shorts/T3vIRZ4pSvs",
+    "instagram": "https://www.instagram.com/reel/DgKOgjKPOmw/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n34uhyu46x2r",
+    "featuredAt": "2026-11-25T09:37:36.225Z",
+    "slug": "huginn-huginn",
+    "hook": "Your own personal IFTTT, self-hosted.",
+    "pitch": "Build agents that scrape sites, watch RSS or MQTT, and fire emails or Slack messages—all on your own server. Get started in seconds with the official Docker image."
   }
 ]

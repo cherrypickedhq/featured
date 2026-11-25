@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (93)
+## Featured (94)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**huginn/huginn**](https://github.com/huginn/huginn)<br><sub>★ 51k · Ruby</sub> | Create agents that monitor and act on your behalf. Your agents are standing by! | [Huginn team](https://github.com/huginn) | [Short](https://youtube.com/shorts/T3vIRZ4pSvs) · [Reel](https://www.instagram.com/reel/DgKOgjKPOmw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n34uhyu46x2r) | 2026-11-25 |
 | [**hoppscotch/hoppscotch**](https://github.com/hoppscotch/hoppscotch)<br><sub>★ 81k · TypeScript</sub> | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to… | [Hoppscotch team](https://github.com/hoppscotch) | [Short](https://youtube.com/shorts/oCVzHvEsqqE) · [Reel](https://www.instagram.com/reel/DgJsFdiKrWX/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n34dn6e3kj22) | 2026-11-25 |
 | [**toeverything/AFFiNE**](https://github.com/toeverything/AFFiNE)<br><sub>★ 75k · TypeScript</sub> | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating… | [Toeverything team](https://github.com/toeverything) | [Short](https://youtube.com/shorts/FG9Y7zAK26U) · [Reel](https://www.instagram.com/reel/DgIMBxJjHjG/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32uqimkpp2i) | 2026-11-24 |
 | [**Eugeny/tabby**](https://github.com/Eugeny/tabby)<br><sub>★ 76k · TypeScript</sub> | A terminal for a more modern age | [Eugene](https://github.com/Eugeny) | [Short](https://youtube.com/shorts/ag2Bqoeh0u0) · [Reel](https://www.instagram.com/reel/DgHpnFLGdwt/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n32dwgppit2i) | 2026-11-24 |
