@@ -1502,5 +1502,21 @@
     "slug": "huginn-huginn",
     "hook": "Your own personal IFTTT, self-hosted.",
     "pitch": "Build agents that scrape sites, watch RSS or MQTT, and fire emails or Slack messages—all on your own server. Get started in seconds with the official Docker image."
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "about": "A cross-platform, OpenGL terminal emulator.",
+    "builder": "Alacritty team",
+    "builderUrl": "https://github.com/alacritty",
+    "stars": 66209,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/5D30MU2S_AM",
+    "instagram": "https://www.instagram.com/reel/DgKwwOXBG6L/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n35f6d6c4k2w",
+    "featuredAt": "2026-11-25T14:37:39.076Z",
+    "slug": "alacritty-alacritty",
+    "hook": "GPU-fast terminal for any OS",
+    "pitch": "Alacritty is a fast, cross-platform terminal emulator that uses OpenGL for GPU-accelerated rendering. It runs on BSD, Linux, macOS and Windows and is already beta-ready for daily use, making your shell sessions feel snappy."
   }
 ]
