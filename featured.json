@@ -1470,5 +1470,21 @@
     "slug": "toeverything-affine",
     "hook": "Open-source Notion alternative",
     "pitch": "A privacy-first, open-source workspace that merges notes, docs, tables and whiteboards on a true canvas. It works offline with local-first real-time collaboration and an AI that can turn outlines into slides."
+  },
+  {
+    "repo": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "about": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+    "builder": "Hoppscotch team",
+    "builderUrl": "https://github.com/hoppscotch",
+    "stars": 80867,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/oCVzHvEsqqE",
+    "instagram": "https://www.instagram.com/reel/DgJsFdiKrWX/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n34dn6e3kj22",
+    "featuredAt": "2026-11-25T04:37:26.479Z",
+    "slug": "hoppscotch-hoppscotch",
+    "hook": "Fast API testing, no Postman needed",
+    "pitch": "A lightweight, open-source API tool that lets you send GET, POST, PUT, DELETE and more with real-time responses. Theming lets you match any brand, and it runs in browser, desktop or CLI."
   }
 ]
