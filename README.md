@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (96)
+## Featured (97)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**pimalaya/himalaya**](https://github.com/pimalaya/himalaya)<br><sub>★ 7.7k · Rust</sub> | CLI to manage emails | [Pimalaya team](https://github.com/pimalaya) | [Short](https://youtube.com/shorts/Z_OD3zFFoDw) · [Reel](https://www.instagram.com/reel/DgMzNMjvFt-/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n37eubmtyl2b) | 2026-11-26 |
 | [**vastsa/PI-Desktop**](https://github.com/vastsa/PI-Desktop)<br><sub>★ 8.1k · TypeScript</sub> | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins | [Lan](https://github.com/vastsa) | [Short](https://youtube.com/shorts/xFFdyDqjAEo) · [Reel](https://www.instagram.com/reel/DgMQ5UgO_Ah/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n36u4agwo422) | 2026-11-26 |
 | [**alacritty/alacritty**](https://github.com/alacritty/alacritty)<br><sub>★ 66k · Rust</sub> | A cross-platform, OpenGL terminal emulator. | [Alacritty team](https://github.com/alacritty) | [Short](https://youtube.com/shorts/5D30MU2S_AM) · [Reel](https://www.instagram.com/reel/DgKwwOXBG6L/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n35f6d6c4k2w) | 2026-11-25 |
 | [**huginn/huginn**](https://github.com/huginn/huginn)<br><sub>★ 51k · Ruby</sub> | Create agents that monitor and act on your behalf. Your agents are standing by! | [Huginn team](https://github.com/huginn) | [Short](https://youtube.com/shorts/T3vIRZ4pSvs) · [Reel](https://www.instagram.com/reel/DgKOgjKPOmw/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n34uhyu46x2r) | 2026-11-25 |

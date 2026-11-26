@@ -1534,5 +1534,21 @@
     "slug": "vastsa-pi-desktop",
     "hook": "Desktop AI that stays local",
     "pitch": "A local-first AI coding assistant that runs as a standalone desktop app. It uses a Session Orchestrator to run parallel workers and plugins to add panels, widgets and services, keeping your workflow IDE-free."
+  },
+  {
+    "repo": "pimalaya/himalaya",
+    "url": "https://github.com/pimalaya/himalaya",
+    "about": "CLI to manage emails",
+    "builder": "Pimalaya team",
+    "builderUrl": "https://github.com/pimalaya",
+    "stars": 7683,
+    "language": "Rust",
+    "youtube": "https://youtube.com/shorts/Z_OD3zFFoDw",
+    "instagram": "https://www.instagram.com/reel/DgMzNMjvFt-/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n37eubmtyl2b",
+    "featuredAt": "2026-11-26T09:37:34.528Z",
+    "slug": "pimalaya-himalaya",
+    "hook": "A terminal email client that works.",
+    "pitch": "A fast Rust-based CLI lets you read, send, and organize mail right from your terminal. Its unified API handles mailboxes, messages, and filters with a single command, so you can script everything easily. 📧"
   }
 ]
