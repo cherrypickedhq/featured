@@ -1550,5 +1550,21 @@
     "slug": "pimalaya-himalaya",
     "hook": "A terminal email client that works.",
     "pitch": "A fast Rust-based CLI lets you read, send, and organize mail right from your terminal. Its unified API handles mailboxes, messages, and filters with a single command, so you can script everything easily. 📧"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "builder": "Gitea team",
+    "builderUrl": "https://github.com/go-gitea",
+    "stars": 59148,
+    "language": "Go",
+    "youtube": "https://youtube.com/shorts/NyQhH2I919c",
+    "instagram": "https://www.instagram.com/reel/DgNViKvPBfc/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n37vmx44jf2v",
+    "featuredAt": "2026-11-26T14:37:32.147Z",
+    "slug": "go-gitea-gitea",
+    "hook": "Your own GitHub, on your server",
+    "pitch": "Gitea gives you a painless, all-in-one self-hosted Git service with code review, CI/CD and package registries. It runs everywhere Go does, so you can spin it up on Linux, Windows or macOS in minutes."
   }
 ]
