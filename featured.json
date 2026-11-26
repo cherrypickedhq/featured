@@ -1518,5 +1518,21 @@
     "slug": "alacritty-alacritty",
     "hook": "GPU-fast terminal for any OS",
     "pitch": "Alacritty is a fast, cross-platform terminal emulator that uses OpenGL for GPU-accelerated rendering. It runs on BSD, Linux, macOS and Windows and is already beta-ready for daily use, making your shell sessions feel snappy."
+  },
+  {
+    "repo": "vastsa/PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "about": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "builder": "Lan",
+    "builderUrl": "https://github.com/vastsa",
+    "stars": 8116,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/xFFdyDqjAEo",
+    "instagram": "https://www.instagram.com/reel/DgMQ5UgO_Ah/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n36u4agwo422",
+    "featuredAt": "2026-11-26T04:37:26.393Z",
+    "slug": "vastsa-pi-desktop",
+    "hook": "Desktop AI that stays local",
+    "pitch": "A local-first AI coding assistant that runs as a standalone desktop app. It uses a Session Orchestrator to run parallel workers and plugins to add panels, widgets and services, keeping your workflow IDE-free."
   }
 ]
