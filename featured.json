@@ -1566,5 +1566,21 @@
     "slug": "go-gitea-gitea",
     "hook": "Your own GitHub, on your server",
     "pitch": "Gitea gives you a painless, all-in-one self-hosted Git service with code review, CI/CD and package registries. It runs everywhere Go does, so you can spin it up on Linux, Windows or macOS in minutes."
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "builder": "LazyVim team",
+    "builderUrl": "https://github.com/LazyVim",
+    "stars": 27883,
+    "language": "Lua",
+    "youtube": "https://youtube.com/shorts/1oxzVCM_QUg",
+    "instagram": "https://www.instagram.com/reel/DgO1pyvB5Ub/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bekolp3h2o",
+    "featuredAt": "2026-11-27T04:37:27.302Z",
+    "slug": "lazyvim-lazyvim",
+    "hook": "Full coding studio inside Neovim",
+    "pitch": "LazyVim gives you a full IDE-like setup in Neovim right out of the box. It ships with sane defaults, a wealth of pre-configured plugins, and runs blazingly fast thanks to lazy.nvim. Just clone the starter and start coding."
   }
 ]

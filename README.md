@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (98)
+## Featured (99)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**LazyVim/LazyVim**](https://github.com/LazyVim/LazyVim)<br><sub>★ 28k · Lua</sub> | Neovim config for the lazy | [LazyVim team](https://github.com/LazyVim) | [Short](https://youtube.com/shorts/1oxzVCM_QUg) · [Reel](https://www.instagram.com/reel/DgO1pyvB5Ub/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bekolp3h2o) | 2026-11-27 |
 | [**go-gitea/gitea**](https://github.com/go-gitea/gitea)<br><sub>★ 59k · Go</sub> | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration… | [Gitea team](https://github.com/go-gitea) | [Short](https://youtube.com/shorts/NyQhH2I919c) · [Reel](https://www.instagram.com/reel/DgNViKvPBfc/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n37vmx44jf2v) | 2026-11-26 |
 | [**pimalaya/himalaya**](https://github.com/pimalaya/himalaya)<br><sub>★ 7.7k · Rust</sub> | CLI to manage emails | [Pimalaya team](https://github.com/pimalaya) | [Short](https://youtube.com/shorts/Z_OD3zFFoDw) · [Reel](https://www.instagram.com/reel/DgMzNMjvFt-/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n37eubmtyl2b) | 2026-11-26 |
 | [**vastsa/PI-Desktop**](https://github.com/vastsa/PI-Desktop)<br><sub>★ 8.1k · TypeScript</sub> | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins | [Lan](https://github.com/vastsa) | [Short](https://youtube.com/shorts/xFFdyDqjAEo) · [Reel](https://www.instagram.com/reel/DgMQ5UgO_Ah/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n36u4agwo422) | 2026-11-26 |
