@@ -1582,5 +1582,21 @@
     "slug": "lazyvim-lazyvim",
     "hook": "Full coding studio inside Neovim",
     "pitch": "LazyVim gives you a full IDE-like setup in Neovim right out of the box. It ships with sane defaults, a wealth of pre-configured plugins, and runs blazingly fast thanks to lazy.nvim. Just clone the starter and start coding."
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "about": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "builder": "mermaid-js team",
+    "builderUrl": "https://github.com/mermaid-js",
+    "stars": 91147,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/i24hos5SqU0",
+    "instagram": "https://www.instagram.com/reel/DgPX_qmODH5/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bvdbmxg72j",
+    "featuredAt": "2026-11-27T09:37:31.085Z",
+    "slug": "mermaid-js-mermaid",
+    "hook": "Draw code diagrams without leaving text",
+    "pitch": "Turn text into flowcharts, sequence charts, mind maps and more—no drag-and-drop needed. With a live editor you see changes instantly, and it supports over twenty diagram types, all from simple Markdown-style syntax."
   }
 ]
