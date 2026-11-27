@@ -1598,5 +1598,21 @@
     "slug": "mermaid-js-mermaid",
     "hook": "Draw code diagrams without leaving text",
     "pitch": "Turn text into flowcharts, sequence charts, mind maps and more—no drag-and-drop needed. With a live editor you see changes instantly, and it supports over twenty diagram types, all from simple Markdown-style syntax."
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "about": "Write HTML. Render video. Built for agents.",
+    "builder": "HeyGen team",
+    "builderUrl": "https://github.com/heygen-com",
+    "stars": 85490,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/KcQHAzYqfkc",
+    "instagram": "https://www.instagram.com/reel/DgP6VCzzlJ2/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3cg4bmumy2j",
+    "featuredAt": "2026-11-27T14:37:32.547Z",
+    "slug": "heygen-com-hyperframes",
+    "hook": "Nvidia lost five hundred billion",
+    "pitch": "Turn HTML, CSS, and web animations into deterministic MP4 videos using a free open-source framework. Built for AI coding agents to write code and render media easily."
   }
 ]
