@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (101)
+## Featured (102)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**ulsklyc/yuvomi**](https://github.com/ulsklyc/yuvomi)<br><sub>★ 2.4k · JavaScript</sub> | One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more i… | [Ulaş Kalaycı](https://github.com/ulsklyc) | [Short](https://youtube.com/shorts/xRnKfkIoZvk) · [Reel](https://www.instagram.com/reel/DgRaePYyjoF/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3duzorxre2u) | 2026-11-28 |
 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes)<br><sub>★ 85k · TypeScript</sub> | Write HTML. Render video. Built for agents. | [HeyGen team](https://github.com/heygen-com) | [Short](https://youtube.com/shorts/KcQHAzYqfkc) · [Reel](https://www.instagram.com/reel/DgP6VCzzlJ2/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3cg4bmumy2j) | 2026-11-27 |
 | [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid)<br><sub>★ 91k · TypeScript</sub> | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | [mermaid-js team](https://github.com/mermaid-js) | [Short](https://youtube.com/shorts/i24hos5SqU0) · [Reel](https://www.instagram.com/reel/DgPX_qmODH5/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bvdbmxg72j) | 2026-11-27 |
 | [**LazyVim/LazyVim**](https://github.com/LazyVim/LazyVim)<br><sub>★ 28k · Lua</sub> | Neovim config for the lazy | [LazyVim team](https://github.com/LazyVim) | [Short](https://youtube.com/shorts/1oxzVCM_QUg) · [Reel](https://www.instagram.com/reel/DgO1pyvB5Ub/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bekolp3h2o) | 2026-11-27 |

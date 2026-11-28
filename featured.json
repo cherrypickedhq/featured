@@ -1614,5 +1614,21 @@
     "slug": "heygen-com-hyperframes",
     "hook": "Nvidia lost five hundred billion",
     "pitch": "Turn HTML, CSS, and web animations into deterministic MP4 videos using a free open-source framework. Built for AI coding agents to write code and render media easily."
+  },
+  {
+    "repo": "ulsklyc/yuvomi",
+    "url": "https://github.com/ulsklyc/yuvomi",
+    "about": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT.",
+    "builder": "Ulaş Kalaycı",
+    "builderUrl": "https://github.com/ulsklyc",
+    "stars": 2367,
+    "language": "JavaScript",
+    "youtube": "https://youtube.com/shorts/xRnKfkIoZvk",
+    "instagram": "https://www.instagram.com/reel/DgRaePYyjoF/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3duzorxre2u",
+    "featuredAt": "2026-11-28T04:37:31.079Z",
+    "slug": "ulsklyc-yuvomi",
+    "hook": "One home for your family, no monthly fees",
+    "pitch": "Swap dozens of subscription apps for a single self-hosted planner. One import turns your weekly meals into a ready-to-shop list, and chores earn points you can spend on rewards. All on a PWA you control."
   }
 ]
