@@ -1646,5 +1646,21 @@
     "slug": "nexu-io-open-design",
     "hook": "Your cloud bill fuels a superyacht",
     "pitch": "Build web, desktop, and mobile prototypes with your team and AI agents in a local-first workspace. Inspect design systems, create motion graphics, and iterate together using your favorite coding agents."
+  },
+  {
+    "repo": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "about": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "builder": "morluto",
+    "builderUrl": "https://github.com/morluto",
+    "stars": 465020,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/hVAkDx6iXds",
+    "instagram": "https://www.instagram.com/reel/DgSfOj8h7PX/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3ewlyqm3h2b",
+    "featuredAt": "2026-11-28T14:37:34.114Z",
+    "slug": "morluto-rea",
+    "hook": "Reverse engineer any app or binary",
+    "pitch": "Turn a binary or app into readable insight fast. Use the CLI to analyze a JavaScript/Electron directory or feed native binaries to GNU objdump or Rizin, all powered by AI agents."
   }
 ]
