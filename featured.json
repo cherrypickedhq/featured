@@ -1630,5 +1630,21 @@
     "slug": "ulsklyc-yuvomi",
     "hook": "One home for your family, no monthly fees",
     "pitch": "Swap dozens of subscription apps for a single self-hosted planner. One import turns your weekly meals into a ready-to-shop list, and chores earn points you can spend on rewards. All on a PWA you control."
+  },
+  {
+    "repo": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "about": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+    "builder": "OpenDesign team",
+    "builderUrl": "https://github.com/nexu-io",
+    "stars": 108740,
+    "language": "TypeScript",
+    "youtube": "https://youtube.com/shorts/Pwf9fyByoUE",
+    "instagram": "https://www.instagram.com/reel/DgR8ydoBvYC/",
+    "bluesky": "https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3efsnsc5r23",
+    "featuredAt": "2026-11-28T09:37:30.947Z",
+    "slug": "nexu-io-open-design",
+    "hook": "Your cloud bill fuels a superyacht",
+    "pitch": "Build web, desktop, and mobile prototypes with your team and AI agents in a local-first workspace. Inspect design systems, create motion graphics, and iterate together using your favorite coding agents."
   }
 ]

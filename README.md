@@ -7,10 +7,11 @@ Browse them all on **[the website](https://cherrypickedhq.github.io/featured)**.
 
 **[💡 Suggest a repo →](https://github.com/cherrypickedhq/featured/issues/new?template=suggest-a-repo.yml)** Built something great, or found something that deserves more eyes? Tell us.
 
-## Featured (102)
+## Featured (103)
 
 | Repo | What it is | Built by | Watch | Featured |
 |---|---|---|---|---|
+| [**nexu-io/open-design**](https://github.com/nexu-io/open-design)<br><sub>★ 109k · TypeScript</sub> | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presen… | [OpenDesign team](https://github.com/nexu-io) | [Short](https://youtube.com/shorts/Pwf9fyByoUE) · [Reel](https://www.instagram.com/reel/DgR8ydoBvYC/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3efsnsc5r23) | 2026-11-28 |
 | [**ulsklyc/yuvomi**](https://github.com/ulsklyc/yuvomi)<br><sub>★ 2.4k · JavaScript</sub> | One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more i… | [Ulaş Kalaycı](https://github.com/ulsklyc) | [Short](https://youtube.com/shorts/xRnKfkIoZvk) · [Reel](https://www.instagram.com/reel/DgRaePYyjoF/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3duzorxre2u) | 2026-11-28 |
 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes)<br><sub>★ 85k · TypeScript</sub> | Write HTML. Render video. Built for agents. | [HeyGen team](https://github.com/heygen-com) | [Short](https://youtube.com/shorts/KcQHAzYqfkc) · [Reel](https://www.instagram.com/reel/DgP6VCzzlJ2/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3cg4bmumy2j) | 2026-11-27 |
 | [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid)<br><sub>★ 91k · TypeScript</sub> | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | [mermaid-js team](https://github.com/mermaid-js) | [Short](https://youtube.com/shorts/i24hos5SqU0) · [Reel](https://www.instagram.com/reel/DgPX_qmODH5/) · [Bluesky](https://bsky.app/profile/cherrypickedhq.bsky.social/post/3n3bvdbmxg72j) | 2026-11-27 |
